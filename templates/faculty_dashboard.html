@@ -1,0 +1,177 @@
+{% extends 'base.html' %}
+{% block title %}Faculty Dashboard{% endblock %}
+{% block container_class %}dashboard-container{% endblock %}
+
+{% block extra_css %}
+<style>
+    .student-img {
+        width: 50px;
+        height: 50px;
+        border-radius: 50%;
+        object-fit: cover;
+        border: 2px solid var(--glass-border);
+    }
+</style>
+{% endblock %}
+
+{% block content %}
+<!-- Minimalist Light Header -->
+<div class="dash-header">
+    <div>
+        <h1 class="text-gradient">Faculty Hub</h1>
+        <p>Manage your sessions and verify your explorers.</p>
+    </div>
+    <div class="d-flex align-items-center gap-3">
+        <div class="text-end d-none d-sm-block">
+            <div class="fw-bold">{{ datetime.now().strftime('%B %d, %Y') if datetime else 'Today' }}</div>
+            <div class="text-muted smaller">Active Session Control</div>
+        </div>
+        <a href="/logout" class="btn btn-zen btn-secondary btn-sm">
+            <i class="fa fa-power-off me-2"></i> Sign Out
+        </a>
+    </div>
+</div>
+
+<div class="row g-4">
+    <!-- Session Starter Widget -->
+    <div class="col-lg-4">
+        <div class="glass-card h-100">
+            <div class="mb-4">
+                <div class="d-flex align-items-center mb-2">
+                    <i class="fa fa-camera-retro text-gradient me-2 fa-lg"></i>
+                    <h4 class="mb-0">Start Session</h4>
+                </div>
+                <p class="text-muted small">Select the explorer group to begin AI verification.</p>
+            </div>
+            
+            <form action="/start_attendance" method="POST">
+                <div class="mb-3">
+                    <label class="label-caps">Course Group</label>
+                    <select name="target_class" class="form-select" required style="border-radius: 12px; background: rgba(15, 23, 42, 0.5); border-color: rgba(255,255,255,0.1); color: #fff; padding: 0.85rem 1.25rem;">
+                        <option value="" disabled selected>Select class...</option>
+                        {% for cls in unique_classes %}
+                        <option value="{{ cls }}">{{ cls }}</option>
+                        {% endfor %}
+                    </select>
+                </div>
+
+                <div class="mb-4">
+                    <label class="label-caps">Subject Area</label>
+                    <select name="subject_name" id="subjectSelect" onchange="toggleCustomSubject()" 
+                            class="form-select" required style="border-radius: 12px; background: rgba(15, 23, 42, 0.5); border-color: rgba(255,255,255,0.1); color: #fff; padding: 0.85rem 1.25rem;">
+                        <option value="" disabled selected>Select subject...</option>
+                        {% for sub in all_subjects %}
+                        <option value="{{ sub }}">{{ sub }}</option>
+                        {% endfor %}
+                        <option value="OTHER">Other...</option>
+                    </select>
+                </div>
+
+                <div class="mb-4 d-none" id="customSubjectDiv">
+                    <input type="text" name="custom_subject_name" id="customSubjectInput" 
+                           placeholder="Type subject name..."
+                           class="form-control" style="background: rgba(15, 23, 42, 0.5); border-color: var(--brand-primary); color: #fff;">
+                </div>
+
+                <button class="btn btn-zen w-100 py-3 shadow-lg">
+                    Initiate Session Scan
+                </button>
+            </form>
+        </div>
+    </div>
+
+    <!-- Student Activity Feed -->
+    <div class="col-lg-8">
+        <div class="glass-card h-100">
+            <div class="d-flex flex-column flex-sm-row justify-content-between align-items-sm-center mb-4 gap-3">
+                <h4 class="mb-0">Session Journal</h4>
+                <div class="d-flex gap-2">
+                    <form method="GET" class="d-flex gap-2 flex-grow-1">
+                        <input type="text" name="search" class="form-control form-control-sm" 
+                               style="min-width: 120px; background: #fff; border-color: #e2e8f0; color: var(--text-main);" placeholder="Find..." value="{{ current_search }}">
+                        <button type="submit" class="btn btn-zen btn-secondary btn-sm">Search</button>
+                    </form>
+                    <a href="{{ url_for('export_attendance', search=current_search, class_name=current_class, period=current_period) }}" 
+                       class="btn btn-zen btn-secondary btn-sm">
+                        <i class="fa fa-download me-1"></i> CSV
+                    </a>
+                </div>
+            </div>
+
+            <div class="table-container">
+                <table class="table align-middle">
+                    <thead>
+                        <tr>
+                            <th>Student Explorer</th>
+                            <th>Class / Group</th>
+                            <th>Reliability</th>
+                            <th class="text-center">Present</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        {% for student in students %}
+                        <tr>
+                            <td>
+                                <div class="d-flex align-items-center">
+                                    {% if student.image %}
+                                    <img src="{{ url_for('static', filename='uploads/' + student.image) }}"
+                                        class="rounded-circle border border-slate-200 shadow-sm" height="42" width="42" style="object-fit:cover;">
+                                    {% else %}
+                                    <div class="bg-slate-50 rounded-circle d-flex align-items-center justify-content-center border border-slate-200" style="width: 42px; height: 42px;">
+                                        <i class="fa fa-user text-muted small"></i>
+                                    </div>
+                                    {% endif %}
+                                    <div class="ms-3">
+                                        <div class="fw-bold">{{ student.name }}</div>
+                                        <div class="text-muted smaller" style="font-size: 0.75rem;">{{ student.email }}</div>
+                                    </div>
+                                </div>
+                            </td>
+                            <td>
+                                <div class="fw-bold">{{ student.class_name or 'N/A' }}</div>
+                                <div class="text-muted smaller">#{{ student.roll_number or 'N/A' }}</div>
+                            </td>
+                            <td style="min-width: 150px;">
+                                {% if student.total_classes and student.present_count %}
+                                {% set percentage = (student.present_count / student.total_classes) * 100 %}
+                                {% else %}
+                                {% set percentage = 0 %}
+                                {% endif %}
+                                <div class="d-flex align-items-center gap-2">
+                                    <div class="progress flex-grow-1 shadow-sm" style="height: 6px; background: #f1f5f9; border-radius: 10px;">
+                                        <div class="progress-bar {% if percentage >= 75 %}bg-success{% elif percentage >= 50 %}bg-warning{% else %}bg-danger{% endif %}"
+                                            role="progressbar" style="width: {{ percentage | int }}%; border-radius: 10px;"></div>
+                                    </div>
+                                    <span class="fw-bold smaller" style="min-width: 35px;">{{ percentage | int }}%</span>
+                                </div>
+                            </td>
+                            <td class="text-center">
+                                <span class="pill pill-success">{{ student.present_count or 0 }}</span>
+                            </td>
+                        </tr>
+                        {% endfor %}
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+</div>
+{% endblock %}
+
+{% block extra_js %}
+<script>
+function toggleCustomSubject() {
+    const select = document.getElementById('subjectSelect');
+    const customDiv = document.getElementById('customSubjectDiv');
+    const customInput = document.getElementById('customSubjectInput');
+    
+    if (select.value === 'OTHER') {
+        customDiv.classList.remove('d-none');
+        customInput.setAttribute('required', 'required');
+    } else {
+        customDiv.classList.add('d-none');
+        customInput.removeAttribute('required');
+    }
+}
+</script>
+{% endblock %}

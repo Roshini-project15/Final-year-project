@@ -1,0 +1,1325 @@
+2026-03-29 13:11:49,554 -  * Debugger is active!
+2026-03-29 13:11:49,563 -  * Debugger PIN: 136-706-834
+2026-03-29 13:12:50,750 - 127.0.0.1 - - [29/Mar/2026 13:12:50] "[32mGET /logout HTTP/1.1[0m" 302 -
+2026-03-29 13:12:50,761 - 127.0.0.1 - - [29/Mar/2026 13:12:50] "GET / HTTP/1.1" 200 -
+2026-03-29 13:12:56,854 - 127.0.0.1 - - [29/Mar/2026 13:12:56] "POST /login HTTP/1.1" 200 -
+2026-03-29 13:13:04,113 - 127.0.0.1 - - [29/Mar/2026 13:13:04] "[32mPOST /login HTTP/1.1[0m" 302 -
+2026-03-29 13:13:04,131 - 127.0.0.1 - - [29/Mar/2026 13:13:04] "GET /faculty_dashboard HTTP/1.1" 200 -
+2026-03-29 13:13:04,420 - 127.0.0.1 - - [29/Mar/2026 13:13:04] "[36mGET /static/uploads/WhatsApp%20Image%202025-11-13%20at%2012.48.04%20PM.jpeg HTTP/1.1[0m" 304 -
+2026-03-29 13:13:29,551 - Camera opened for attendance. Subject: Computer Science, Faculty ID: 3
+2026-03-29 13:15:48,207 - Camera closed.
+2026-03-29 13:15:48,215 - 127.0.0.1 - - [29/Mar/2026 13:15:48] "POST /start_attendance HTTP/1.1" 200 -
+2026-03-29 13:15:50,230 - 127.0.0.1 - - [29/Mar/2026 13:15:50] "GET /faculty_dashboard HTTP/1.1" 200 -
+2026-03-29 13:15:50,267 - 127.0.0.1 - - [29/Mar/2026 13:15:50] "[36mGET /static/uploads/WhatsApp%20Image%202025-11-13%20at%2012.48.04%20PM.jpeg HTTP/1.1[0m" 304 -
+2026-03-29 13:17:34,148 - 127.0.0.1 - - [29/Mar/2026 13:17:34] "[32mGET /logout HTTP/1.1[0m" 302 -
+2026-03-29 13:17:34,155 - 127.0.0.1 - - [29/Mar/2026 13:17:34] "GET / HTTP/1.1" 200 -
+2026-03-29 13:21:21,411 -  * Detected change in 'D:\\AutoSystem_updated\\AutoSystem\\app.py', reloading
+2026-03-29 13:21:32,250 -  * Debugger is active!
+2026-03-29 13:21:32,260 -  * Debugger PIN: 136-706-834
+2026-03-29 13:21:32,283 - 127.0.0.1 - - [29/Mar/2026 13:21:32] "GET / HTTP/1.1" 200 -
+2026-03-29 13:21:32,288 - 127.0.0.1 - - [29/Mar/2026 13:21:32] "GET /register HTTP/1.1" 200 -
+2026-03-29 13:22:17,666 - 127.0.0.1 - - [29/Mar/2026 13:22:17] "GET / HTTP/1.1" 200 -
+2026-03-29 13:22:25,787 - 127.0.0.1 - - [29/Mar/2026 13:22:25] "GET /register HTTP/1.1" 200 -
+2026-03-29 13:22:40,122 - 127.0.0.1 - - [29/Mar/2026 13:22:40] "GET / HTTP/1.1" 200 -
+2026-03-29 13:23:06,433 - 127.0.0.1 - - [29/Mar/2026 13:23:06] "GET / HTTP/1.1" 200 -
+2026-03-29 13:23:06,808 - 127.0.0.1 - - [29/Mar/2026 13:23:06] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-03-29 13:23:25,093 - 127.0.0.1 - - [29/Mar/2026 13:23:25] "[32mPOST /login HTTP/1.1[0m" 302 -
+2026-03-29 13:23:25,104 - 127.0.0.1 - - [29/Mar/2026 13:23:25] "GET / HTTP/1.1" 200 -
+2026-03-29 13:24:01,952 - 127.0.0.1 - - [29/Mar/2026 13:24:01] "[32mPOST /login HTTP/1.1[0m" 302 -
+2026-03-29 13:24:01,961 - 127.0.0.1 - - [29/Mar/2026 13:24:01] "GET / HTTP/1.1" 200 -
+2026-03-29 13:25:02,286 - 127.0.0.1 - - [29/Mar/2026 13:25:02] "[32mPOST /login HTTP/1.1[0m" 302 -
+2026-03-29 13:25:02,310 - 127.0.0.1 - - [29/Mar/2026 13:25:02] "GET /faculty_dashboard HTTP/1.1" 200 -
+2026-03-29 13:25:02,926 - 127.0.0.1 - - [29/Mar/2026 13:25:02] "[36mGET /static/uploads/WhatsApp%20Image%202025-11-13%20at%2012.48.04%20PM.jpeg HTTP/1.1[0m" 304 -
+2026-03-29 13:25:16,964 - 127.0.0.1 - - [29/Mar/2026 13:25:16] "[32mGET /logout HTTP/1.1[0m" 302 -
+2026-03-29 13:25:16,973 - 127.0.0.1 - - [29/Mar/2026 13:25:16] "GET / HTTP/1.1" 200 -
+2026-03-29 13:25:21,183 - 127.0.0.1 - - [29/Mar/2026 13:25:21] "[32mPOST /login HTTP/1.1[0m" 302 -
+2026-03-29 13:25:21,203 - 127.0.0.1 - - [29/Mar/2026 13:25:21] "GET /student_dashboard HTTP/1.1" 200 -
+2026-03-29 13:25:27,653 - 127.0.0.1 - - [29/Mar/2026 13:25:27] "[32mGET /logout HTTP/1.1[0m" 302 -
+2026-03-29 13:25:27,659 - 127.0.0.1 - - [29/Mar/2026 13:25:27] "GET / HTTP/1.1" 200 -
+2026-03-29 13:25:32,962 - 127.0.0.1 - - [29/Mar/2026 13:25:32] "[32mPOST /login HTTP/1.1[0m" 302 -
+2026-03-29 13:25:32,973 - 127.0.0.1 - - [29/Mar/2026 13:25:32] "GET / HTTP/1.1" 200 -
+2026-03-29 13:25:35,965 - 127.0.0.1 - - [29/Mar/2026 13:25:35] "[32mPOST /login HTTP/1.1[0m" 302 -
+2026-03-29 13:25:35,974 - 127.0.0.1 - - [29/Mar/2026 13:25:35] "GET /faculty_dashboard HTTP/1.1" 200 -
+2026-03-29 13:25:36,014 - 127.0.0.1 - - [29/Mar/2026 13:25:36] "[36mGET /static/uploads/WhatsApp%20Image%202025-11-13%20at%2012.48.04%20PM.jpeg HTTP/1.1[0m" 304 -
+2026-03-29 13:27:20,647 - 127.0.0.1 - - [29/Mar/2026 13:27:20] "GET /faculty_dashboard HTTP/1.1" 200 -
+2026-03-29 13:27:20,693 - 127.0.0.1 - - [29/Mar/2026 13:27:20] "[36mGET /static/uploads/WhatsApp%20Image%202025-11-13%20at%2012.48.04%20PM.jpeg HTTP/1.1[0m" 304 -
+2026-03-29 13:31:49,569 - 127.0.0.1 - - [29/Mar/2026 13:31:49] "[32mGET /logout HTTP/1.1[0m" 302 -
+2026-03-29 13:31:49,588 - 127.0.0.1 - - [29/Mar/2026 13:31:49] "GET / HTTP/1.1" 200 -
+2026-03-29 13:31:51,460 - 127.0.0.1 - - [29/Mar/2026 13:31:51] "GET / HTTP/1.1" 200 -
+2026-03-29 13:31:52,144 - 127.0.0.1 - - [29/Mar/2026 13:31:52] "GET / HTTP/1.1" 200 -
+2026-03-29 13:31:52,572 - 127.0.0.1 - - [29/Mar/2026 13:31:52] "GET / HTTP/1.1" 200 -
+2026-03-29 13:33:05,320 - 127.0.0.1 - - [29/Mar/2026 13:33:05] "GET / HTTP/1.1" 200 -
+2026-03-29 13:42:56,641 - 127.0.0.1 - - [29/Mar/2026 13:42:56] "[32mPOST /login HTTP/1.1[0m" 302 -
+2026-03-29 13:42:56,843 - 127.0.0.1 - - [29/Mar/2026 13:42:56] "[35m[1mGET /faculty_dashboard HTTP/1.1[0m" 500 -
+2026-03-29 13:42:57,029 - 127.0.0.1 - - [29/Mar/2026 13:42:57] "GET /faculty_dashboard?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2026-03-29 13:42:57,029 - 127.0.0.1 - - [29/Mar/2026 13:42:57] "GET /faculty_dashboard?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2026-03-29 13:42:57,076 - 127.0.0.1 - - [29/Mar/2026 13:42:57] "GET /faculty_dashboard?__debugger__=yes&cmd=resource&f=console.png&s=ZHr6FiHamB6NBzHje240 HTTP/1.1" 200 -
+2026-03-29 13:42:57,090 - 127.0.0.1 - - [29/Mar/2026 13:42:57] "GET /faculty_dashboard?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2026-03-29 13:43:12,870 - 127.0.0.1 - - [29/Mar/2026 13:43:12] "GET /faculty_dashboard HTTP/1.1" 200 -
+2026-03-29 13:43:12,906 - 127.0.0.1 - - [29/Mar/2026 13:43:12] "[36mGET /static/uploads/WhatsApp%20Image%202025-11-13%20at%2012.48.04%20PM.jpeg HTTP/1.1[0m" 304 -
+2026-03-29 13:43:18,023 - 127.0.0.1 - - [29/Mar/2026 13:43:18] "[32mGET /logout HTTP/1.1[0m" 302 -
+2026-03-29 13:43:18,032 - 127.0.0.1 - - [29/Mar/2026 13:43:18] "GET / HTTP/1.1" 200 -
+2026-03-29 13:45:59,065 - 127.0.0.1 - - [29/Mar/2026 13:45:59] "[32mPOST /login HTTP/1.1[0m" 302 -
+2026-03-29 13:45:59,075 - 127.0.0.1 - - [29/Mar/2026 13:45:59] "GET /faculty_dashboard HTTP/1.1" 200 -
+2026-03-29 13:45:59,125 - 127.0.0.1 - - [29/Mar/2026 13:45:59] "[36mGET /static/uploads/WhatsApp%20Image%202025-11-13%20at%2012.48.04%20PM.jpeg HTTP/1.1[0m" 304 -
+2026-03-29 13:46:44,074 - Camera opened for attendance. Subject: Computer Science, Faculty ID: 3
+2026-03-29 13:47:32,104 - Camera closed.
+2026-03-29 13:47:32,124 - 127.0.0.1 - - [29/Mar/2026 13:47:32] "[32mPOST /start_attendance HTTP/1.1[0m" 302 -
+2026-03-29 13:47:32,139 - 127.0.0.1 - - [29/Mar/2026 13:47:32] "GET /faculty_dashboard HTTP/1.1" 200 -
+2026-03-29 13:47:32,194 - 127.0.0.1 - - [29/Mar/2026 13:47:32] "[36mGET /static/uploads/WhatsApp%20Image%202025-11-13%20at%2012.48.04%20PM.jpeg HTTP/1.1[0m" 304 -
+2026-03-29 13:47:40,132 - 127.0.0.1 - - [29/Mar/2026 13:47:40] "[32mGET /logout HTTP/1.1[0m" 302 -
+2026-03-29 13:47:40,138 - 127.0.0.1 - - [29/Mar/2026 13:47:40] "GET / HTTP/1.1" 200 -
+2026-03-29 13:47:47,065 - 127.0.0.1 - - [29/Mar/2026 13:47:47] "[32mPOST /login HTTP/1.1[0m" 302 -
+2026-03-29 13:47:47,073 - 127.0.0.1 - - [29/Mar/2026 13:47:47] "GET /student_dashboard HTTP/1.1" 200 -
+2026-03-29 13:50:57,822 - 127.0.0.1 - - [29/Mar/2026 13:50:57] "[32mGET /logout HTTP/1.1[0m" 302 -
+2026-03-29 13:50:57,836 - 127.0.0.1 - - [29/Mar/2026 13:50:57] "GET / HTTP/1.1" 200 -
+2026-04-04 11:13:58,055 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-04-04 11:13:58,055 - [33mPress CTRL+C to quit[0m
+2026-04-04 11:13:58,058 -  * Restarting with stat
+2026-04-04 11:14:05,515 -  * Debugger is active!
+2026-04-04 11:14:05,518 -  * Debugger PIN: 524-347-047
+2026-04-04 11:14:17,578 - 127.0.0.1 - - [04/Apr/2026 11:14:17] "GET / HTTP/1.1" 200 -
+2026-04-04 11:14:21,450 - 127.0.0.1 - - [04/Apr/2026 11:14:21] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-04-04 11:14:22,701 - 127.0.0.1 - - [04/Apr/2026 11:14:22] "GET /register HTTP/1.1" 200 -
+2026-04-04 11:15:36,664 - 127.0.0.1 - - [04/Apr/2026 11:15:36] "[32mPOST /register HTTP/1.1[0m" 302 -
+2026-04-04 11:15:36,677 - 127.0.0.1 - - [04/Apr/2026 11:15:36] "GET / HTTP/1.1" 200 -
+2026-04-04 11:16:14,992 - 127.0.0.1 - - [04/Apr/2026 11:16:14] "[32mPOST /login HTTP/1.1[0m" 302 -
+2026-04-04 11:16:15,040 - 127.0.0.1 - - [04/Apr/2026 11:16:15] "GET /faculty_dashboard HTTP/1.1" 200 -
+2026-04-04 11:16:15,059 - 127.0.0.1 - - [04/Apr/2026 11:16:15] "[33mGET /static/uploads/WhatsApp%20Image%202025-11-13%20at%2012.48.04%20PM.jpeg HTTP/1.1[0m" 404 -
+2026-04-04 11:16:41,710 - Camera opened for attendance. Subject: Computer Science, Faculty ID: 4
+2026-04-04 11:16:41,744 - 127.0.0.1 - - [04/Apr/2026 11:16:41] "[35m[1mPOST /start_attendance HTTP/1.1[0m" 500 -
+2026-04-04 11:16:41,921 - 127.0.0.1 - - [04/Apr/2026 11:16:41] "GET /start_attendance?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2026-04-04 11:16:41,944 - 127.0.0.1 - - [04/Apr/2026 11:16:41] "GET /start_attendance?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2026-04-04 11:16:41,993 - 127.0.0.1 - - [04/Apr/2026 11:16:41] "GET /start_attendance?__debugger__=yes&cmd=resource&f=console.png&s=WMPSk8wnzC7ujQkT0IHz HTTP/1.1" 200 -
+2026-04-04 11:16:42,001 - 127.0.0.1 - - [04/Apr/2026 11:16:42] "GET /start_attendance?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2026-04-04 11:38:00,084 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-04-04 11:38:00,084 - [33mPress CTRL+C to quit[0m
+2026-04-04 11:38:00,086 -  * Restarting with stat
+2026-04-04 11:38:08,560 -  * Debugger is active!
+2026-04-04 11:38:08,564 -  * Debugger PIN: 524-347-047
+2026-04-04 11:38:23,653 - 127.0.0.1 - - [04/Apr/2026 11:38:23] "GET / HTTP/1.1" 200 -
+2026-04-04 11:38:28,142 - 127.0.0.1 - - [04/Apr/2026 11:38:28] "[32mPOST /login HTTP/1.1[0m" 302 -
+2026-04-04 11:38:28,170 - 127.0.0.1 - - [04/Apr/2026 11:38:28] "GET /faculty_dashboard HTTP/1.1" 200 -
+2026-04-04 11:38:28,192 - 127.0.0.1 - - [04/Apr/2026 11:38:28] "[33mGET /static/uploads/WhatsApp%20Image%202025-11-13%20at%2012.48.04%20PM.jpeg HTTP/1.1[0m" 404 -
+2026-04-04 11:39:57,158 - Camera opened for attendance. Subject: Computer Science, Faculty ID: 4
+2026-04-04 11:40:06,905 - Camera closed.
+2026-04-04 11:40:06,916 - 127.0.0.1 - - [04/Apr/2026 11:40:06] "[32mPOST /start_attendance HTTP/1.1[0m" 302 -
+2026-04-04 11:40:06,928 - 127.0.0.1 - - [04/Apr/2026 11:40:06] "GET /faculty_dashboard HTTP/1.1" 200 -
+2026-04-04 11:40:06,958 - 127.0.0.1 - - [04/Apr/2026 11:40:06] "[33mGET /static/uploads/WhatsApp%20Image%202025-11-13%20at%2012.48.04%20PM.jpeg HTTP/1.1[0m" 404 -
+2026-04-04 11:40:44,063 - Camera opened for attendance. Subject: Computer Science, Faculty ID: 4
+2026-04-04 11:40:55,758 - Camera closed.
+2026-04-04 11:40:55,763 - 127.0.0.1 - - [04/Apr/2026 11:40:55] "[32mPOST /start_attendance HTTP/1.1[0m" 302 -
+2026-04-04 11:40:55,775 - 127.0.0.1 - - [04/Apr/2026 11:40:55] "GET /faculty_dashboard HTTP/1.1" 200 -
+2026-04-04 11:40:55,802 - 127.0.0.1 - - [04/Apr/2026 11:40:55] "[33mGET /static/uploads/WhatsApp%20Image%202025-11-13%20at%2012.48.04%20PM.jpeg HTTP/1.1[0m" 404 -
+2026-04-04 11:45:07,348 - Camera opened for attendance. Subject: Computer Science, Faculty ID: 4
+2026-04-04 11:45:26,569 - Camera closed.
+2026-04-04 11:45:26,571 - 127.0.0.1 - - [04/Apr/2026 11:45:26] "[32mPOST /start_attendance HTTP/1.1[0m" 302 -
+2026-04-04 11:45:26,585 - 127.0.0.1 - - [04/Apr/2026 11:45:26] "GET /faculty_dashboard HTTP/1.1" 200 -
+2026-04-04 11:45:26,612 - 127.0.0.1 - - [04/Apr/2026 11:45:26] "[33mGET /static/uploads/WhatsApp%20Image%202025-11-13%20at%2012.48.04%20PM.jpeg HTTP/1.1[0m" 404 -
+2026-04-04 11:45:35,098 - 127.0.0.1 - - [04/Apr/2026 11:45:35] "[32mGET /logout HTTP/1.1[0m" 302 -
+2026-04-04 11:45:35,112 - 127.0.0.1 - - [04/Apr/2026 11:45:35] "GET / HTTP/1.1" 200 -
+2026-04-04 11:46:44,957 - 127.0.0.1 - - [04/Apr/2026 11:46:44] "GET /register HTTP/1.1" 200 -
+2026-04-04 11:48:40,581 - 127.0.0.1 - - [04/Apr/2026 11:48:40] "GET / HTTP/1.1" 200 -
+2026-04-04 11:51:55,038 -  * Detected change in 'C:\\Users\\vafid\\Downloads\\AutoSystem\\AutoSystem\\app.py', reloading
+2026-04-04 11:51:56,829 -  * Restarting with stat
+2026-04-04 11:52:06,332 -  * Debugger is active!
+2026-04-04 11:52:06,334 -  * Debugger PIN: 524-347-047
+2026-04-04 11:53:51,790 - 127.0.0.1 - - [04/Apr/2026 11:53:51] "GET / HTTP/1.1" 200 -
+2026-04-04 11:53:53,979 - 127.0.0.1 - - [04/Apr/2026 11:53:53] "GET /register HTTP/1.1" 200 -
+2026-04-04 12:23:42,339 - 127.0.0.1 - - [04/Apr/2026 12:23:42] "[32mGET /faculty_dashboard HTTP/1.1[0m" 302 -
+2026-04-04 12:23:47,212 - 127.0.0.1 - - [04/Apr/2026 12:23:47] "GET / HTTP/1.1" 200 -
+2026-04-04 13:51:23,582 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-04-04 13:51:23,582 - [33mPress CTRL+C to quit[0m
+2026-04-04 13:51:23,586 -  * Restarting with stat
+2026-04-04 13:51:32,552 -  * Debugger is active!
+2026-04-04 13:51:32,557 -  * Debugger PIN: 524-347-047
+2026-04-04 13:54:56,433 - 127.0.0.1 - - [04/Apr/2026 13:54:56] "GET / HTTP/1.1" 200 -
+2026-04-04 13:54:56,606 - 127.0.0.1 - - [04/Apr/2026 13:54:56] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-04-04 13:54:59,672 - 127.0.0.1 - - [04/Apr/2026 13:54:59] "GET / HTTP/1.1" 200 -
+2026-04-04 13:55:08,629 - 127.0.0.1 - - [04/Apr/2026 13:55:08] "GET / HTTP/1.1" 200 -
+2026-04-04 13:55:33,392 - 127.0.0.1 - - [04/Apr/2026 13:55:33] "[32mPOST /login HTTP/1.1[0m" 302 -
+2026-04-04 13:55:33,447 - 127.0.0.1 - - [04/Apr/2026 13:55:33] "GET /faculty_dashboard HTTP/1.1" 200 -
+2026-04-04 13:55:33,461 - 127.0.0.1 - - [04/Apr/2026 13:55:33] "[33mGET /static/uploads/WhatsApp%20Image%202025-11-13%20at%2012.48.04%20PM.jpeg HTTP/1.1[0m" 404 -
+2026-04-04 13:55:59,498 - Camera opened for attendance. Subject: Computer Science, Faculty ID: 4
+2026-04-04 13:56:34,472 - Camera opened for attendance. Subject: Computer Science, Faculty ID: 4
+2026-04-04 13:56:43,122 - Camera opened for attendance. Subject: Computer Science, Faculty ID: 4
+2026-04-04 14:00:37,319 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-04-04 14:00:37,319 - [33mPress CTRL+C to quit[0m
+2026-04-04 14:00:37,319 -  * Restarting with stat
+2026-04-04 14:00:46,333 -  * Debugger is active!
+2026-04-04 14:00:46,336 -  * Debugger PIN: 524-347-047
+2026-04-04 14:01:09,602 - 127.0.0.1 - - [04/Apr/2026 14:01:09] "GET /register HTTP/1.1" 200 -
+2026-04-04 14:05:25,637 - 127.0.0.1 - - [04/Apr/2026 14:05:25] "[32mPOST /register HTTP/1.1[0m" 302 -
+2026-04-04 14:05:25,649 - 127.0.0.1 - - [04/Apr/2026 14:05:25] "GET / HTTP/1.1" 200 -
+2026-04-04 14:05:29,316 - 127.0.0.1 - - [04/Apr/2026 14:05:29] "GET /register HTTP/1.1" 200 -
+2026-04-04 14:06:16,072 - 127.0.0.1 - - [04/Apr/2026 14:06:16] "[32mPOST /register HTTP/1.1[0m" 302 -
+2026-04-04 14:06:16,085 - 127.0.0.1 - - [04/Apr/2026 14:06:16] "GET / HTTP/1.1" 200 -
+2026-04-04 14:06:46,624 - 127.0.0.1 - - [04/Apr/2026 14:06:46] "[32mPOST /login HTTP/1.1[0m" 302 -
+2026-04-04 14:06:46,633 - 127.0.0.1 - - [04/Apr/2026 14:06:46] "GET / HTTP/1.1" 200 -
+2026-04-04 14:06:52,876 - 127.0.0.1 - - [04/Apr/2026 14:06:52] "[32mPOST /login HTTP/1.1[0m" 302 -
+2026-04-04 14:06:52,913 - 127.0.0.1 - - [04/Apr/2026 14:06:52] "GET /faculty_dashboard HTTP/1.1" 200 -
+2026-04-04 14:06:52,941 - 127.0.0.1 - - [04/Apr/2026 14:06:52] "[33mGET /static/uploads/WhatsApp%20Image%202025-11-13%20at%2012.48.04%20PM.jpeg HTTP/1.1[0m" 404 -
+2026-04-04 14:06:53,054 - 127.0.0.1 - - [04/Apr/2026 14:06:53] "GET /static/uploads/16pp-05.jpg.jpeg HTTP/1.1" 200 -
+2026-04-04 14:07:01,844 - Camera opened for attendance. Subject: ECE, Faculty ID: 4
+2026-04-04 14:07:04,486 - Camera opened for attendance. Subject: ECE, Faculty ID: 4
+2026-04-04 14:10:29,200 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-04-04 14:10:29,200 - [33mPress CTRL+C to quit[0m
+2026-04-04 14:10:29,202 -  * Restarting with stat
+2026-04-04 14:10:38,107 -  * Debugger is active!
+2026-04-04 14:10:38,111 -  * Debugger PIN: 524-347-047
+2026-04-04 14:10:44,992 - 127.0.0.1 - - [04/Apr/2026 14:10:44] "GET / HTTP/1.1" 200 -
+2026-04-04 14:10:45,295 - 127.0.0.1 - - [04/Apr/2026 14:10:45] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-04-04 14:10:48,939 - 127.0.0.1 - - [04/Apr/2026 14:10:48] "GET / HTTP/1.1" 200 -
+2026-04-04 14:10:57,844 - 127.0.0.1 - - [04/Apr/2026 14:10:57] "[32mPOST /login HTTP/1.1[0m" 302 -
+2026-04-04 14:10:57,888 - 127.0.0.1 - - [04/Apr/2026 14:10:57] "GET /faculty_dashboard HTTP/1.1" 200 -
+2026-04-04 14:10:57,910 - 127.0.0.1 - - [04/Apr/2026 14:10:57] "[33mGET /static/uploads/WhatsApp%20Image%202025-11-13%20at%2012.48.04%20PM.jpeg HTTP/1.1[0m" 404 -
+2026-04-04 14:10:57,995 - 127.0.0.1 - - [04/Apr/2026 14:10:57] "[36mGET /static/uploads/16pp-05.jpg.jpeg HTTP/1.1[0m" 304 -
+2026-04-04 14:11:07,232 - Camera opened for attendance. Subject: ECE, Faculty ID: 4
+2026-04-04 14:13:53,784 - 127.0.0.1 - - [04/Apr/2026 14:13:53] "GET /register HTTP/1.1" 200 -
+2026-04-04 14:16:52,006 - 127.0.0.1 - - [04/Apr/2026 14:16:52] "GET /register HTTP/1.1" 200 -
+2026-04-04 14:18:45,107 - 127.0.0.1 - - [04/Apr/2026 14:18:45] "[32mPOST /register HTTP/1.1[0m" 302 -
+2026-04-04 14:18:45,117 - 127.0.0.1 - - [04/Apr/2026 14:18:45] "GET / HTTP/1.1" 200 -
+2026-04-04 14:19:04,001 - 127.0.0.1 - - [04/Apr/2026 14:19:04] "[32mPOST /login HTTP/1.1[0m" 302 -
+2026-04-04 14:19:04,019 - 127.0.0.1 - - [04/Apr/2026 14:19:04] "GET /faculty_dashboard HTTP/1.1" 200 -
+2026-04-04 14:19:04,040 - 127.0.0.1 - - [04/Apr/2026 14:19:04] "[33mGET /static/uploads/WhatsApp%20Image%202025-11-13%20at%2012.48.04%20PM.jpeg HTTP/1.1[0m" 404 -
+2026-04-04 14:19:04,045 - 127.0.0.1 - - [04/Apr/2026 14:19:04] "[36mGET /static/uploads/16pp-05.jpg.jpeg HTTP/1.1[0m" 304 -
+2026-04-04 14:19:04,050 - 127.0.0.1 - - [04/Apr/2026 14:19:04] "GET /static/uploads/OIP.jpg HTTP/1.1" 200 -
+2026-04-04 14:19:11,259 - Camera opened for attendance. Subject: math, Faculty ID: 4
+2026-04-04 14:19:52,056 - Camera opened for attendance. Subject: math, Faculty ID: 4
+2026-04-04 14:20:57,368 - Camera opened for attendance. Subject: math, Faculty ID: 4
+2026-04-04 14:21:55,178 - Camera opened for attendance. Subject: math, Faculty ID: 4
+2026-04-04 14:24:21,488 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-04-04 14:24:21,489 - [33mPress CTRL+C to quit[0m
+2026-04-04 14:24:21,489 -  * Restarting with stat
+2026-04-04 14:24:32,443 -  * Debugger is active!
+2026-04-04 14:24:32,451 -  * Debugger PIN: 524-347-047
+2026-04-04 14:24:32,496 - 127.0.0.1 - - [04/Apr/2026 14:24:32] "GET / HTTP/1.1" 200 -
+2026-04-04 14:24:32,647 - 127.0.0.1 - - [04/Apr/2026 14:24:32] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-04-04 14:24:35,528 - 127.0.0.1 - - [04/Apr/2026 14:24:35] "GET /register HTTP/1.1" 200 -
+2026-04-04 14:25:24,277 - 127.0.0.1 - - [04/Apr/2026 14:25:24] "[32mPOST /register HTTP/1.1[0m" 302 -
+2026-04-04 14:25:24,283 - 127.0.0.1 - - [04/Apr/2026 14:25:24] "GET / HTTP/1.1" 200 -
+2026-04-04 14:25:28,607 - 127.0.0.1 - - [04/Apr/2026 14:25:28] "[32mPOST /login HTTP/1.1[0m" 302 -
+2026-04-04 14:25:28,644 - 127.0.0.1 - - [04/Apr/2026 14:25:28] "GET /faculty_dashboard HTTP/1.1" 200 -
+2026-04-04 14:25:28,666 - 127.0.0.1 - - [04/Apr/2026 14:25:28] "[33mGET /static/uploads/WhatsApp%20Image%202025-11-13%20at%2012.48.04%20PM.jpeg HTTP/1.1[0m" 404 -
+2026-04-04 14:25:28,857 - 127.0.0.1 - - [04/Apr/2026 14:25:28] "[36mGET /static/uploads/16pp-05.jpg.jpeg HTTP/1.1[0m" 304 -
+2026-04-04 14:25:28,866 - 127.0.0.1 - - [04/Apr/2026 14:25:28] "[36mGET /static/uploads/OIP.jpg HTTP/1.1[0m" 304 -
+2026-04-04 14:25:28,875 - 127.0.0.1 - - [04/Apr/2026 14:25:28] "GET /static/uploads/WhatsApp_Image_2026-04-04_at_2.22.50_PM.jpeg HTTP/1.1" 200 -
+2026-04-04 14:25:41,039 - Camera opened for attendance. Subject: java, Faculty ID: 4
+2026-04-04 14:27:18,550 - Camera opened for attendance. Subject: java, Faculty ID: 4
+2026-04-04 14:28:34,819 - Camera opened for attendance. Subject: ECE, Faculty ID: 4
+2026-04-04 14:29:13,918 - Camera opened for attendance. Subject: ECE, Faculty ID: 4
+2026-04-04 14:29:37,412 - 127.0.0.1 - - [04/Apr/2026 14:29:37] "GET / HTTP/1.1" 200 -
+2026-04-04 14:29:37,586 - 127.0.0.1 - - [04/Apr/2026 14:29:37] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-04-04 14:29:41,498 - 127.0.0.1 - - [04/Apr/2026 14:29:41] "[32mPOST /login HTTP/1.1[0m" 302 -
+2026-04-04 14:29:41,513 - 127.0.0.1 - - [04/Apr/2026 14:29:41] "GET /faculty_dashboard HTTP/1.1" 200 -
+2026-04-04 14:29:41,527 - 127.0.0.1 - - [04/Apr/2026 14:29:41] "[33mGET /static/uploads/WhatsApp%20Image%202025-11-13%20at%2012.48.04%20PM.jpeg HTTP/1.1[0m" 404 -
+2026-04-04 14:29:41,531 - 127.0.0.1 - - [04/Apr/2026 14:29:41] "[36mGET /static/uploads/16pp-05.jpg.jpeg HTTP/1.1[0m" 304 -
+2026-04-04 14:29:41,536 - 127.0.0.1 - - [04/Apr/2026 14:29:41] "[36mGET /static/uploads/OIP.jpg HTTP/1.1[0m" 304 -
+2026-04-04 14:29:41,536 - 127.0.0.1 - - [04/Apr/2026 14:29:41] "[36mGET /static/uploads/WhatsApp_Image_2026-04-04_at_2.22.50_PM.jpeg HTTP/1.1[0m" 304 -
+2026-04-04 14:29:48,177 - Camera opened for attendance. Subject: ECE, Faculty ID: 4
+2026-04-04 14:30:50,499 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-04-04 14:30:50,499 - [33mPress CTRL+C to quit[0m
+2026-04-04 14:30:50,499 -  * Restarting with stat
+2026-04-04 14:30:58,665 -  * Debugger is active!
+2026-04-04 14:30:58,665 -  * Debugger PIN: 524-347-047
+2026-04-04 14:30:58,705 - 127.0.0.1 - - [04/Apr/2026 14:30:58] "GET / HTTP/1.1" 200 -
+2026-04-04 14:30:58,852 - 127.0.0.1 - - [04/Apr/2026 14:30:58] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-04-04 14:31:05,375 - 127.0.0.1 - - [04/Apr/2026 14:31:05] "[32mPOST /login HTTP/1.1[0m" 302 -
+2026-04-04 14:31:05,408 - 127.0.0.1 - - [04/Apr/2026 14:31:05] "GET /faculty_dashboard HTTP/1.1" 200 -
+2026-04-04 14:31:05,431 - 127.0.0.1 - - [04/Apr/2026 14:31:05] "[33mGET /static/uploads/WhatsApp%20Image%202025-11-13%20at%2012.48.04%20PM.jpeg HTTP/1.1[0m" 404 -
+2026-04-04 14:31:05,613 - 127.0.0.1 - - [04/Apr/2026 14:31:05] "[36mGET /static/uploads/16pp-05.jpg.jpeg HTTP/1.1[0m" 304 -
+2026-04-04 14:31:05,624 - 127.0.0.1 - - [04/Apr/2026 14:31:05] "[36mGET /static/uploads/WhatsApp_Image_2026-04-04_at_2.22.50_PM.jpeg HTTP/1.1[0m" 304 -
+2026-04-04 14:31:05,624 - 127.0.0.1 - - [04/Apr/2026 14:31:05] "[36mGET /static/uploads/OIP.jpg HTTP/1.1[0m" 304 -
+2026-04-04 14:31:13,799 - Camera opened for attendance. Subject: ECE, Faculty ID: 4
+2026-04-04 14:32:06,845 - Camera opened for attendance. Subject: java, Faculty ID: 4
+2026-04-04 14:32:08,605 - Camera opened for attendance. Subject: java, Faculty ID: 4
+2026-04-04 14:35:54,497 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-04-04 14:35:54,497 - [33mPress CTRL+C to quit[0m
+2026-04-04 14:35:54,498 -  * Restarting with stat
+2026-04-04 14:36:03,004 -  * Debugger is active!
+2026-04-04 14:36:03,008 -  * Debugger PIN: 524-347-047
+2026-04-04 14:36:07,046 - 127.0.0.1 - - [04/Apr/2026 14:36:07] "GET / HTTP/1.1" 200 -
+2026-04-04 14:36:07,216 - 127.0.0.1 - - [04/Apr/2026 14:36:07] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-04-04 14:36:11,829 - 127.0.0.1 - - [04/Apr/2026 14:36:11] "[32mPOST /login HTTP/1.1[0m" 302 -
+2026-04-04 14:36:11,860 - 127.0.0.1 - - [04/Apr/2026 14:36:11] "GET /faculty_dashboard HTTP/1.1" 200 -
+2026-04-04 14:36:11,883 - 127.0.0.1 - - [04/Apr/2026 14:36:11] "[33mGET /static/uploads/WhatsApp%20Image%202025-11-13%20at%2012.48.04%20PM.jpeg HTTP/1.1[0m" 404 -
+2026-04-04 14:36:12,060 - 127.0.0.1 - - [04/Apr/2026 14:36:12] "[36mGET /static/uploads/OIP.jpg HTTP/1.1[0m" 304 -
+2026-04-04 14:36:12,067 - 127.0.0.1 - - [04/Apr/2026 14:36:12] "[36mGET /static/uploads/16pp-05.jpg.jpeg HTTP/1.1[0m" 304 -
+2026-04-04 14:36:12,077 - 127.0.0.1 - - [04/Apr/2026 14:36:12] "[36mGET /static/uploads/WhatsApp_Image_2026-04-04_at_2.22.50_PM.jpeg HTTP/1.1[0m" 304 -
+2026-04-04 14:36:19,808 - Camera opened for attendance. Subject: java, Faculty ID: 4
+2026-04-04 14:37:08,110 - Camera closed.
+2026-04-04 14:37:08,143 - 127.0.0.1 - - [04/Apr/2026 14:37:08] "[32mPOST /start_attendance HTTP/1.1[0m" 302 -
+2026-04-04 14:37:08,163 - 127.0.0.1 - - [04/Apr/2026 14:37:08] "GET /faculty_dashboard HTTP/1.1" 200 -
+2026-04-04 14:37:08,194 - 127.0.0.1 - - [04/Apr/2026 14:37:08] "[33mGET /static/uploads/WhatsApp%20Image%202025-11-13%20at%2012.48.04%20PM.jpeg HTTP/1.1[0m" 404 -
+2026-04-04 14:37:08,201 - 127.0.0.1 - - [04/Apr/2026 14:37:08] "[36mGET /static/uploads/16pp-05.jpg.jpeg HTTP/1.1[0m" 304 -
+2026-04-04 14:37:08,206 - 127.0.0.1 - - [04/Apr/2026 14:37:08] "[36mGET /static/uploads/OIP.jpg HTTP/1.1[0m" 304 -
+2026-04-04 14:37:08,210 - 127.0.0.1 - - [04/Apr/2026 14:37:08] "[36mGET /static/uploads/WhatsApp_Image_2026-04-04_at_2.22.50_PM.jpeg HTTP/1.1[0m" 304 -
+2026-04-04 14:37:27,820 - Camera opened for attendance. Subject: java, Faculty ID: 4
+2026-04-04 14:37:34,933 - Camera closed.
+2026-04-04 14:37:34,946 - 127.0.0.1 - - [04/Apr/2026 14:37:34] "[32mPOST /start_attendance HTTP/1.1[0m" 302 -
+2026-04-04 14:37:34,968 - 127.0.0.1 - - [04/Apr/2026 14:37:34] "GET /faculty_dashboard HTTP/1.1" 200 -
+2026-04-04 14:37:35,002 - 127.0.0.1 - - [04/Apr/2026 14:37:35] "[33mGET /static/uploads/WhatsApp%20Image%202025-11-13%20at%2012.48.04%20PM.jpeg HTTP/1.1[0m" 404 -
+2026-04-04 14:37:35,004 - 127.0.0.1 - - [04/Apr/2026 14:37:35] "[36mGET /static/uploads/16pp-05.jpg.jpeg HTTP/1.1[0m" 304 -
+2026-04-04 14:37:35,013 - 127.0.0.1 - - [04/Apr/2026 14:37:35] "[36mGET /static/uploads/OIP.jpg HTTP/1.1[0m" 304 -
+2026-04-04 14:37:35,018 - 127.0.0.1 - - [04/Apr/2026 14:37:35] "[36mGET /static/uploads/WhatsApp_Image_2026-04-04_at_2.22.50_PM.jpeg HTTP/1.1[0m" 304 -
+2026-04-04 14:37:55,782 - Camera opened for attendance. Subject: ECE, Faculty ID: 4
+2026-04-04 14:38:04,060 - Camera closed.
+2026-04-04 14:38:04,091 - 127.0.0.1 - - [04/Apr/2026 14:38:04] "[32mPOST /start_attendance HTTP/1.1[0m" 302 -
+2026-04-04 14:38:04,106 - 127.0.0.1 - - [04/Apr/2026 14:38:04] "GET /faculty_dashboard HTTP/1.1" 200 -
+2026-04-04 14:38:04,142 - 127.0.0.1 - - [04/Apr/2026 14:38:04] "[33mGET /static/uploads/WhatsApp%20Image%202025-11-13%20at%2012.48.04%20PM.jpeg HTTP/1.1[0m" 404 -
+2026-04-04 14:38:04,147 - 127.0.0.1 - - [04/Apr/2026 14:38:04] "[36mGET /static/uploads/16pp-05.jpg.jpeg HTTP/1.1[0m" 304 -
+2026-04-04 14:38:04,156 - 127.0.0.1 - - [04/Apr/2026 14:38:04] "[36mGET /static/uploads/OIP.jpg HTTP/1.1[0m" 304 -
+2026-04-04 14:38:04,159 - 127.0.0.1 - - [04/Apr/2026 14:38:04] "[36mGET /static/uploads/WhatsApp_Image_2026-04-04_at_2.22.50_PM.jpeg HTTP/1.1[0m" 304 -
+2026-04-04 14:40:07,189 - Camera opened for attendance. Subject: ECE, Faculty ID: 4
+2026-04-04 14:40:16,079 - Camera closed.
+2026-04-04 14:40:16,106 - 127.0.0.1 - - [04/Apr/2026 14:40:16] "[32mPOST /start_attendance HTTP/1.1[0m" 302 -
+2026-04-04 14:40:16,124 - 127.0.0.1 - - [04/Apr/2026 14:40:16] "GET /faculty_dashboard HTTP/1.1" 200 -
+2026-04-04 14:40:16,156 - 127.0.0.1 - - [04/Apr/2026 14:40:16] "[33mGET /static/uploads/WhatsApp%20Image%202025-11-13%20at%2012.48.04%20PM.jpeg HTTP/1.1[0m" 404 -
+2026-04-04 14:40:16,162 - 127.0.0.1 - - [04/Apr/2026 14:40:16] "[36mGET /static/uploads/16pp-05.jpg.jpeg HTTP/1.1[0m" 304 -
+2026-04-04 14:40:16,171 - 127.0.0.1 - - [04/Apr/2026 14:40:16] "[36mGET /static/uploads/OIP.jpg HTTP/1.1[0m" 304 -
+2026-04-04 14:40:16,175 - 127.0.0.1 - - [04/Apr/2026 14:40:16] "[36mGET /static/uploads/WhatsApp_Image_2026-04-04_at_2.22.50_PM.jpeg HTTP/1.1[0m" 304 -
+2026-04-04 16:42:07,393 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-04-04 16:42:07,393 - [33mPress CTRL+C to quit[0m
+2026-04-04 16:42:07,395 -  * Restarting with stat
+2026-04-04 16:42:15,827 -  * Debugger is active!
+2026-04-04 16:42:15,829 -  * Debugger PIN: 524-347-047
+2026-04-04 16:42:25,739 - 127.0.0.1 - - [04/Apr/2026 16:42:25] "GET / HTTP/1.1" 200 -
+2026-04-04 16:42:25,914 - 127.0.0.1 - - [04/Apr/2026 16:42:25] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-04-04 16:42:30,973 - 127.0.0.1 - - [04/Apr/2026 16:42:30] "[32mPOST /login HTTP/1.1[0m" 302 -
+2026-04-04 16:42:31,009 - 127.0.0.1 - - [04/Apr/2026 16:42:31] "GET /faculty_dashboard HTTP/1.1" 200 -
+2026-04-04 16:42:31,027 - 127.0.0.1 - - [04/Apr/2026 16:42:31] "[33mGET /static/uploads/WhatsApp%20Image%202025-11-13%20at%2012.48.04%20PM.jpeg HTTP/1.1[0m" 404 -
+2026-04-04 16:42:31,238 - 127.0.0.1 - - [04/Apr/2026 16:42:31] "[36mGET /static/uploads/OIP.jpg HTTP/1.1[0m" 304 -
+2026-04-04 16:42:31,248 - 127.0.0.1 - - [04/Apr/2026 16:42:31] "[36mGET /static/uploads/16pp-05.jpg.jpeg HTTP/1.1[0m" 304 -
+2026-04-04 16:42:31,253 - 127.0.0.1 - - [04/Apr/2026 16:42:31] "[36mGET /static/uploads/WhatsApp_Image_2026-04-04_at_2.22.50_PM.jpeg HTTP/1.1[0m" 304 -
+2026-04-04 16:42:46,389 - Camera opened for attendance. Subject: java, Faculty ID: 4
+2026-04-04 16:42:58,690 - Camera closed.
+2026-04-04 16:42:58,696 - 127.0.0.1 - - [04/Apr/2026 16:42:58] "[32mPOST /start_attendance HTTP/1.1[0m" 302 -
+2026-04-04 16:42:58,714 - 127.0.0.1 - - [04/Apr/2026 16:42:58] "GET /faculty_dashboard HTTP/1.1" 200 -
+2026-04-04 16:42:58,740 - 127.0.0.1 - - [04/Apr/2026 16:42:58] "[33mGET /static/uploads/WhatsApp%20Image%202025-11-13%20at%2012.48.04%20PM.jpeg HTTP/1.1[0m" 404 -
+2026-04-04 16:42:58,744 - 127.0.0.1 - - [04/Apr/2026 16:42:58] "[36mGET /static/uploads/16pp-05.jpg.jpeg HTTP/1.1[0m" 304 -
+2026-04-04 16:42:58,751 - 127.0.0.1 - - [04/Apr/2026 16:42:58] "[36mGET /static/uploads/OIP.jpg HTTP/1.1[0m" 304 -
+2026-04-04 16:42:58,752 - 127.0.0.1 - - [04/Apr/2026 16:42:58] "[36mGET /static/uploads/WhatsApp_Image_2026-04-04_at_2.22.50_PM.jpeg HTTP/1.1[0m" 304 -
+2026-04-04 16:43:14,432 - Camera opened for attendance. Subject: ECE, Faculty ID: 4
+2026-04-04 16:43:22,274 - Camera closed.
+2026-04-04 16:43:22,279 - 127.0.0.1 - - [04/Apr/2026 16:43:22] "[32mPOST /start_attendance HTTP/1.1[0m" 302 -
+2026-04-04 16:43:22,325 - 127.0.0.1 - - [04/Apr/2026 16:43:22] "GET /faculty_dashboard HTTP/1.1" 200 -
+2026-04-04 16:43:22,352 - 127.0.0.1 - - [04/Apr/2026 16:43:22] "[33mGET /static/uploads/WhatsApp%20Image%202025-11-13%20at%2012.48.04%20PM.jpeg HTTP/1.1[0m" 404 -
+2026-04-04 16:43:22,357 - 127.0.0.1 - - [04/Apr/2026 16:43:22] "[36mGET /static/uploads/16pp-05.jpg.jpeg HTTP/1.1[0m" 304 -
+2026-04-04 16:43:22,364 - 127.0.0.1 - - [04/Apr/2026 16:43:22] "[36mGET /static/uploads/OIP.jpg HTTP/1.1[0m" 304 -
+2026-04-04 16:43:22,368 - 127.0.0.1 - - [04/Apr/2026 16:43:22] "[36mGET /static/uploads/WhatsApp_Image_2026-04-04_at_2.22.50_PM.jpeg HTTP/1.1[0m" 304 -
+2026-04-04 17:05:00,071 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-04-04 17:05:00,071 - [33mPress CTRL+C to quit[0m
+2026-04-04 17:05:00,071 -  * Restarting with stat
+2026-04-04 17:05:07,409 -  * Debugger is active!
+2026-04-04 17:05:07,418 -  * Debugger PIN: 524-347-047
+2026-04-04 17:06:51,908 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-04-04 17:06:51,908 - [33mPress CTRL+C to quit[0m
+2026-04-04 17:06:51,908 -  * Restarting with stat
+2026-04-04 17:06:59,693 -  * Debugger is active!
+2026-04-04 17:06:59,696 -  * Debugger PIN: 524-347-047
+2026-04-04 17:09:27,025 - 127.0.0.1 - - [04/Apr/2026 17:09:27] "GET / HTTP/1.1" 200 -
+2026-04-04 17:09:27,190 - 127.0.0.1 - - [04/Apr/2026 17:09:27] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-04-04 17:09:32,537 - 127.0.0.1 - - [04/Apr/2026 17:09:32] "[32mPOST /login HTTP/1.1[0m" 302 -
+2026-04-04 17:09:32,570 - 127.0.0.1 - - [04/Apr/2026 17:09:32] "GET /faculty_dashboard HTTP/1.1" 200 -
+2026-04-04 17:09:32,597 - 127.0.0.1 - - [04/Apr/2026 17:09:32] "[33mGET /static/uploads/WhatsApp%20Image%202025-11-13%20at%2012.48.04%20PM.jpeg HTTP/1.1[0m" 404 -
+2026-04-04 17:09:32,786 - 127.0.0.1 - - [04/Apr/2026 17:09:32] "[36mGET /static/uploads/OIP.jpg HTTP/1.1[0m" 304 -
+2026-04-04 17:09:32,794 - 127.0.0.1 - - [04/Apr/2026 17:09:32] "[36mGET /static/uploads/16pp-05.jpg.jpeg HTTP/1.1[0m" 304 -
+2026-04-04 17:09:32,796 - 127.0.0.1 - - [04/Apr/2026 17:09:32] "[36mGET /static/uploads/WhatsApp_Image_2026-04-04_at_2.22.50_PM.jpeg HTTP/1.1[0m" 304 -
+2026-04-04 17:09:41,519 - Camera opened for attendance. Subject: java, Faculty ID: 4
+2026-04-04 17:09:53,562 - Camera closed.
+2026-04-04 17:09:53,575 - 127.0.0.1 - - [04/Apr/2026 17:09:53] "[32mPOST /start_attendance HTTP/1.1[0m" 302 -
+2026-04-04 17:09:53,591 - 127.0.0.1 - - [04/Apr/2026 17:09:53] "GET /faculty_dashboard HTTP/1.1" 200 -
+2026-04-04 17:09:53,615 - 127.0.0.1 - - [04/Apr/2026 17:09:53] "[33mGET /static/uploads/WhatsApp%20Image%202025-11-13%20at%2012.48.04%20PM.jpeg HTTP/1.1[0m" 404 -
+2026-04-04 17:09:53,622 - 127.0.0.1 - - [04/Apr/2026 17:09:53] "[36mGET /static/uploads/16pp-05.jpg.jpeg HTTP/1.1[0m" 304 -
+2026-04-04 17:09:53,629 - 127.0.0.1 - - [04/Apr/2026 17:09:53] "[36mGET /static/uploads/OIP.jpg HTTP/1.1[0m" 304 -
+2026-04-04 17:09:53,629 - 127.0.0.1 - - [04/Apr/2026 17:09:53] "[36mGET /static/uploads/WhatsApp_Image_2026-04-04_at_2.22.50_PM.jpeg HTTP/1.1[0m" 304 -
+2026-04-04 17:10:07,116 - Camera opened for attendance. Subject: java, Faculty ID: 4
+2026-04-04 17:10:14,841 - Camera closed.
+2026-04-04 17:10:14,851 - 127.0.0.1 - - [04/Apr/2026 17:10:14] "[32mPOST /start_attendance HTTP/1.1[0m" 302 -
+2026-04-04 17:10:14,869 - 127.0.0.1 - - [04/Apr/2026 17:10:14] "GET /faculty_dashboard HTTP/1.1" 200 -
+2026-04-04 17:10:14,899 - 127.0.0.1 - - [04/Apr/2026 17:10:14] "[33mGET /static/uploads/WhatsApp%20Image%202025-11-13%20at%2012.48.04%20PM.jpeg HTTP/1.1[0m" 404 -
+2026-04-04 17:10:14,903 - 127.0.0.1 - - [04/Apr/2026 17:10:14] "[36mGET /static/uploads/16pp-05.jpg.jpeg HTTP/1.1[0m" 304 -
+2026-04-04 17:10:14,908 - 127.0.0.1 - - [04/Apr/2026 17:10:14] "[36mGET /static/uploads/OIP.jpg HTTP/1.1[0m" 304 -
+2026-04-04 17:10:14,910 - 127.0.0.1 - - [04/Apr/2026 17:10:14] "[36mGET /static/uploads/WhatsApp_Image_2026-04-04_at_2.22.50_PM.jpeg HTTP/1.1[0m" 304 -
+2026-04-04 17:10:23,267 - 127.0.0.1 - - [04/Apr/2026 17:10:23] "GET /faculty_dashboard HTTP/1.1" 200 -
+2026-04-04 17:10:23,294 - 127.0.0.1 - - [04/Apr/2026 17:10:23] "[33mGET /static/uploads/WhatsApp%20Image%202025-11-13%20at%2012.48.04%20PM.jpeg HTTP/1.1[0m" 404 -
+2026-04-04 17:10:23,297 - 127.0.0.1 - - [04/Apr/2026 17:10:23] "[36mGET /static/uploads/16pp-05.jpg.jpeg HTTP/1.1[0m" 304 -
+2026-04-04 17:10:23,306 - 127.0.0.1 - - [04/Apr/2026 17:10:23] "[36mGET /static/uploads/OIP.jpg HTTP/1.1[0m" 304 -
+2026-04-04 17:10:23,306 - 127.0.0.1 - - [04/Apr/2026 17:10:23] "[36mGET /static/uploads/WhatsApp_Image_2026-04-04_at_2.22.50_PM.jpeg HTTP/1.1[0m" 304 -
+2026-04-04 17:10:25,817 - 127.0.0.1 - - [04/Apr/2026 17:10:25] "GET /faculty_dashboard HTTP/1.1" 200 -
+2026-04-04 17:10:25,835 - 127.0.0.1 - - [04/Apr/2026 17:10:25] "[33mGET /static/uploads/WhatsApp%20Image%202025-11-13%20at%2012.48.04%20PM.jpeg HTTP/1.1[0m" 404 -
+2026-04-04 17:10:25,839 - 127.0.0.1 - - [04/Apr/2026 17:10:25] "[36mGET /static/uploads/16pp-05.jpg.jpeg HTTP/1.1[0m" 304 -
+2026-04-04 17:10:25,850 - 127.0.0.1 - - [04/Apr/2026 17:10:25] "[36mGET /static/uploads/OIP.jpg HTTP/1.1[0m" 304 -
+2026-04-04 17:10:25,852 - 127.0.0.1 - - [04/Apr/2026 17:10:25] "[36mGET /static/uploads/WhatsApp_Image_2026-04-04_at_2.22.50_PM.jpeg HTTP/1.1[0m" 304 -
+2026-04-04 17:10:26,784 - 127.0.0.1 - - [04/Apr/2026 17:10:26] "GET /faculty_dashboard HTTP/1.1" 200 -
+2026-04-04 17:10:26,805 - 127.0.0.1 - - [04/Apr/2026 17:10:26] "[33mGET /static/uploads/WhatsApp%20Image%202025-11-13%20at%2012.48.04%20PM.jpeg HTTP/1.1[0m" 404 -
+2026-04-04 17:10:26,806 - 127.0.0.1 - - [04/Apr/2026 17:10:26] "[36mGET /static/uploads/16pp-05.jpg.jpeg HTTP/1.1[0m" 304 -
+2026-04-04 17:10:26,819 - 127.0.0.1 - - [04/Apr/2026 17:10:26] "[36mGET /static/uploads/OIP.jpg HTTP/1.1[0m" 304 -
+2026-04-04 17:10:26,823 - 127.0.0.1 - - [04/Apr/2026 17:10:26] "[36mGET /static/uploads/WhatsApp_Image_2026-04-04_at_2.22.50_PM.jpeg HTTP/1.1[0m" 304 -
+2026-04-04 17:10:26,954 - 127.0.0.1 - - [04/Apr/2026 17:10:26] "GET /faculty_dashboard HTTP/1.1" 200 -
+2026-04-04 17:10:26,975 - 127.0.0.1 - - [04/Apr/2026 17:10:26] "[33mGET /static/uploads/WhatsApp%20Image%202025-11-13%20at%2012.48.04%20PM.jpeg HTTP/1.1[0m" 404 -
+2026-04-04 17:10:26,978 - 127.0.0.1 - - [04/Apr/2026 17:10:26] "[36mGET /static/uploads/16pp-05.jpg.jpeg HTTP/1.1[0m" 304 -
+2026-04-04 17:10:26,986 - 127.0.0.1 - - [04/Apr/2026 17:10:26] "[36mGET /static/uploads/OIP.jpg HTTP/1.1[0m" 304 -
+2026-04-04 17:10:26,986 - 127.0.0.1 - - [04/Apr/2026 17:10:26] "[36mGET /static/uploads/WhatsApp_Image_2026-04-04_at_2.22.50_PM.jpeg HTTP/1.1[0m" 304 -
+2026-04-04 17:10:27,086 - 127.0.0.1 - - [04/Apr/2026 17:10:27] "GET /faculty_dashboard HTTP/1.1" 200 -
+2026-04-04 17:10:27,111 - 127.0.0.1 - - [04/Apr/2026 17:10:27] "[33mGET /static/uploads/WhatsApp%20Image%202025-11-13%20at%2012.48.04%20PM.jpeg HTTP/1.1[0m" 404 -
+2026-04-04 17:10:27,111 - 127.0.0.1 - - [04/Apr/2026 17:10:27] "[36mGET /static/uploads/16pp-05.jpg.jpeg HTTP/1.1[0m" 304 -
+2026-04-04 17:10:27,124 - 127.0.0.1 - - [04/Apr/2026 17:10:27] "[36mGET /static/uploads/OIP.jpg HTTP/1.1[0m" 304 -
+2026-04-04 17:10:27,128 - 127.0.0.1 - - [04/Apr/2026 17:10:27] "[36mGET /static/uploads/WhatsApp_Image_2026-04-04_at_2.22.50_PM.jpeg HTTP/1.1[0m" 304 -
+2026-04-04 17:10:27,254 - 127.0.0.1 - - [04/Apr/2026 17:10:27] "GET /faculty_dashboard HTTP/1.1" 200 -
+2026-04-04 17:10:27,270 - 127.0.0.1 - - [04/Apr/2026 17:10:27] "[33mGET /static/uploads/WhatsApp%20Image%202025-11-13%20at%2012.48.04%20PM.jpeg HTTP/1.1[0m" 404 -
+2026-04-04 17:10:27,278 - 127.0.0.1 - - [04/Apr/2026 17:10:27] "[36mGET /static/uploads/16pp-05.jpg.jpeg HTTP/1.1[0m" 304 -
+2026-04-04 17:10:27,285 - 127.0.0.1 - - [04/Apr/2026 17:10:27] "[36mGET /static/uploads/OIP.jpg HTTP/1.1[0m" 304 -
+2026-04-04 17:10:27,285 - 127.0.0.1 - - [04/Apr/2026 17:10:27] "[36mGET /static/uploads/WhatsApp_Image_2026-04-04_at_2.22.50_PM.jpeg HTTP/1.1[0m" 304 -
+2026-04-04 17:10:27,384 - 127.0.0.1 - - [04/Apr/2026 17:10:27] "GET /faculty_dashboard HTTP/1.1" 200 -
+2026-04-04 17:10:27,408 - 127.0.0.1 - - [04/Apr/2026 17:10:27] "[33mGET /static/uploads/WhatsApp%20Image%202025-11-13%20at%2012.48.04%20PM.jpeg HTTP/1.1[0m" 404 -
+2026-04-04 17:10:27,413 - 127.0.0.1 - - [04/Apr/2026 17:10:27] "[36mGET /static/uploads/16pp-05.jpg.jpeg HTTP/1.1[0m" 304 -
+2026-04-04 17:10:27,418 - 127.0.0.1 - - [04/Apr/2026 17:10:27] "[36mGET /static/uploads/OIP.jpg HTTP/1.1[0m" 304 -
+2026-04-04 17:10:27,422 - 127.0.0.1 - - [04/Apr/2026 17:10:27] "[36mGET /static/uploads/WhatsApp_Image_2026-04-04_at_2.22.50_PM.jpeg HTTP/1.1[0m" 304 -
+2026-04-04 17:10:27,506 - 127.0.0.1 - - [04/Apr/2026 17:10:27] "GET /faculty_dashboard HTTP/1.1" 200 -
+2026-04-04 17:10:27,528 - 127.0.0.1 - - [04/Apr/2026 17:10:27] "[33mGET /static/uploads/WhatsApp%20Image%202025-11-13%20at%2012.48.04%20PM.jpeg HTTP/1.1[0m" 404 -
+2026-04-04 17:10:27,530 - 127.0.0.1 - - [04/Apr/2026 17:10:27] "[36mGET /static/uploads/16pp-05.jpg.jpeg HTTP/1.1[0m" 304 -
+2026-04-04 17:10:27,541 - 127.0.0.1 - - [04/Apr/2026 17:10:27] "[36mGET /static/uploads/OIP.jpg HTTP/1.1[0m" 304 -
+2026-04-04 17:10:27,543 - 127.0.0.1 - - [04/Apr/2026 17:10:27] "[36mGET /static/uploads/WhatsApp_Image_2026-04-04_at_2.22.50_PM.jpeg HTTP/1.1[0m" 304 -
+2026-04-04 17:10:27,738 - 127.0.0.1 - - [04/Apr/2026 17:10:27] "GET /faculty_dashboard HTTP/1.1" 200 -
+2026-04-04 17:10:27,758 - 127.0.0.1 - - [04/Apr/2026 17:10:27] "[33mGET /static/uploads/WhatsApp%20Image%202025-11-13%20at%2012.48.04%20PM.jpeg HTTP/1.1[0m" 404 -
+2026-04-04 17:10:27,762 - 127.0.0.1 - - [04/Apr/2026 17:10:27] "[36mGET /static/uploads/16pp-05.jpg.jpeg HTTP/1.1[0m" 304 -
+2026-04-04 17:10:27,769 - 127.0.0.1 - - [04/Apr/2026 17:10:27] "[36mGET /static/uploads/OIP.jpg HTTP/1.1[0m" 304 -
+2026-04-04 17:10:27,773 - 127.0.0.1 - - [04/Apr/2026 17:10:27] "[36mGET /static/uploads/WhatsApp_Image_2026-04-04_at_2.22.50_PM.jpeg HTTP/1.1[0m" 304 -
+2026-04-04 17:10:27,965 - 127.0.0.1 - - [04/Apr/2026 17:10:27] "GET /faculty_dashboard HTTP/1.1" 200 -
+2026-04-04 17:10:27,998 - 127.0.0.1 - - [04/Apr/2026 17:10:27] "[33mGET /static/uploads/WhatsApp%20Image%202025-11-13%20at%2012.48.04%20PM.jpeg HTTP/1.1[0m" 404 -
+2026-04-04 17:10:27,998 - 127.0.0.1 - - [04/Apr/2026 17:10:27] "[36mGET /static/uploads/16pp-05.jpg.jpeg HTTP/1.1[0m" 304 -
+2026-04-04 17:10:28,006 - 127.0.0.1 - - [04/Apr/2026 17:10:28] "[36mGET /static/uploads/OIP.jpg HTTP/1.1[0m" 304 -
+2026-04-04 17:10:28,008 - 127.0.0.1 - - [04/Apr/2026 17:10:28] "[36mGET /static/uploads/WhatsApp_Image_2026-04-04_at_2.22.50_PM.jpeg HTTP/1.1[0m" 304 -
+2026-04-04 17:10:28,494 - 127.0.0.1 - - [04/Apr/2026 17:10:28] "GET /faculty_dashboard HTTP/1.1" 200 -
+2026-04-04 17:10:28,512 - 127.0.0.1 - - [04/Apr/2026 17:10:28] "[33mGET /static/uploads/WhatsApp%20Image%202025-11-13%20at%2012.48.04%20PM.jpeg HTTP/1.1[0m" 404 -
+2026-04-04 17:10:28,517 - 127.0.0.1 - - [04/Apr/2026 17:10:28] "[36mGET /static/uploads/16pp-05.jpg.jpeg HTTP/1.1[0m" 304 -
+2026-04-04 17:10:28,523 - 127.0.0.1 - - [04/Apr/2026 17:10:28] "[36mGET /static/uploads/OIP.jpg HTTP/1.1[0m" 304 -
+2026-04-04 17:10:28,529 - 127.0.0.1 - - [04/Apr/2026 17:10:28] "[36mGET /static/uploads/WhatsApp_Image_2026-04-04_at_2.22.50_PM.jpeg HTTP/1.1[0m" 304 -
+2026-04-04 17:10:28,651 - 127.0.0.1 - - [04/Apr/2026 17:10:28] "GET /faculty_dashboard HTTP/1.1" 200 -
+2026-04-04 17:10:28,670 - 127.0.0.1 - - [04/Apr/2026 17:10:28] "[33mGET /static/uploads/WhatsApp%20Image%202025-11-13%20at%2012.48.04%20PM.jpeg HTTP/1.1[0m" 404 -
+2026-04-04 17:10:28,670 - 127.0.0.1 - - [04/Apr/2026 17:10:28] "[36mGET /static/uploads/16pp-05.jpg.jpeg HTTP/1.1[0m" 304 -
+2026-04-04 17:10:28,679 - 127.0.0.1 - - [04/Apr/2026 17:10:28] "[36mGET /static/uploads/OIP.jpg HTTP/1.1[0m" 304 -
+2026-04-04 17:10:28,682 - 127.0.0.1 - - [04/Apr/2026 17:10:28] "[36mGET /static/uploads/WhatsApp_Image_2026-04-04_at_2.22.50_PM.jpeg HTTP/1.1[0m" 304 -
+2026-04-04 17:10:28,867 - 127.0.0.1 - - [04/Apr/2026 17:10:28] "GET /faculty_dashboard HTTP/1.1" 200 -
+2026-04-04 17:10:28,890 - 127.0.0.1 - - [04/Apr/2026 17:10:28] "[33mGET /static/uploads/WhatsApp%20Image%202025-11-13%20at%2012.48.04%20PM.jpeg HTTP/1.1[0m" 404 -
+2026-04-04 17:10:28,891 - 127.0.0.1 - - [04/Apr/2026 17:10:28] "[36mGET /static/uploads/16pp-05.jpg.jpeg HTTP/1.1[0m" 304 -
+2026-04-04 17:10:28,900 - 127.0.0.1 - - [04/Apr/2026 17:10:28] "[36mGET /static/uploads/OIP.jpg HTTP/1.1[0m" 304 -
+2026-04-04 17:10:28,900 - 127.0.0.1 - - [04/Apr/2026 17:10:28] "[36mGET /static/uploads/WhatsApp_Image_2026-04-04_at_2.22.50_PM.jpeg HTTP/1.1[0m" 304 -
+2026-04-04 17:10:29,157 - 127.0.0.1 - - [04/Apr/2026 17:10:29] "GET /faculty_dashboard HTTP/1.1" 200 -
+2026-04-04 17:10:29,174 - 127.0.0.1 - - [04/Apr/2026 17:10:29] "[33mGET /static/uploads/WhatsApp%20Image%202025-11-13%20at%2012.48.04%20PM.jpeg HTTP/1.1[0m" 404 -
+2026-04-04 17:10:29,179 - 127.0.0.1 - - [04/Apr/2026 17:10:29] "[36mGET /static/uploads/16pp-05.jpg.jpeg HTTP/1.1[0m" 304 -
+2026-04-04 17:10:29,187 - 127.0.0.1 - - [04/Apr/2026 17:10:29] "[36mGET /static/uploads/OIP.jpg HTTP/1.1[0m" 304 -
+2026-04-04 17:10:29,192 - 127.0.0.1 - - [04/Apr/2026 17:10:29] "[36mGET /static/uploads/WhatsApp_Image_2026-04-04_at_2.22.50_PM.jpeg HTTP/1.1[0m" 304 -
+2026-04-04 17:10:29,316 - 127.0.0.1 - - [04/Apr/2026 17:10:29] "GET /faculty_dashboard HTTP/1.1" 200 -
+2026-04-04 17:10:29,334 - 127.0.0.1 - - [04/Apr/2026 17:10:29] "[33mGET /static/uploads/WhatsApp%20Image%202025-11-13%20at%2012.48.04%20PM.jpeg HTTP/1.1[0m" 404 -
+2026-04-04 17:10:29,336 - 127.0.0.1 - - [04/Apr/2026 17:10:29] "[36mGET /static/uploads/16pp-05.jpg.jpeg HTTP/1.1[0m" 304 -
+2026-04-04 17:10:29,346 - 127.0.0.1 - - [04/Apr/2026 17:10:29] "[36mGET /static/uploads/OIP.jpg HTTP/1.1[0m" 304 -
+2026-04-04 17:10:29,349 - 127.0.0.1 - - [04/Apr/2026 17:10:29] "[36mGET /static/uploads/WhatsApp_Image_2026-04-04_at_2.22.50_PM.jpeg HTTP/1.1[0m" 304 -
+2026-04-04 17:10:29,457 - 127.0.0.1 - - [04/Apr/2026 17:10:29] "GET /faculty_dashboard HTTP/1.1" 200 -
+2026-04-04 17:10:29,479 - 127.0.0.1 - - [04/Apr/2026 17:10:29] "[33mGET /static/uploads/WhatsApp%20Image%202025-11-13%20at%2012.48.04%20PM.jpeg HTTP/1.1[0m" 404 -
+2026-04-04 17:10:29,484 - 127.0.0.1 - - [04/Apr/2026 17:10:29] "[36mGET /static/uploads/16pp-05.jpg.jpeg HTTP/1.1[0m" 304 -
+2026-04-04 17:10:29,489 - 127.0.0.1 - - [04/Apr/2026 17:10:29] "[36mGET /static/uploads/OIP.jpg HTTP/1.1[0m" 304 -
+2026-04-04 17:10:29,494 - 127.0.0.1 - - [04/Apr/2026 17:10:29] "[36mGET /static/uploads/WhatsApp_Image_2026-04-04_at_2.22.50_PM.jpeg HTTP/1.1[0m" 304 -
+2026-04-04 17:10:29,690 - 127.0.0.1 - - [04/Apr/2026 17:10:29] "GET /faculty_dashboard HTTP/1.1" 200 -
+2026-04-04 17:10:29,705 - 127.0.0.1 - - [04/Apr/2026 17:10:29] "[33mGET /static/uploads/WhatsApp%20Image%202025-11-13%20at%2012.48.04%20PM.jpeg HTTP/1.1[0m" 404 -
+2026-04-04 17:10:29,707 - 127.0.0.1 - - [04/Apr/2026 17:10:29] "[36mGET /static/uploads/16pp-05.jpg.jpeg HTTP/1.1[0m" 304 -
+2026-04-04 17:10:29,714 - 127.0.0.1 - - [04/Apr/2026 17:10:29] "[36mGET /static/uploads/OIP.jpg HTTP/1.1[0m" 304 -
+2026-04-04 17:10:29,714 - 127.0.0.1 - - [04/Apr/2026 17:10:29] "[36mGET /static/uploads/WhatsApp_Image_2026-04-04_at_2.22.50_PM.jpeg HTTP/1.1[0m" 304 -
+2026-04-04 17:10:30,367 - 127.0.0.1 - - [04/Apr/2026 17:10:30] "GET /faculty_dashboard HTTP/1.1" 200 -
+2026-04-04 17:10:30,388 - 127.0.0.1 - - [04/Apr/2026 17:10:30] "[33mGET /static/uploads/WhatsApp%20Image%202025-11-13%20at%2012.48.04%20PM.jpeg HTTP/1.1[0m" 404 -
+2026-04-04 17:10:30,392 - 127.0.0.1 - - [04/Apr/2026 17:10:30] "[36mGET /static/uploads/16pp-05.jpg.jpeg HTTP/1.1[0m" 304 -
+2026-04-04 17:10:30,403 - 127.0.0.1 - - [04/Apr/2026 17:10:30] "[36mGET /static/uploads/OIP.jpg HTTP/1.1[0m" 304 -
+2026-04-04 17:10:30,406 - 127.0.0.1 - - [04/Apr/2026 17:10:30] "[36mGET /static/uploads/WhatsApp_Image_2026-04-04_at_2.22.50_PM.jpeg HTTP/1.1[0m" 304 -
+2026-04-04 17:10:30,507 - 127.0.0.1 - - [04/Apr/2026 17:10:30] "GET /faculty_dashboard HTTP/1.1" 200 -
+2026-04-04 17:10:30,532 - 127.0.0.1 - - [04/Apr/2026 17:10:30] "[33mGET /static/uploads/WhatsApp%20Image%202025-11-13%20at%2012.48.04%20PM.jpeg HTTP/1.1[0m" 404 -
+2026-04-04 17:10:30,534 - 127.0.0.1 - - [04/Apr/2026 17:10:30] "[36mGET /static/uploads/16pp-05.jpg.jpeg HTTP/1.1[0m" 304 -
+2026-04-04 17:10:30,540 - 127.0.0.1 - - [04/Apr/2026 17:10:30] "[36mGET /static/uploads/OIP.jpg HTTP/1.1[0m" 304 -
+2026-04-04 17:10:30,545 - 127.0.0.1 - - [04/Apr/2026 17:10:30] "[36mGET /static/uploads/WhatsApp_Image_2026-04-04_at_2.22.50_PM.jpeg HTTP/1.1[0m" 304 -
+2026-04-04 17:10:30,930 - 127.0.0.1 - - [04/Apr/2026 17:10:30] "GET /faculty_dashboard HTTP/1.1" 200 -
+2026-04-04 17:10:30,946 - 127.0.0.1 - - [04/Apr/2026 17:10:30] "[33mGET /static/uploads/WhatsApp%20Image%202025-11-13%20at%2012.48.04%20PM.jpeg HTTP/1.1[0m" 404 -
+2026-04-04 17:10:30,949 - 127.0.0.1 - - [04/Apr/2026 17:10:30] "[36mGET /static/uploads/16pp-05.jpg.jpeg HTTP/1.1[0m" 304 -
+2026-04-04 17:10:30,955 - 127.0.0.1 - - [04/Apr/2026 17:10:30] "[36mGET /static/uploads/OIP.jpg HTTP/1.1[0m" 304 -
+2026-04-04 17:10:30,959 - 127.0.0.1 - - [04/Apr/2026 17:10:30] "[36mGET /static/uploads/WhatsApp_Image_2026-04-04_at_2.22.50_PM.jpeg HTTP/1.1[0m" 304 -
+2026-04-04 17:10:31,146 - 127.0.0.1 - - [04/Apr/2026 17:10:31] "GET /faculty_dashboard HTTP/1.1" 200 -
+2026-04-04 17:10:31,161 - 127.0.0.1 - - [04/Apr/2026 17:10:31] "[33mGET /static/uploads/WhatsApp%20Image%202025-11-13%20at%2012.48.04%20PM.jpeg HTTP/1.1[0m" 404 -
+2026-04-04 17:10:31,165 - 127.0.0.1 - - [04/Apr/2026 17:10:31] "[36mGET /static/uploads/16pp-05.jpg.jpeg HTTP/1.1[0m" 304 -
+2026-04-04 17:10:31,171 - 127.0.0.1 - - [04/Apr/2026 17:10:31] "[36mGET /static/uploads/OIP.jpg HTTP/1.1[0m" 304 -
+2026-04-04 17:10:31,173 - 127.0.0.1 - - [04/Apr/2026 17:10:31] "[36mGET /static/uploads/WhatsApp_Image_2026-04-04_at_2.22.50_PM.jpeg HTTP/1.1[0m" 304 -
+2026-04-04 17:11:11,673 - Camera opened for attendance. Subject: java, Faculty ID: 4
+2026-04-04 17:11:20,976 - Camera closed.
+2026-04-04 17:11:20,988 - 127.0.0.1 - - [04/Apr/2026 17:11:20] "[32mPOST /start_attendance HTTP/1.1[0m" 302 -
+2026-04-04 17:11:21,016 - 127.0.0.1 - - [04/Apr/2026 17:11:21] "GET /faculty_dashboard HTTP/1.1" 200 -
+2026-04-04 17:11:21,066 - 127.0.0.1 - - [04/Apr/2026 17:11:21] "[33mGET /static/uploads/WhatsApp%20Image%202025-11-13%20at%2012.48.04%20PM.jpeg HTTP/1.1[0m" 404 -
+2026-04-04 17:11:21,068 - 127.0.0.1 - - [04/Apr/2026 17:11:21] "[36mGET /static/uploads/16pp-05.jpg.jpeg HTTP/1.1[0m" 304 -
+2026-04-04 17:11:21,070 - 127.0.0.1 - - [04/Apr/2026 17:11:21] "[36mGET /static/uploads/OIP.jpg HTTP/1.1[0m" 304 -
+2026-04-04 17:11:21,075 - 127.0.0.1 - - [04/Apr/2026 17:11:21] "[36mGET /static/uploads/WhatsApp_Image_2026-04-04_at_2.22.50_PM.jpeg HTTP/1.1[0m" 304 -
+2026-04-04 17:11:34,884 - Camera opened for attendance. Subject: java, Faculty ID: 4
+2026-04-04 17:12:11,606 - Camera closed.
+2026-04-04 17:12:11,620 - 127.0.0.1 - - [04/Apr/2026 17:12:11] "[32mPOST /start_attendance HTTP/1.1[0m" 302 -
+2026-04-04 17:12:11,638 - 127.0.0.1 - - [04/Apr/2026 17:12:11] "GET /faculty_dashboard HTTP/1.1" 200 -
+2026-04-04 17:12:11,664 - 127.0.0.1 - - [04/Apr/2026 17:12:11] "[33mGET /static/uploads/WhatsApp%20Image%202025-11-13%20at%2012.48.04%20PM.jpeg HTTP/1.1[0m" 404 -
+2026-04-04 17:12:11,668 - 127.0.0.1 - - [04/Apr/2026 17:12:11] "[36mGET /static/uploads/16pp-05.jpg.jpeg HTTP/1.1[0m" 304 -
+2026-04-04 17:12:11,674 - 127.0.0.1 - - [04/Apr/2026 17:12:11] "[36mGET /static/uploads/OIP.jpg HTTP/1.1[0m" 304 -
+2026-04-04 17:12:11,680 - 127.0.0.1 - - [04/Apr/2026 17:12:11] "[36mGET /static/uploads/WhatsApp_Image_2026-04-04_at_2.22.50_PM.jpeg HTTP/1.1[0m" 304 -
+2026-04-04 17:12:29,957 - Camera opened for attendance. Subject: java, Faculty ID: 4
+2026-04-04 17:13:30,089 - Camera closed.
+2026-04-04 17:13:30,101 - 127.0.0.1 - - [04/Apr/2026 17:13:30] "[32mPOST /start_attendance HTTP/1.1[0m" 302 -
+2026-04-04 17:13:30,124 - 127.0.0.1 - - [04/Apr/2026 17:13:30] "GET /faculty_dashboard HTTP/1.1" 200 -
+2026-04-04 17:13:30,148 - 127.0.0.1 - - [04/Apr/2026 17:13:30] "[33mGET /static/uploads/WhatsApp%20Image%202025-11-13%20at%2012.48.04%20PM.jpeg HTTP/1.1[0m" 404 -
+2026-04-04 17:13:30,150 - 127.0.0.1 - - [04/Apr/2026 17:13:30] "[36mGET /static/uploads/16pp-05.jpg.jpeg HTTP/1.1[0m" 304 -
+2026-04-04 17:13:30,160 - 127.0.0.1 - - [04/Apr/2026 17:13:30] "[36mGET /static/uploads/OIP.jpg HTTP/1.1[0m" 304 -
+2026-04-04 17:13:30,162 - 127.0.0.1 - - [04/Apr/2026 17:13:30] "[36mGET /static/uploads/WhatsApp_Image_2026-04-04_at_2.22.50_PM.jpeg HTTP/1.1[0m" 304 -
+2026-04-04 17:13:59,558 - Camera opened for attendance. Subject: java, Faculty ID: 4
+2026-04-04 17:14:06,464 - Camera closed.
+2026-04-04 17:14:06,478 - 127.0.0.1 - - [04/Apr/2026 17:14:06] "[32mPOST /start_attendance HTTP/1.1[0m" 302 -
+2026-04-04 17:14:06,493 - 127.0.0.1 - - [04/Apr/2026 17:14:06] "GET /faculty_dashboard HTTP/1.1" 200 -
+2026-04-04 17:14:06,519 - 127.0.0.1 - - [04/Apr/2026 17:14:06] "[33mGET /static/uploads/WhatsApp%20Image%202025-11-13%20at%2012.48.04%20PM.jpeg HTTP/1.1[0m" 404 -
+2026-04-04 17:14:06,524 - 127.0.0.1 - - [04/Apr/2026 17:14:06] "[36mGET /static/uploads/16pp-05.jpg.jpeg HTTP/1.1[0m" 304 -
+2026-04-04 17:14:06,528 - 127.0.0.1 - - [04/Apr/2026 17:14:06] "[36mGET /static/uploads/OIP.jpg HTTP/1.1[0m" 304 -
+2026-04-04 17:14:06,530 - 127.0.0.1 - - [04/Apr/2026 17:14:06] "[36mGET /static/uploads/WhatsApp_Image_2026-04-04_at_2.22.50_PM.jpeg HTTP/1.1[0m" 304 -
+2026-04-04 17:14:18,982 - Camera opened for attendance. Subject: java, Faculty ID: 4
+2026-04-04 17:14:41,314 - Camera closed.
+2026-04-04 17:14:41,332 - 127.0.0.1 - - [04/Apr/2026 17:14:41] "[32mPOST /start_attendance HTTP/1.1[0m" 302 -
+2026-04-04 17:14:41,348 - 127.0.0.1 - - [04/Apr/2026 17:14:41] "GET /faculty_dashboard HTTP/1.1" 200 -
+2026-04-04 17:14:41,374 - 127.0.0.1 - - [04/Apr/2026 17:14:41] "[33mGET /static/uploads/WhatsApp%20Image%202025-11-13%20at%2012.48.04%20PM.jpeg HTTP/1.1[0m" 404 -
+2026-04-04 17:14:41,378 - 127.0.0.1 - - [04/Apr/2026 17:14:41] "[36mGET /static/uploads/16pp-05.jpg.jpeg HTTP/1.1[0m" 304 -
+2026-04-04 17:14:41,385 - 127.0.0.1 - - [04/Apr/2026 17:14:41] "[36mGET /static/uploads/OIP.jpg HTTP/1.1[0m" 304 -
+2026-04-04 17:14:41,388 - 127.0.0.1 - - [04/Apr/2026 17:14:41] "[36mGET /static/uploads/WhatsApp_Image_2026-04-04_at_2.22.50_PM.jpeg HTTP/1.1[0m" 304 -
+2026-04-04 17:14:52,777 - 127.0.0.1 - - [04/Apr/2026 17:14:52] "GET /faculty_dashboard HTTP/1.1" 200 -
+2026-04-04 17:14:52,801 - 127.0.0.1 - - [04/Apr/2026 17:14:52] "[33mGET /static/uploads/WhatsApp%20Image%202025-11-13%20at%2012.48.04%20PM.jpeg HTTP/1.1[0m" 404 -
+2026-04-04 17:14:52,806 - 127.0.0.1 - - [04/Apr/2026 17:14:52] "[36mGET /static/uploads/16pp-05.jpg.jpeg HTTP/1.1[0m" 304 -
+2026-04-04 17:14:52,811 - 127.0.0.1 - - [04/Apr/2026 17:14:52] "[36mGET /static/uploads/OIP.jpg HTTP/1.1[0m" 304 -
+2026-04-04 17:14:52,811 - 127.0.0.1 - - [04/Apr/2026 17:14:52] "[36mGET /static/uploads/WhatsApp_Image_2026-04-04_at_2.22.50_PM.jpeg HTTP/1.1[0m" 304 -
+2026-04-04 17:14:54,010 - 127.0.0.1 - - [04/Apr/2026 17:14:54] "GET /faculty_dashboard HTTP/1.1" 200 -
+2026-04-04 17:14:54,032 - 127.0.0.1 - - [04/Apr/2026 17:14:54] "[33mGET /static/uploads/WhatsApp%20Image%202025-11-13%20at%2012.48.04%20PM.jpeg HTTP/1.1[0m" 404 -
+2026-04-04 17:14:54,033 - 127.0.0.1 - - [04/Apr/2026 17:14:54] "[36mGET /static/uploads/16pp-05.jpg.jpeg HTTP/1.1[0m" 304 -
+2026-04-04 17:14:54,044 - 127.0.0.1 - - [04/Apr/2026 17:14:54] "[36mGET /static/uploads/OIP.jpg HTTP/1.1[0m" 304 -
+2026-04-04 17:14:54,046 - 127.0.0.1 - - [04/Apr/2026 17:14:54] "[36mGET /static/uploads/WhatsApp_Image_2026-04-04_at_2.22.50_PM.jpeg HTTP/1.1[0m" 304 -
+2026-04-04 17:14:54,167 - 127.0.0.1 - - [04/Apr/2026 17:14:54] "GET /faculty_dashboard HTTP/1.1" 200 -
+2026-04-04 17:14:54,188 - 127.0.0.1 - - [04/Apr/2026 17:14:54] "[33mGET /static/uploads/WhatsApp%20Image%202025-11-13%20at%2012.48.04%20PM.jpeg HTTP/1.1[0m" 404 -
+2026-04-04 17:14:54,188 - 127.0.0.1 - - [04/Apr/2026 17:14:54] "[36mGET /static/uploads/16pp-05.jpg.jpeg HTTP/1.1[0m" 304 -
+2026-04-04 17:14:54,199 - 127.0.0.1 - - [04/Apr/2026 17:14:54] "[36mGET /static/uploads/OIP.jpg HTTP/1.1[0m" 304 -
+2026-04-04 17:14:54,203 - 127.0.0.1 - - [04/Apr/2026 17:14:54] "[36mGET /static/uploads/WhatsApp_Image_2026-04-04_at_2.22.50_PM.jpeg HTTP/1.1[0m" 304 -
+2026-04-04 17:14:54,327 - 127.0.0.1 - - [04/Apr/2026 17:14:54] "GET /faculty_dashboard HTTP/1.1" 200 -
+2026-04-04 17:14:54,350 - 127.0.0.1 - - [04/Apr/2026 17:14:54] "[33mGET /static/uploads/WhatsApp%20Image%202025-11-13%20at%2012.48.04%20PM.jpeg HTTP/1.1[0m" 404 -
+2026-04-04 17:14:54,355 - 127.0.0.1 - - [04/Apr/2026 17:14:54] "[36mGET /static/uploads/16pp-05.jpg.jpeg HTTP/1.1[0m" 304 -
+2026-04-04 17:14:54,364 - 127.0.0.1 - - [04/Apr/2026 17:14:54] "[36mGET /static/uploads/OIP.jpg HTTP/1.1[0m" 304 -
+2026-04-04 17:14:54,368 - 127.0.0.1 - - [04/Apr/2026 17:14:54] "[36mGET /static/uploads/WhatsApp_Image_2026-04-04_at_2.22.50_PM.jpeg HTTP/1.1[0m" 304 -
+2026-04-04 17:14:54,468 - 127.0.0.1 - - [04/Apr/2026 17:14:54] "GET /faculty_dashboard HTTP/1.1" 200 -
+2026-04-04 17:14:54,488 - 127.0.0.1 - - [04/Apr/2026 17:14:54] "[33mGET /static/uploads/WhatsApp%20Image%202025-11-13%20at%2012.48.04%20PM.jpeg HTTP/1.1[0m" 404 -
+2026-04-04 17:14:54,490 - 127.0.0.1 - - [04/Apr/2026 17:14:54] "[36mGET /static/uploads/16pp-05.jpg.jpeg HTTP/1.1[0m" 304 -
+2026-04-04 17:14:54,499 - 127.0.0.1 - - [04/Apr/2026 17:14:54] "[36mGET /static/uploads/OIP.jpg HTTP/1.1[0m" 304 -
+2026-04-04 17:14:54,503 - 127.0.0.1 - - [04/Apr/2026 17:14:54] "[36mGET /static/uploads/WhatsApp_Image_2026-04-04_at_2.22.50_PM.jpeg HTTP/1.1[0m" 304 -
+2026-04-04 17:14:56,090 - 127.0.0.1 - - [04/Apr/2026 17:14:56] "GET /faculty_dashboard HTTP/1.1" 200 -
+2026-04-04 17:14:56,113 - 127.0.0.1 - - [04/Apr/2026 17:14:56] "[33mGET /static/uploads/WhatsApp%20Image%202025-11-13%20at%2012.48.04%20PM.jpeg HTTP/1.1[0m" 404 -
+2026-04-04 17:14:56,115 - 127.0.0.1 - - [04/Apr/2026 17:14:56] "[36mGET /static/uploads/16pp-05.jpg.jpeg HTTP/1.1[0m" 304 -
+2026-04-04 17:14:56,124 - 127.0.0.1 - - [04/Apr/2026 17:14:56] "[36mGET /static/uploads/OIP.jpg HTTP/1.1[0m" 304 -
+2026-04-04 17:14:56,127 - 127.0.0.1 - - [04/Apr/2026 17:14:56] "[36mGET /static/uploads/WhatsApp_Image_2026-04-04_at_2.22.50_PM.jpeg HTTP/1.1[0m" 304 -
+2026-04-04 17:14:56,444 - 127.0.0.1 - - [04/Apr/2026 17:14:56] "GET /faculty_dashboard HTTP/1.1" 200 -
+2026-04-04 17:14:56,463 - 127.0.0.1 - - [04/Apr/2026 17:14:56] "[33mGET /static/uploads/WhatsApp%20Image%202025-11-13%20at%2012.48.04%20PM.jpeg HTTP/1.1[0m" 404 -
+2026-04-04 17:14:56,464 - 127.0.0.1 - - [04/Apr/2026 17:14:56] "[36mGET /static/uploads/16pp-05.jpg.jpeg HTTP/1.1[0m" 304 -
+2026-04-04 17:14:56,473 - 127.0.0.1 - - [04/Apr/2026 17:14:56] "[36mGET /static/uploads/OIP.jpg HTTP/1.1[0m" 304 -
+2026-04-04 17:14:56,477 - 127.0.0.1 - - [04/Apr/2026 17:14:56] "[36mGET /static/uploads/WhatsApp_Image_2026-04-04_at_2.22.50_PM.jpeg HTTP/1.1[0m" 304 -
+2026-04-04 17:15:08,317 - Camera opened for attendance. Subject: ECE, Faculty ID: 4
+2026-04-04 17:15:26,178 - Camera closed.
+2026-04-04 17:15:26,189 - 127.0.0.1 - - [04/Apr/2026 17:15:26] "[32mPOST /start_attendance HTTP/1.1[0m" 302 -
+2026-04-04 17:15:26,207 - 127.0.0.1 - - [04/Apr/2026 17:15:26] "GET /faculty_dashboard HTTP/1.1" 200 -
+2026-04-04 17:15:26,234 - 127.0.0.1 - - [04/Apr/2026 17:15:26] "[33mGET /static/uploads/WhatsApp%20Image%202025-11-13%20at%2012.48.04%20PM.jpeg HTTP/1.1[0m" 404 -
+2026-04-04 17:15:26,239 - 127.0.0.1 - - [04/Apr/2026 17:15:26] "[36mGET /static/uploads/16pp-05.jpg.jpeg HTTP/1.1[0m" 304 -
+2026-04-04 17:15:26,250 - 127.0.0.1 - - [04/Apr/2026 17:15:26] "[36mGET /static/uploads/OIP.jpg HTTP/1.1[0m" 304 -
+2026-04-04 17:15:26,255 - 127.0.0.1 - - [04/Apr/2026 17:15:26] "[36mGET /static/uploads/WhatsApp_Image_2026-04-04_at_2.22.50_PM.jpeg HTTP/1.1[0m" 304 -
+2026-04-04 17:15:38,722 - 127.0.0.1 - - [04/Apr/2026 17:15:38] "GET /faculty_dashboard HTTP/1.1" 200 -
+2026-04-04 17:15:38,746 - 127.0.0.1 - - [04/Apr/2026 17:15:38] "[33mGET /static/uploads/WhatsApp%20Image%202025-11-13%20at%2012.48.04%20PM.jpeg HTTP/1.1[0m" 404 -
+2026-04-04 17:15:38,751 - 127.0.0.1 - - [04/Apr/2026 17:15:38] "[36mGET /static/uploads/16pp-05.jpg.jpeg HTTP/1.1[0m" 304 -
+2026-04-04 17:15:38,759 - 127.0.0.1 - - [04/Apr/2026 17:15:38] "[36mGET /static/uploads/OIP.jpg HTTP/1.1[0m" 304 -
+2026-04-04 17:15:38,764 - 127.0.0.1 - - [04/Apr/2026 17:15:38] "[36mGET /static/uploads/WhatsApp_Image_2026-04-04_at_2.22.50_PM.jpeg HTTP/1.1[0m" 304 -
+2026-04-04 17:15:40,926 - 127.0.0.1 - - [04/Apr/2026 17:15:40] "GET /faculty_dashboard HTTP/1.1" 200 -
+2026-04-04 17:15:40,950 - 127.0.0.1 - - [04/Apr/2026 17:15:40] "[33mGET /static/uploads/WhatsApp%20Image%202025-11-13%20at%2012.48.04%20PM.jpeg HTTP/1.1[0m" 404 -
+2026-04-04 17:15:40,953 - 127.0.0.1 - - [04/Apr/2026 17:15:40] "[36mGET /static/uploads/16pp-05.jpg.jpeg HTTP/1.1[0m" 304 -
+2026-04-04 17:15:40,962 - 127.0.0.1 - - [04/Apr/2026 17:15:40] "[36mGET /static/uploads/OIP.jpg HTTP/1.1[0m" 304 -
+2026-04-04 17:15:40,963 - 127.0.0.1 - - [04/Apr/2026 17:15:40] "[36mGET /static/uploads/WhatsApp_Image_2026-04-04_at_2.22.50_PM.jpeg HTTP/1.1[0m" 304 -
+2026-04-04 17:15:41,160 - 127.0.0.1 - - [04/Apr/2026 17:15:41] "GET /faculty_dashboard HTTP/1.1" 200 -
+2026-04-04 17:15:41,178 - 127.0.0.1 - - [04/Apr/2026 17:15:41] "[33mGET /static/uploads/WhatsApp%20Image%202025-11-13%20at%2012.48.04%20PM.jpeg HTTP/1.1[0m" 404 -
+2026-04-04 17:15:41,182 - 127.0.0.1 - - [04/Apr/2026 17:15:41] "[36mGET /static/uploads/16pp-05.jpg.jpeg HTTP/1.1[0m" 304 -
+2026-04-04 17:15:41,194 - 127.0.0.1 - - [04/Apr/2026 17:15:41] "[36mGET /static/uploads/OIP.jpg HTTP/1.1[0m" 304 -
+2026-04-04 17:15:41,197 - 127.0.0.1 - - [04/Apr/2026 17:15:41] "[36mGET /static/uploads/WhatsApp_Image_2026-04-04_at_2.22.50_PM.jpeg HTTP/1.1[0m" 304 -
+2026-04-04 23:14:45,860 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-04-04 23:14:45,860 - [33mPress CTRL+C to quit[0m
+2026-04-04 23:14:45,863 -  * Restarting with stat
+2026-04-04 23:14:55,250 -  * Debugger is active!
+2026-04-04 23:14:55,252 -  * Debugger PIN: 524-347-047
+2026-04-04 23:15:00,240 - 127.0.0.1 - - [04/Apr/2026 23:15:00] "GET / HTTP/1.1" 200 -
+2026-04-04 23:15:00,410 - 127.0.0.1 - - [04/Apr/2026 23:15:00] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-04-04 23:15:03,303 - 127.0.0.1 - - [04/Apr/2026 23:15:03] "GET /register HTTP/1.1" 200 -
+2026-04-04 23:16:30,383 - 127.0.0.1 - - [04/Apr/2026 23:16:30] "[32mPOST /register HTTP/1.1[0m" 302 -
+2026-04-04 23:16:30,396 - 127.0.0.1 - - [04/Apr/2026 23:16:30] "GET / HTTP/1.1" 200 -
+2026-04-04 23:16:36,787 - 127.0.0.1 - - [04/Apr/2026 23:16:36] "[32mPOST /login HTTP/1.1[0m" 302 -
+2026-04-04 23:16:36,826 - 127.0.0.1 - - [04/Apr/2026 23:16:36] "GET /faculty_dashboard HTTP/1.1" 200 -
+2026-04-04 23:16:36,849 - 127.0.0.1 - - [04/Apr/2026 23:16:36] "[33mGET /static/uploads/WhatsApp%20Image%202025-11-13%20at%2012.48.04%20PM.jpeg HTTP/1.1[0m" 404 -
+2026-04-04 23:16:37,104 - 127.0.0.1 - - [04/Apr/2026 23:16:37] "[36mGET /static/uploads/WhatsApp_Image_2026-04-04_at_2.22.50_PM.jpeg HTTP/1.1[0m" 304 -
+2026-04-04 23:16:37,117 - 127.0.0.1 - - [04/Apr/2026 23:16:37] "[36mGET /static/uploads/OIP.jpg HTTP/1.1[0m" 304 -
+2026-04-04 23:16:37,122 - 127.0.0.1 - - [04/Apr/2026 23:16:37] "[36mGET /static/uploads/16pp-05.jpg.jpeg HTTP/1.1[0m" 304 -
+2026-04-04 23:16:37,137 - 127.0.0.1 - - [04/Apr/2026 23:16:37] "GET /static/uploads/WhatsApp_Image_2026-04-04_at_11.13.20_PM.jpeg HTTP/1.1" 200 -
+2026-04-04 23:16:47,878 - Camera opened for attendance. Subject: G.S, Faculty ID: 4
+2026-04-04 23:17:56,691 - Camera closed.
+2026-04-04 23:17:56,722 - 127.0.0.1 - - [04/Apr/2026 23:17:56] "[32mPOST /start_attendance HTTP/1.1[0m" 302 -
+2026-04-04 23:18:04,882 - Camera opened for attendance. Subject: G.S, Faculty ID: 4
+2026-04-04 23:18:29,489 - Camera closed.
+2026-04-04 23:18:29,502 - 127.0.0.1 - - [04/Apr/2026 23:18:29] "[32mPOST /start_attendance HTTP/1.1[0m" 302 -
+2026-04-04 23:18:29,525 - 127.0.0.1 - - [04/Apr/2026 23:18:29] "GET /faculty_dashboard HTTP/1.1" 200 -
+2026-04-04 23:18:29,554 - 127.0.0.1 - - [04/Apr/2026 23:18:29] "[33mGET /static/uploads/WhatsApp%20Image%202025-11-13%20at%2012.48.04%20PM.jpeg HTTP/1.1[0m" 404 -
+2026-04-04 23:18:29,563 - 127.0.0.1 - - [04/Apr/2026 23:18:29] "[36mGET /static/uploads/16pp-05.jpg.jpeg HTTP/1.1[0m" 304 -
+2026-04-04 23:18:29,574 - 127.0.0.1 - - [04/Apr/2026 23:18:29] "[36mGET /static/uploads/WhatsApp_Image_2026-04-04_at_2.22.50_PM.jpeg HTTP/1.1[0m" 304 -
+2026-04-04 23:18:29,578 - 127.0.0.1 - - [04/Apr/2026 23:18:29] "[36mGET /static/uploads/WhatsApp_Image_2026-04-04_at_11.13.20_PM.jpeg HTTP/1.1[0m" 304 -
+2026-04-04 23:18:29,588 - 127.0.0.1 - - [04/Apr/2026 23:18:29] "[36mGET /static/uploads/OIP.jpg HTTP/1.1[0m" 304 -
+2026-04-05 19:47:34,379 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-04-05 19:47:34,379 - [33mPress CTRL+C to quit[0m
+2026-04-05 19:47:34,382 -  * Restarting with stat
+2026-04-05 19:47:44,634 -  * Debugger is active!
+2026-04-05 19:47:44,637 -  * Debugger PIN: 524-347-047
+2026-04-05 19:47:44,755 - 127.0.0.1 - - [05/Apr/2026 19:47:44] "GET / HTTP/1.1" 200 -
+2026-04-05 19:47:44,923 - 127.0.0.1 - - [05/Apr/2026 19:47:44] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-04-05 19:47:51,577 - 127.0.0.1 - - [05/Apr/2026 19:47:51] "[32mPOST /login HTTP/1.1[0m" 302 -
+2026-04-05 19:47:51,610 - 127.0.0.1 - - [05/Apr/2026 19:47:51] "GET /faculty_dashboard HTTP/1.1" 200 -
+2026-04-05 19:47:51,633 - 127.0.0.1 - - [05/Apr/2026 19:47:51] "[33mGET /static/uploads/WhatsApp%20Image%202025-11-13%20at%2012.48.04%20PM.jpeg HTTP/1.1[0m" 404 -
+2026-04-05 19:47:51,882 - 127.0.0.1 - - [05/Apr/2026 19:47:51] "[36mGET /static/uploads/16pp-05.jpg.jpeg HTTP/1.1[0m" 304 -
+2026-04-05 19:47:51,898 - 127.0.0.1 - - [05/Apr/2026 19:47:51] "[36mGET /static/uploads/OIP.jpg HTTP/1.1[0m" 304 -
+2026-04-05 19:47:51,910 - 127.0.0.1 - - [05/Apr/2026 19:47:51] "[36mGET /static/uploads/WhatsApp_Image_2026-04-04_at_2.22.50_PM.jpeg HTTP/1.1[0m" 304 -
+2026-04-05 19:47:51,910 - 127.0.0.1 - - [05/Apr/2026 19:47:51] "[36mGET /static/uploads/WhatsApp_Image_2026-04-04_at_11.13.20_PM.jpeg HTTP/1.1[0m" 304 -
+2026-04-05 19:48:01,527 - Camera opened for attendance. Subject: G.S, Faculty ID: 4
+2026-04-05 19:48:51,062 - Camera closed.
+2026-04-05 19:48:51,082 - 127.0.0.1 - - [05/Apr/2026 19:48:51] "[32mPOST /start_attendance HTTP/1.1[0m" 302 -
+2026-04-05 19:49:01,784 - Camera opened for attendance. Subject: G.S, Faculty ID: 4
+2026-04-05 19:49:31,811 - Camera closed.
+2026-04-05 19:49:31,823 - 127.0.0.1 - - [05/Apr/2026 19:49:31] "[32mPOST /start_attendance HTTP/1.1[0m" 302 -
+2026-04-05 19:49:41,956 - Camera opened for attendance. Subject: G.S, Faculty ID: 4
+2026-04-05 19:50:09,959 - Camera closed.
+2026-04-05 19:50:09,982 - 127.0.0.1 - - [05/Apr/2026 19:50:09] "[32mPOST /start_attendance HTTP/1.1[0m" 302 -
+2026-04-05 19:50:10,023 - 127.0.0.1 - - [05/Apr/2026 19:50:10] "GET /faculty_dashboard HTTP/1.1" 200 -
+2026-04-05 19:50:10,064 - 127.0.0.1 - - [05/Apr/2026 19:50:10] "[33mGET /static/uploads/WhatsApp%20Image%202025-11-13%20at%2012.48.04%20PM.jpeg HTTP/1.1[0m" 404 -
+2026-04-05 19:50:10,075 - 127.0.0.1 - - [05/Apr/2026 19:50:10] "[36mGET /static/uploads/16pp-05.jpg.jpeg HTTP/1.1[0m" 304 -
+2026-04-05 19:50:10,083 - 127.0.0.1 - - [05/Apr/2026 19:50:10] "[36mGET /static/uploads/OIP.jpg HTTP/1.1[0m" 304 -
+2026-04-05 19:50:10,094 - 127.0.0.1 - - [05/Apr/2026 19:50:10] "[36mGET /static/uploads/WhatsApp_Image_2026-04-04_at_2.22.50_PM.jpeg HTTP/1.1[0m" 304 -
+2026-04-05 19:50:10,097 - 127.0.0.1 - - [05/Apr/2026 19:50:10] "[36mGET /static/uploads/WhatsApp_Image_2026-04-04_at_11.13.20_PM.jpeg HTTP/1.1[0m" 304 -
+2026-04-05 19:50:24,484 - Camera opened for attendance. Subject: G.S, Faculty ID: 4
+2026-04-05 19:50:34,907 - Camera closed.
+2026-04-05 19:50:34,920 - 127.0.0.1 - - [05/Apr/2026 19:50:34] "[32mPOST /start_attendance HTTP/1.1[0m" 302 -
+2026-04-05 19:50:34,939 - 127.0.0.1 - - [05/Apr/2026 19:50:34] "GET /faculty_dashboard HTTP/1.1" 200 -
+2026-04-05 19:50:34,968 - 127.0.0.1 - - [05/Apr/2026 19:50:34] "[33mGET /static/uploads/WhatsApp%20Image%202025-11-13%20at%2012.48.04%20PM.jpeg HTTP/1.1[0m" 404 -
+2026-04-05 19:50:34,981 - 127.0.0.1 - - [05/Apr/2026 19:50:34] "[36mGET /static/uploads/16pp-05.jpg.jpeg HTTP/1.1[0m" 304 -
+2026-04-05 19:50:34,983 - 127.0.0.1 - - [05/Apr/2026 19:50:34] "[36mGET /static/uploads/OIP.jpg HTTP/1.1[0m" 304 -
+2026-04-05 19:50:34,990 - 127.0.0.1 - - [05/Apr/2026 19:50:34] "[36mGET /static/uploads/WhatsApp_Image_2026-04-04_at_2.22.50_PM.jpeg HTTP/1.1[0m" 304 -
+2026-04-05 19:50:34,995 - 127.0.0.1 - - [05/Apr/2026 19:50:34] "[36mGET /static/uploads/WhatsApp_Image_2026-04-04_at_11.13.20_PM.jpeg HTTP/1.1[0m" 304 -
+2026-04-05 19:56:56,533 -  * Detected change in 'C:\\Users\\vafid\\Downloads\\AutoSystem\\AutoSystem\\app.py', reloading
+2026-04-05 19:56:57,815 -  * Restarting with stat
+2026-04-05 19:57:06,960 -  * Debugger is active!
+2026-04-05 19:57:06,962 -  * Debugger PIN: 524-347-047
+2026-04-05 19:58:19,075 -  * Detected change in 'C:\\Users\\vafid\\Downloads\\AutoSystem\\AutoSystem\\app.py', reloading
+2026-04-05 19:58:20,068 -  * Restarting with stat
+2026-04-05 19:58:29,251 -  * Debugger is active!
+2026-04-05 19:58:29,255 -  * Debugger PIN: 524-347-047
+2026-04-05 20:11:46,675 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-04-05 20:11:46,675 - [33mPress CTRL+C to quit[0m
+2026-04-05 20:11:46,678 -  * Restarting with stat
+2026-04-05 20:11:57,170 -  * Debugger is active!
+2026-04-05 20:11:57,175 -  * Debugger PIN: 524-347-047
+2026-04-05 20:11:57,225 - 127.0.0.1 - - [05/Apr/2026 20:11:57] "GET /faculty_dashboard HTTP/1.1" 200 -
+2026-04-05 20:11:57,239 - 127.0.0.1 - - [05/Apr/2026 20:11:57] "[33mGET /static/uploads/WhatsApp%20Image%202025-11-13%20at%2012.48.04%20PM.jpeg HTTP/1.1[0m" 404 -
+2026-04-05 20:11:57,434 - 127.0.0.1 - - [05/Apr/2026 20:11:57] "[36mGET /static/uploads/16pp-05.jpg.jpeg HTTP/1.1[0m" 304 -
+2026-04-05 20:11:57,475 - 127.0.0.1 - - [05/Apr/2026 20:11:57] "[36mGET /static/uploads/OIP.jpg HTTP/1.1[0m" 304 -
+2026-04-05 20:11:57,480 - 127.0.0.1 - - [05/Apr/2026 20:11:57] "[36mGET /static/uploads/WhatsApp_Image_2026-04-04_at_2.22.50_PM.jpeg HTTP/1.1[0m" 304 -
+2026-04-05 20:11:57,482 - 127.0.0.1 - - [05/Apr/2026 20:11:57] "[36mGET /static/uploads/WhatsApp_Image_2026-04-04_at_11.13.20_PM.jpeg HTTP/1.1[0m" 304 -
+2026-04-05 20:12:06,932 - 127.0.0.1 - - [05/Apr/2026 20:12:06] "GET / HTTP/1.1" 200 -
+2026-04-05 20:12:12,214 - 127.0.0.1 - - [05/Apr/2026 20:12:12] "[32mPOST /login HTTP/1.1[0m" 302 -
+2026-04-05 20:12:12,234 - 127.0.0.1 - - [05/Apr/2026 20:12:12] "GET /faculty_dashboard HTTP/1.1" 200 -
+2026-04-05 20:12:12,254 - 127.0.0.1 - - [05/Apr/2026 20:12:12] "[33mGET /static/uploads/WhatsApp%20Image%202025-11-13%20at%2012.48.04%20PM.jpeg HTTP/1.1[0m" 404 -
+2026-04-05 20:12:12,261 - 127.0.0.1 - - [05/Apr/2026 20:12:12] "[36mGET /static/uploads/16pp-05.jpg.jpeg HTTP/1.1[0m" 304 -
+2026-04-05 20:12:12,273 - 127.0.0.1 - - [05/Apr/2026 20:12:12] "[36mGET /static/uploads/WhatsApp_Image_2026-04-04_at_2.22.50_PM.jpeg HTTP/1.1[0m" 304 -
+2026-04-05 20:12:12,273 - 127.0.0.1 - - [05/Apr/2026 20:12:12] "[36mGET /static/uploads/OIP.jpg HTTP/1.1[0m" 304 -
+2026-04-05 20:12:12,277 - 127.0.0.1 - - [05/Apr/2026 20:12:12] "[36mGET /static/uploads/WhatsApp_Image_2026-04-04_at_11.13.20_PM.jpeg HTTP/1.1[0m" 304 -
+2026-04-05 20:12:28,212 - Camera opened for attendance. Subject: G.S, Faculty ID: 4
+2026-04-05 20:13:25,798 - 127.0.0.1 - - [05/Apr/2026 20:13:25] "[32mPOST /start_attendance HTTP/1.1[0m" 302 -
+2026-04-05 20:13:25,830 - 127.0.0.1 - - [05/Apr/2026 20:13:25] "GET /faculty_dashboard HTTP/1.1" 200 -
+2026-04-05 20:13:25,852 - 127.0.0.1 - - [05/Apr/2026 20:13:25] "[33mGET /static/uploads/WhatsApp%20Image%202025-11-13%20at%2012.48.04%20PM.jpeg HTTP/1.1[0m" 404 -
+2026-04-05 20:13:25,855 - 127.0.0.1 - - [05/Apr/2026 20:13:25] "[36mGET /static/uploads/16pp-05.jpg.jpeg HTTP/1.1[0m" 304 -
+2026-04-05 20:13:25,864 - 127.0.0.1 - - [05/Apr/2026 20:13:25] "[36mGET /static/uploads/OIP.jpg HTTP/1.1[0m" 304 -
+2026-04-05 20:13:25,869 - 127.0.0.1 - - [05/Apr/2026 20:13:25] "[36mGET /static/uploads/WhatsApp_Image_2026-04-04_at_2.22.50_PM.jpeg HTTP/1.1[0m" 304 -
+2026-04-05 20:13:25,874 - 127.0.0.1 - - [05/Apr/2026 20:13:25] "[36mGET /static/uploads/WhatsApp_Image_2026-04-04_at_11.13.20_PM.jpeg HTTP/1.1[0m" 304 -
+2026-04-05 20:13:41,575 - Camera opened for attendance. Subject: G.S, Faculty ID: 4
+2026-04-05 20:15:25,500 - 127.0.0.1 - - [05/Apr/2026 20:15:25] "[32mPOST /start_attendance HTTP/1.1[0m" 302 -
+2026-04-05 20:15:25,520 - 127.0.0.1 - - [05/Apr/2026 20:15:25] "GET /faculty_dashboard HTTP/1.1" 200 -
+2026-04-05 20:15:25,544 - 127.0.0.1 - - [05/Apr/2026 20:15:25] "[33mGET /static/uploads/WhatsApp%20Image%202025-11-13%20at%2012.48.04%20PM.jpeg HTTP/1.1[0m" 404 -
+2026-04-05 20:15:25,550 - 127.0.0.1 - - [05/Apr/2026 20:15:25] "[36mGET /static/uploads/16pp-05.jpg.jpeg HTTP/1.1[0m" 304 -
+2026-04-05 20:15:25,554 - 127.0.0.1 - - [05/Apr/2026 20:15:25] "[36mGET /static/uploads/OIP.jpg HTTP/1.1[0m" 304 -
+2026-04-05 20:15:25,564 - 127.0.0.1 - - [05/Apr/2026 20:15:25] "[36mGET /static/uploads/WhatsApp_Image_2026-04-04_at_2.22.50_PM.jpeg HTTP/1.1[0m" 304 -
+2026-04-05 20:15:25,569 - 127.0.0.1 - - [05/Apr/2026 20:15:25] "[36mGET /static/uploads/WhatsApp_Image_2026-04-04_at_11.13.20_PM.jpeg HTTP/1.1[0m" 304 -
+2026-04-05 20:16:44,153 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-04-05 20:16:44,153 - [33mPress CTRL+C to quit[0m
+2026-04-05 20:16:44,156 -  * Restarting with stat
+2026-04-05 20:16:52,197 - 127.0.0.1 - - [05/Apr/2026 20:16:52] "GET / HTTP/1.1" 200 -
+2026-04-05 20:16:52,329 - 127.0.0.1 - - [05/Apr/2026 20:16:52] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-04-05 20:16:56,856 -  * Debugger is active!
+2026-04-05 20:16:56,861 -  * Debugger PIN: 524-347-047
+2026-04-05 20:16:57,379 - 127.0.0.1 - - [05/Apr/2026 20:16:57] "[32mPOST /login HTTP/1.1[0m" 302 -
+2026-04-05 20:16:57,406 - 127.0.0.1 - - [05/Apr/2026 20:16:57] "GET /faculty_dashboard HTTP/1.1" 200 -
+2026-04-05 20:16:57,431 - 127.0.0.1 - - [05/Apr/2026 20:16:57] "[33mGET /static/uploads/WhatsApp%20Image%202025-11-13%20at%2012.48.04%20PM.jpeg HTTP/1.1[0m" 404 -
+2026-04-05 20:16:57,436 - 127.0.0.1 - - [05/Apr/2026 20:16:57] "[36mGET /static/uploads/16pp-05.jpg.jpeg HTTP/1.1[0m" 304 -
+2026-04-05 20:16:57,451 - 127.0.0.1 - - [05/Apr/2026 20:16:57] "[36mGET /static/uploads/OIP.jpg HTTP/1.1[0m" 304 -
+2026-04-05 20:16:57,452 - 127.0.0.1 - - [05/Apr/2026 20:16:57] "[36mGET /static/uploads/WhatsApp_Image_2026-04-04_at_2.22.50_PM.jpeg HTTP/1.1[0m" 304 -
+2026-04-05 20:16:57,457 - 127.0.0.1 - - [05/Apr/2026 20:16:57] "[36mGET /static/uploads/WhatsApp_Image_2026-04-04_at_11.13.20_PM.jpeg HTTP/1.1[0m" 304 -
+2026-04-05 20:17:06,230 - Camera opened for attendance. Subject: G.S, Faculty ID: 4
+2026-04-05 20:17:24,659 - 127.0.0.1 - - [05/Apr/2026 20:17:24] "[32mPOST /start_attendance HTTP/1.1[0m" 302 -
+2026-04-05 20:17:24,685 - 127.0.0.1 - - [05/Apr/2026 20:17:24] "GET /faculty_dashboard HTTP/1.1" 200 -
+2026-04-05 20:17:24,721 - 127.0.0.1 - - [05/Apr/2026 20:17:24] "[33mGET /static/uploads/WhatsApp%20Image%202025-11-13%20at%2012.48.04%20PM.jpeg HTTP/1.1[0m" 404 -
+2026-04-05 20:17:24,727 - 127.0.0.1 - - [05/Apr/2026 20:17:24] "[36mGET /static/uploads/16pp-05.jpg.jpeg HTTP/1.1[0m" 304 -
+2026-04-05 20:17:24,734 - 127.0.0.1 - - [05/Apr/2026 20:17:24] "[36mGET /static/uploads/OIP.jpg HTTP/1.1[0m" 304 -
+2026-04-05 20:17:24,739 - 127.0.0.1 - - [05/Apr/2026 20:17:24] "[36mGET /static/uploads/WhatsApp_Image_2026-04-04_at_2.22.50_PM.jpeg HTTP/1.1[0m" 304 -
+2026-04-05 20:17:24,743 - 127.0.0.1 - - [05/Apr/2026 20:17:24] "[36mGET /static/uploads/WhatsApp_Image_2026-04-04_at_11.13.20_PM.jpeg HTTP/1.1[0m" 304 -
+2026-04-05 20:17:42,069 - Camera opened for attendance. Subject: G.S, Faculty ID: 4
+2026-04-05 20:18:09,175 - 127.0.0.1 - - [05/Apr/2026 20:18:09] "[32mPOST /start_attendance HTTP/1.1[0m" 302 -
+2026-04-05 20:18:09,203 - 127.0.0.1 - - [05/Apr/2026 20:18:09] "GET /faculty_dashboard HTTP/1.1" 200 -
+2026-04-05 20:18:09,240 - 127.0.0.1 - - [05/Apr/2026 20:18:09] "[33mGET /static/uploads/WhatsApp%20Image%202025-11-13%20at%2012.48.04%20PM.jpeg HTTP/1.1[0m" 404 -
+2026-04-05 20:18:09,245 - 127.0.0.1 - - [05/Apr/2026 20:18:09] "[36mGET /static/uploads/16pp-05.jpg.jpeg HTTP/1.1[0m" 304 -
+2026-04-05 20:18:09,254 - 127.0.0.1 - - [05/Apr/2026 20:18:09] "[36mGET /static/uploads/OIP.jpg HTTP/1.1[0m" 304 -
+2026-04-05 20:18:09,259 - 127.0.0.1 - - [05/Apr/2026 20:18:09] "[36mGET /static/uploads/WhatsApp_Image_2026-04-04_at_2.22.50_PM.jpeg HTTP/1.1[0m" 304 -
+2026-04-05 20:18:09,265 - 127.0.0.1 - - [05/Apr/2026 20:18:09] "[36mGET /static/uploads/WhatsApp_Image_2026-04-04_at_11.13.20_PM.jpeg HTTP/1.1[0m" 304 -
+2026-04-05 20:18:51,864 - Camera opened for attendance. Subject: ECE, Faculty ID: 4
+2026-04-05 20:21:33,536 - 127.0.0.1 - - [05/Apr/2026 20:21:33] "[32mPOST /start_attendance HTTP/1.1[0m" 302 -
+2026-04-05 20:21:33,579 - 127.0.0.1 - - [05/Apr/2026 20:21:33] "GET /faculty_dashboard HTTP/1.1" 200 -
+2026-04-05 20:21:33,614 - 127.0.0.1 - - [05/Apr/2026 20:21:33] "[33mGET /static/uploads/WhatsApp%20Image%202025-11-13%20at%2012.48.04%20PM.jpeg HTTP/1.1[0m" 404 -
+2026-04-05 20:21:33,621 - 127.0.0.1 - - [05/Apr/2026 20:21:33] "[36mGET /static/uploads/16pp-05.jpg.jpeg HTTP/1.1[0m" 304 -
+2026-04-05 20:21:33,630 - 127.0.0.1 - - [05/Apr/2026 20:21:33] "[36mGET /static/uploads/OIP.jpg HTTP/1.1[0m" 304 -
+2026-04-05 20:21:33,635 - 127.0.0.1 - - [05/Apr/2026 20:21:33] "[36mGET /static/uploads/WhatsApp_Image_2026-04-04_at_2.22.50_PM.jpeg HTTP/1.1[0m" 304 -
+2026-04-05 20:21:33,643 - 127.0.0.1 - - [05/Apr/2026 20:21:33] "[36mGET /static/uploads/WhatsApp_Image_2026-04-04_at_11.13.20_PM.jpeg HTTP/1.1[0m" 304 -
+2026-04-05 20:21:44,445 - Camera opened for attendance. Subject: ECE, Faculty ID: 4
+2026-04-05 20:25:00,859 - 127.0.0.1 - - [05/Apr/2026 20:25:00] "[32mPOST /start_attendance HTTP/1.1[0m" 302 -
+2026-04-05 20:25:00,889 - 127.0.0.1 - - [05/Apr/2026 20:25:00] "GET /faculty_dashboard HTTP/1.1" 200 -
+2026-04-05 20:25:00,925 - 127.0.0.1 - - [05/Apr/2026 20:25:00] "[33mGET /static/uploads/WhatsApp%20Image%202025-11-13%20at%2012.48.04%20PM.jpeg HTTP/1.1[0m" 404 -
+2026-04-05 20:25:00,934 - 127.0.0.1 - - [05/Apr/2026 20:25:00] "[36mGET /static/uploads/16pp-05.jpg.jpeg HTTP/1.1[0m" 304 -
+2026-04-05 20:25:00,942 - 127.0.0.1 - - [05/Apr/2026 20:25:00] "[36mGET /static/uploads/OIP.jpg HTTP/1.1[0m" 304 -
+2026-04-05 20:25:00,948 - 127.0.0.1 - - [05/Apr/2026 20:25:00] "[36mGET /static/uploads/WhatsApp_Image_2026-04-04_at_2.22.50_PM.jpeg HTTP/1.1[0m" 304 -
+2026-04-05 20:25:00,956 - 127.0.0.1 - - [05/Apr/2026 20:25:00] "[36mGET /static/uploads/WhatsApp_Image_2026-04-04_at_11.13.20_PM.jpeg HTTP/1.1[0m" 304 -
+2026-04-05 20:35:16,688 -  * Detected change in 'C:\\Users\\vafid\\Downloads\\AutoSystem\\AutoSystem\\models.py', reloading
+2026-04-05 20:35:16,709 -  * Detected change in 'C:\\Users\\vafid\\Downloads\\AutoSystem\\AutoSystem\\models.py', reloading
+2026-04-05 20:35:18,474 -  * Restarting with stat
+2026-04-05 20:35:18,907 -  * Restarting with stat
+2026-04-05 20:35:27,491 -  * Debugger is active!
+2026-04-05 20:35:27,495 -  * Debugger PIN: 524-347-047
+2026-04-05 20:35:27,504 -  * Debugger is active!
+2026-04-05 20:35:27,507 -  * Debugger PIN: 524-347-047
+2026-04-05 20:35:43,790 -  * Detected change in 'C:\\Users\\vafid\\Downloads\\AutoSystem\\AutoSystem\\attendance_service.py', reloading
+2026-04-05 20:35:43,808 -  * Detected change in 'C:\\Users\\vafid\\Downloads\\AutoSystem\\AutoSystem\\attendance_service.py', reloading
+2026-04-05 20:35:44,966 -  * Restarting with stat
+2026-04-05 20:35:45,052 -  * Restarting with stat
+2026-04-05 20:35:54,085 -  * Debugger is active!
+2026-04-05 20:35:54,087 -  * Debugger PIN: 524-347-047
+2026-04-05 20:35:54,218 -  * Debugger is active!
+2026-04-05 20:35:54,221 -  * Debugger PIN: 524-347-047
+2026-04-05 20:35:57,166 -  * Detected change in 'C:\\Users\\vafid\\Downloads\\AutoSystem\\AutoSystem\\app.py', reloading
+2026-04-05 20:35:57,310 -  * Detected change in 'C:\\Users\\vafid\\Downloads\\AutoSystem\\AutoSystem\\app.py', reloading
+2026-04-05 20:35:58,903 -  * Restarting with stat
+2026-04-05 20:35:59,020 -  * Restarting with stat
+2026-04-05 20:36:07,484 -  * Debugger is active!
+2026-04-05 20:36:07,486 -  * Debugger PIN: 524-347-047
+2026-04-05 20:36:07,537 -  * Debugger is active!
+2026-04-05 20:36:07,540 -  * Debugger PIN: 524-347-047
+2026-04-05 20:36:22,760 -  * Detected change in 'C:\\Users\\vafid\\Downloads\\AutoSystem\\AutoSystem\\app.py', reloading
+2026-04-05 20:36:22,838 -  * Detected change in 'C:\\Users\\vafid\\Downloads\\AutoSystem\\AutoSystem\\app.py', reloading
+2026-04-05 20:36:24,451 -  * Restarting with stat
+2026-04-05 20:36:24,509 -  * Restarting with stat
+2026-04-05 20:36:33,113 -  * Debugger is active!
+2026-04-05 20:36:33,119 -  * Debugger PIN: 524-347-047
+2026-04-05 20:36:33,129 -  * Debugger is active!
+2026-04-05 20:36:33,133 -  * Debugger PIN: 524-347-047
+2026-04-05 20:40:16,472 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-04-05 20:40:16,472 - [33mPress CTRL+C to quit[0m
+2026-04-05 20:40:16,474 -  * Restarting with stat
+2026-04-05 20:40:23,727 - 127.0.0.1 - - [05/Apr/2026 20:40:23] "GET / HTTP/1.1" 200 -
+2026-04-05 20:40:23,850 - 127.0.0.1 - - [05/Apr/2026 20:40:23] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-04-05 20:40:27,290 -  * Debugger is active!
+2026-04-05 20:40:27,293 -  * Debugger PIN: 524-347-047
+2026-04-05 20:40:30,567 - 127.0.0.1 - - [05/Apr/2026 20:40:30] "[32mPOST /login HTTP/1.1[0m" 302 -
+2026-04-05 20:40:30,607 - 127.0.0.1 - - [05/Apr/2026 20:40:30] "GET /faculty_dashboard HTTP/1.1" 200 -
+2026-04-05 20:40:30,627 - 127.0.0.1 - - [05/Apr/2026 20:40:30] "[33mGET /static/uploads/WhatsApp%20Image%202025-11-13%20at%2012.48.04%20PM.jpeg HTTP/1.1[0m" 404 -
+2026-04-05 20:40:30,845 - 127.0.0.1 - - [05/Apr/2026 20:40:30] "[36mGET /static/uploads/16pp-05.jpg.jpeg HTTP/1.1[0m" 304 -
+2026-04-05 20:40:30,862 - 127.0.0.1 - - [05/Apr/2026 20:40:30] "[36mGET /static/uploads/WhatsApp_Image_2026-04-04_at_11.13.20_PM.jpeg HTTP/1.1[0m" 304 -
+2026-04-05 20:40:30,871 - 127.0.0.1 - - [05/Apr/2026 20:40:30] "[36mGET /static/uploads/OIP.jpg HTTP/1.1[0m" 304 -
+2026-04-05 20:40:30,872 - 127.0.0.1 - - [05/Apr/2026 20:40:30] "[36mGET /static/uploads/WhatsApp_Image_2026-04-04_at_2.22.50_PM.jpeg HTTP/1.1[0m" 304 -
+2026-04-05 20:41:52,546 - 127.0.0.1 - - [05/Apr/2026 20:41:52] "[32mPOST /start_attendance HTTP/1.1[0m" 302 -
+2026-04-05 20:41:52,569 - 127.0.0.1 - - [05/Apr/2026 20:41:52] "GET /faculty_dashboard HTTP/1.1" 200 -
+2026-04-05 20:41:52,604 - 127.0.0.1 - - [05/Apr/2026 20:41:52] "[33mGET /static/uploads/WhatsApp%20Image%202025-11-13%20at%2012.48.04%20PM.jpeg HTTP/1.1[0m" 404 -
+2026-04-05 20:41:52,613 - 127.0.0.1 - - [05/Apr/2026 20:41:52] "[36mGET /static/uploads/16pp-05.jpg.jpeg HTTP/1.1[0m" 304 -
+2026-04-05 20:41:52,615 - 127.0.0.1 - - [05/Apr/2026 20:41:52] "[36mGET /static/uploads/WhatsApp_Image_2026-04-04_at_11.13.20_PM.jpeg HTTP/1.1[0m" 304 -
+2026-04-05 20:41:52,623 - 127.0.0.1 - - [05/Apr/2026 20:41:52] "[36mGET /static/uploads/WhatsApp_Image_2026-04-04_at_2.22.50_PM.jpeg HTTP/1.1[0m" 304 -
+2026-04-05 20:41:52,626 - 127.0.0.1 - - [05/Apr/2026 20:41:52] "[36mGET /static/uploads/OIP.jpg HTTP/1.1[0m" 304 -
+2026-04-05 20:42:10,890 - 127.0.0.1 - - [05/Apr/2026 20:42:10] "[32mPOST /start_attendance HTTP/1.1[0m" 302 -
+2026-04-05 20:42:10,916 - 127.0.0.1 - - [05/Apr/2026 20:42:10] "GET /faculty_dashboard HTTP/1.1" 200 -
+2026-04-05 20:42:10,944 - 127.0.0.1 - - [05/Apr/2026 20:42:10] "[33mGET /static/uploads/WhatsApp%20Image%202025-11-13%20at%2012.48.04%20PM.jpeg HTTP/1.1[0m" 404 -
+2026-04-05 20:42:10,946 - 127.0.0.1 - - [05/Apr/2026 20:42:10] "[36mGET /static/uploads/16pp-05.jpg.jpeg HTTP/1.1[0m" 304 -
+2026-04-05 20:42:10,957 - 127.0.0.1 - - [05/Apr/2026 20:42:10] "[36mGET /static/uploads/WhatsApp_Image_2026-04-04_at_11.13.20_PM.jpeg HTTP/1.1[0m" 304 -
+2026-04-05 20:42:10,961 - 127.0.0.1 - - [05/Apr/2026 20:42:10] "[36mGET /static/uploads/WhatsApp_Image_2026-04-04_at_2.22.50_PM.jpeg HTTP/1.1[0m" 304 -
+2026-04-05 20:42:10,964 - 127.0.0.1 - - [05/Apr/2026 20:42:10] "[36mGET /static/uploads/OIP.jpg HTTP/1.1[0m" 304 -
+2026-04-05 20:44:05,015 -  * Detected change in 'C:\\Users\\vafid\\Downloads\\AutoSystem\\AutoSystem\\app.py', reloading
+2026-04-05 20:44:05,375 -  * Detected change in 'C:\\Users\\vafid\\Downloads\\AutoSystem\\AutoSystem\\app.py', reloading
+2026-04-05 20:44:06,787 -  * Restarting with stat
+2026-04-05 20:44:07,014 -  * Restarting with stat
+2026-04-05 20:44:15,163 -  * Debugger is active!
+2026-04-05 20:44:15,166 -  * Debugger PIN: 524-347-047
+2026-04-05 20:44:15,183 -  * Debugger is active!
+2026-04-05 20:44:15,186 -  * Debugger PIN: 524-347-047
+2026-04-05 20:45:30,482 - 127.0.0.1 - - [05/Apr/2026 20:45:30] "GET /faculty_dashboard HTTP/1.1" 200 -
+2026-04-05 20:45:30,498 - 127.0.0.1 - - [05/Apr/2026 20:45:30] "[33mGET /static/uploads/WhatsApp%20Image%202025-11-13%20at%2012.48.04%20PM.jpeg HTTP/1.1[0m" 404 -
+2026-04-05 20:45:30,714 - 127.0.0.1 - - [05/Apr/2026 20:45:30] "[36mGET /static/uploads/16pp-05.jpg.jpeg HTTP/1.1[0m" 304 -
+2026-04-05 20:45:30,735 - 127.0.0.1 - - [05/Apr/2026 20:45:30] "[36mGET /static/uploads/WhatsApp_Image_2026-04-04_at_2.22.50_PM.jpeg HTTP/1.1[0m" 304 -
+2026-04-05 20:45:30,740 - 127.0.0.1 - - [05/Apr/2026 20:45:30] "[36mGET /static/uploads/OIP.jpg HTTP/1.1[0m" 304 -
+2026-04-05 20:45:30,743 - 127.0.0.1 - - [05/Apr/2026 20:45:30] "[36mGET /static/uploads/WhatsApp_Image_2026-04-04_at_11.13.20_PM.jpeg HTTP/1.1[0m" 304 -
+2026-04-05 20:45:41,752 -  * Detected change in 'C:\\Users\\vafid\\Downloads\\AutoSystem\\AutoSystem\\app.py', reloading
+2026-04-05 20:45:41,770 -  * Detected change in 'C:\\Users\\vafid\\Downloads\\AutoSystem\\AutoSystem\\app.py', reloading
+2026-04-05 20:45:43,004 -  * Restarting with stat
+2026-04-05 20:45:43,015 -  * Restarting with stat
+2026-04-05 20:45:53,380 -  * Debugger is active!
+2026-04-05 20:45:53,381 -  * Debugger is active!
+2026-04-05 20:45:53,384 -  * Debugger PIN: 524-347-047
+2026-04-05 20:45:55,783 - 127.0.0.1 - - [05/Apr/2026 20:45:55] "[35m[1mPOST /start_attendance HTTP/1.1[0m" 500 -
+2026-04-05 20:45:55,911 - 127.0.0.1 - - [05/Apr/2026 20:45:55] "[36mGET /start_attendance?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2026-04-05 20:45:55,933 - 127.0.0.1 - - [05/Apr/2026 20:45:55] "[36mGET /start_attendance?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2026-04-05 20:45:55,963 - 127.0.0.1 - - [05/Apr/2026 20:45:55] "GET /start_attendance?__debugger__=yes&cmd=resource&f=console.png&s=504ShUGudtaPLilhG4Cw HTTP/1.1" 200 -
+2026-04-05 20:45:55,971 - 127.0.0.1 - - [05/Apr/2026 20:45:55] "[36mGET /start_attendance?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2026-04-05 20:46:06,275 - 127.0.0.1 - - [05/Apr/2026 20:46:06] "[35m[1mPOST /start_attendance HTTP/1.1[0m" 500 -
+2026-04-05 20:46:06,288 - 127.0.0.1 - - [05/Apr/2026 20:46:06] "[36mGET /start_attendance?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2026-04-05 20:46:06,291 - 127.0.0.1 - - [05/Apr/2026 20:46:06] "[36mGET /start_attendance?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2026-04-05 20:46:06,301 - 127.0.0.1 - - [05/Apr/2026 20:46:06] "[36mGET /start_attendance?__debugger__=yes&cmd=resource&f=console.png&s=504ShUGudtaPLilhG4Cw HTTP/1.1[0m" 304 -
+2026-04-05 20:46:06,328 - 127.0.0.1 - - [05/Apr/2026 20:46:06] "[36mGET /start_attendance?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2026-04-05 20:46:21,603 - 127.0.0.1 - - [05/Apr/2026 20:46:21] "[35m[1mPOST /start_attendance HTTP/1.1[0m" 500 -
+2026-04-05 20:46:21,614 - 127.0.0.1 - - [05/Apr/2026 20:46:21] "[36mGET /start_attendance?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2026-04-05 20:46:21,616 - 127.0.0.1 - - [05/Apr/2026 20:46:21] "[36mGET /start_attendance?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2026-04-05 20:46:21,624 - 127.0.0.1 - - [05/Apr/2026 20:46:21] "[36mGET /start_attendance?__debugger__=yes&cmd=resource&f=console.png&s=504ShUGudtaPLilhG4Cw HTTP/1.1[0m" 304 -
+2026-04-05 20:46:30,200 - 127.0.0.1 - - [05/Apr/2026 20:46:30] "[35m[1mPOST /start_attendance HTTP/1.1[0m" 500 -
+2026-04-05 20:46:30,214 - 127.0.0.1 - - [05/Apr/2026 20:46:30] "[36mGET /start_attendance?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2026-04-05 20:46:30,219 - 127.0.0.1 - - [05/Apr/2026 20:46:30] "[36mGET /start_attendance?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2026-04-05 20:46:30,227 - 127.0.0.1 - - [05/Apr/2026 20:46:30] "[36mGET /start_attendance?__debugger__=yes&cmd=resource&f=console.png&s=504ShUGudtaPLilhG4Cw HTTP/1.1[0m" 304 -
+2026-04-05 20:47:01,322 - 127.0.0.1 - - [05/Apr/2026 20:47:01] "GET /faculty_dashboard HTTP/1.1" 200 -
+2026-04-05 20:47:01,337 - 127.0.0.1 - - [05/Apr/2026 20:47:01] "[33mGET /static/uploads/WhatsApp%20Image%202025-11-13%20at%2012.48.04%20PM.jpeg HTTP/1.1[0m" 404 -
+2026-04-05 20:47:01,339 - 127.0.0.1 - - [05/Apr/2026 20:47:01] "[36mGET /static/uploads/16pp-05.jpg.jpeg HTTP/1.1[0m" 304 -
+2026-04-05 20:47:01,345 - 127.0.0.1 - - [05/Apr/2026 20:47:01] "[36mGET /static/uploads/WhatsApp_Image_2026-04-04_at_11.13.20_PM.jpeg HTTP/1.1[0m" 304 -
+2026-04-05 20:47:01,348 - 127.0.0.1 - - [05/Apr/2026 20:47:01] "[36mGET /static/uploads/WhatsApp_Image_2026-04-04_at_2.22.50_PM.jpeg HTTP/1.1[0m" 304 -
+2026-04-05 20:47:01,350 - 127.0.0.1 - - [05/Apr/2026 20:47:01] "[36mGET /static/uploads/OIP.jpg HTTP/1.1[0m" 304 -
+2026-04-05 20:47:02,735 - 127.0.0.1 - - [05/Apr/2026 20:47:02] "GET /faculty_dashboard HTTP/1.1" 200 -
+2026-04-05 20:47:02,747 - 127.0.0.1 - - [05/Apr/2026 20:47:02] "[33mGET /static/uploads/WhatsApp%20Image%202025-11-13%20at%2012.48.04%20PM.jpeg HTTP/1.1[0m" 404 -
+2026-04-05 20:47:02,749 - 127.0.0.1 - - [05/Apr/2026 20:47:02] "[36mGET /static/uploads/16pp-05.jpg.jpeg HTTP/1.1[0m" 304 -
+2026-04-05 20:47:02,754 - 127.0.0.1 - - [05/Apr/2026 20:47:02] "[36mGET /static/uploads/WhatsApp_Image_2026-04-04_at_11.13.20_PM.jpeg HTTP/1.1[0m" 304 -
+2026-04-05 20:47:02,756 - 127.0.0.1 - - [05/Apr/2026 20:47:02] "[36mGET /static/uploads/WhatsApp_Image_2026-04-04_at_2.22.50_PM.jpeg HTTP/1.1[0m" 304 -
+2026-04-05 20:47:02,760 - 127.0.0.1 - - [05/Apr/2026 20:47:02] "[36mGET /static/uploads/OIP.jpg HTTP/1.1[0m" 304 -
+2026-04-05 20:47:03,737 - 127.0.0.1 - - [05/Apr/2026 20:47:03] "GET /faculty_dashboard HTTP/1.1" 200 -
+2026-04-05 20:47:03,758 - 127.0.0.1 - - [05/Apr/2026 20:47:03] "[33mGET /static/uploads/WhatsApp%20Image%202025-11-13%20at%2012.48.04%20PM.jpeg HTTP/1.1[0m" 404 -
+2026-04-05 20:47:03,761 - 127.0.0.1 - - [05/Apr/2026 20:47:03] "[36mGET /static/uploads/16pp-05.jpg.jpeg HTTP/1.1[0m" 304 -
+2026-04-05 20:47:03,766 - 127.0.0.1 - - [05/Apr/2026 20:47:03] "[36mGET /static/uploads/WhatsApp_Image_2026-04-04_at_11.13.20_PM.jpeg HTTP/1.1[0m" 304 -
+2026-04-05 20:47:03,768 - 127.0.0.1 - - [05/Apr/2026 20:47:03] "[36mGET /static/uploads/WhatsApp_Image_2026-04-04_at_2.22.50_PM.jpeg HTTP/1.1[0m" 304 -
+2026-04-05 20:47:03,771 - 127.0.0.1 - - [05/Apr/2026 20:47:03] "[36mGET /static/uploads/OIP.jpg HTTP/1.1[0m" 304 -
+2026-04-05 20:47:15,826 - 127.0.0.1 - - [05/Apr/2026 20:47:15] "[35m[1mPOST /start_attendance HTTP/1.1[0m" 500 -
+2026-04-05 20:47:15,836 - 127.0.0.1 - - [05/Apr/2026 20:47:15] "[36mGET /start_attendance?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2026-04-05 20:47:15,838 - 127.0.0.1 - - [05/Apr/2026 20:47:15] "[36mGET /start_attendance?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2026-04-05 20:47:15,846 - 127.0.0.1 - - [05/Apr/2026 20:47:15] "[36mGET /start_attendance?__debugger__=yes&cmd=resource&f=console.png&s=504ShUGudtaPLilhG4Cw HTTP/1.1[0m" 304 -
+2026-04-05 20:47:29,301 - 127.0.0.1 - - [05/Apr/2026 20:47:29] "[35m[1mPOST /start_attendance HTTP/1.1[0m" 500 -
+2026-04-05 20:47:29,311 - 127.0.0.1 - - [05/Apr/2026 20:47:29] "[36mGET /start_attendance?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2026-04-05 20:47:29,313 - 127.0.0.1 - - [05/Apr/2026 20:47:29] "[36mGET /start_attendance?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2026-04-05 20:47:29,321 - 127.0.0.1 - - [05/Apr/2026 20:47:29] "[36mGET /start_attendance?__debugger__=yes&cmd=resource&f=console.png&s=504ShUGudtaPLilhG4Cw HTTP/1.1[0m" 304 -
+2026-04-05 20:48:08,719 -  * Detected change in 'C:\\Users\\vafid\\Downloads\\AutoSystem\\AutoSystem\\app.py', reloading
+2026-04-05 20:48:08,735 -  * Detected change in 'C:\\Users\\vafid\\Downloads\\AutoSystem\\AutoSystem\\app.py', reloading
+2026-04-05 20:48:09,948 -  * Restarting with stat
+2026-04-05 20:48:10,207 -  * Restarting with stat
+2026-04-05 20:48:20,920 -  * Debugger is active!
+2026-04-05 20:48:20,921 -  * Debugger is active!
+2026-04-05 20:48:20,926 -  * Debugger PIN: 524-347-047
+2026-04-05 20:48:20,926 -  * Debugger PIN: 524-347-047
+2026-04-05 20:48:25,704 - Camera opened for attendance. Class: ECE, Subject: ECE1001, Faculty ID: 4
+2026-04-05 20:48:53,837 - 127.0.0.1 - - [05/Apr/2026 20:48:53] "[32mPOST /start_attendance HTTP/1.1[0m" 302 -
+2026-04-05 20:48:53,880 - 127.0.0.1 - - [05/Apr/2026 20:48:53] "GET /faculty_dashboard HTTP/1.1" 200 -
+2026-04-05 20:48:53,907 - 127.0.0.1 - - [05/Apr/2026 20:48:53] "[33mGET /static/uploads/WhatsApp%20Image%202025-11-13%20at%2012.48.04%20PM.jpeg HTTP/1.1[0m" 404 -
+2026-04-05 20:48:54,113 - 127.0.0.1 - - [05/Apr/2026 20:48:54] "[36mGET /static/uploads/16pp-05.jpg.jpeg HTTP/1.1[0m" 304 -
+2026-04-05 20:48:54,119 - 127.0.0.1 - - [05/Apr/2026 20:48:54] "[36mGET /static/uploads/WhatsApp_Image_2026-04-04_at_11.13.20_PM.jpeg HTTP/1.1[0m" 304 -
+2026-04-05 20:48:54,126 - 127.0.0.1 - - [05/Apr/2026 20:48:54] "[36mGET /static/uploads/WhatsApp_Image_2026-04-04_at_2.22.50_PM.jpeg HTTP/1.1[0m" 304 -
+2026-04-05 20:48:54,127 - 127.0.0.1 - - [05/Apr/2026 20:48:54] "[36mGET /static/uploads/OIP.jpg HTTP/1.1[0m" 304 -
+2026-04-05 20:49:09,640 - Camera opened for attendance. Class: ECE, Subject: ECE1001, Faculty ID: 4
+2026-04-05 20:49:45,957 - 127.0.0.1 - - [05/Apr/2026 20:49:45] "[32mPOST /start_attendance HTTP/1.1[0m" 302 -
+2026-04-05 20:49:45,988 - 127.0.0.1 - - [05/Apr/2026 20:49:45] "GET /faculty_dashboard HTTP/1.1" 200 -
+2026-04-05 20:49:46,021 - 127.0.0.1 - - [05/Apr/2026 20:49:46] "[33mGET /static/uploads/WhatsApp%20Image%202025-11-13%20at%2012.48.04%20PM.jpeg HTTP/1.1[0m" 404 -
+2026-04-05 20:49:46,029 - 127.0.0.1 - - [05/Apr/2026 20:49:46] "[36mGET /static/uploads/16pp-05.jpg.jpeg HTTP/1.1[0m" 304 -
+2026-04-05 20:49:46,035 - 127.0.0.1 - - [05/Apr/2026 20:49:46] "[36mGET /static/uploads/WhatsApp_Image_2026-04-04_at_11.13.20_PM.jpeg HTTP/1.1[0m" 304 -
+2026-04-05 20:49:46,042 - 127.0.0.1 - - [05/Apr/2026 20:49:46] "[36mGET /static/uploads/WhatsApp_Image_2026-04-04_at_2.22.50_PM.jpeg HTTP/1.1[0m" 304 -
+2026-04-05 20:49:46,046 - 127.0.0.1 - - [05/Apr/2026 20:49:46] "[36mGET /static/uploads/OIP.jpg HTTP/1.1[0m" 304 -
+2026-04-05 20:50:08,199 - Camera opened for attendance. Class: G.S, Subject: G.S1011, Faculty ID: 4
+2026-04-05 20:50:27,122 - 127.0.0.1 - - [05/Apr/2026 20:50:27] "[32mPOST /start_attendance HTTP/1.1[0m" 302 -
+2026-04-05 20:50:27,147 - 127.0.0.1 - - [05/Apr/2026 20:50:27] "GET /faculty_dashboard HTTP/1.1" 200 -
+2026-04-05 20:50:27,179 - 127.0.0.1 - - [05/Apr/2026 20:50:27] "[33mGET /static/uploads/WhatsApp%20Image%202025-11-13%20at%2012.48.04%20PM.jpeg HTTP/1.1[0m" 404 -
+2026-04-05 20:50:27,187 - 127.0.0.1 - - [05/Apr/2026 20:50:27] "[36mGET /static/uploads/16pp-05.jpg.jpeg HTTP/1.1[0m" 304 -
+2026-04-05 20:50:27,194 - 127.0.0.1 - - [05/Apr/2026 20:50:27] "[36mGET /static/uploads/WhatsApp_Image_2026-04-04_at_11.13.20_PM.jpeg HTTP/1.1[0m" 304 -
+2026-04-05 20:50:27,201 - 127.0.0.1 - - [05/Apr/2026 20:50:27] "[36mGET /static/uploads/WhatsApp_Image_2026-04-04_at_2.22.50_PM.jpeg HTTP/1.1[0m" 304 -
+2026-04-05 20:50:27,205 - 127.0.0.1 - - [05/Apr/2026 20:50:27] "[36mGET /static/uploads/OIP.jpg HTTP/1.1[0m" 304 -
+2026-04-05 20:50:49,016 - 127.0.0.1 - - [05/Apr/2026 20:50:49] "GET /faculty_dashboard HTTP/1.1" 200 -
+2026-04-05 20:50:49,037 - 127.0.0.1 - - [05/Apr/2026 20:50:49] "[33mGET /static/uploads/WhatsApp%20Image%202025-11-13%20at%2012.48.04%20PM.jpeg HTTP/1.1[0m" 404 -
+2026-04-05 20:50:49,041 - 127.0.0.1 - - [05/Apr/2026 20:50:49] "[36mGET /static/uploads/16pp-05.jpg.jpeg HTTP/1.1[0m" 304 -
+2026-04-05 20:50:49,049 - 127.0.0.1 - - [05/Apr/2026 20:50:49] "[36mGET /static/uploads/WhatsApp_Image_2026-04-04_at_11.13.20_PM.jpeg HTTP/1.1[0m" 304 -
+2026-04-05 20:50:49,060 - 127.0.0.1 - - [05/Apr/2026 20:50:49] "[36mGET /static/uploads/WhatsApp_Image_2026-04-04_at_2.22.50_PM.jpeg HTTP/1.1[0m" 304 -
+2026-04-05 20:50:49,061 - 127.0.0.1 - - [05/Apr/2026 20:50:49] "[36mGET /static/uploads/OIP.jpg HTTP/1.1[0m" 304 -
+2026-04-05 20:51:01,815 - Camera opened for attendance. Class: G.S, Subject: G.S1011, Faculty ID: 4
+2026-04-05 20:51:03,636 - Camera opened for attendance. Class: G.S, Subject: G.S1011, Faculty ID: 4
+2026-04-05 20:51:49,989 - Camera opened for attendance. Class: G.S, Subject: G.S1011, Faculty ID: 4
+2026-04-05 20:52:09,168 - 127.0.0.1 - - [05/Apr/2026 20:52:09] "[32mPOST /start_attendance HTTP/1.1[0m" 302 -
+2026-04-05 20:52:09,218 - 127.0.0.1 - - [05/Apr/2026 20:52:09] "GET /faculty_dashboard HTTP/1.1" 200 -
+2026-04-05 20:52:09,252 - 127.0.0.1 - - [05/Apr/2026 20:52:09] "[33mGET /static/uploads/WhatsApp%20Image%202025-11-13%20at%2012.48.04%20PM.jpeg HTTP/1.1[0m" 404 -
+2026-04-05 20:52:09,442 - 127.0.0.1 - - [05/Apr/2026 20:52:09] "[36mGET /static/uploads/16pp-05.jpg.jpeg HTTP/1.1[0m" 304 -
+2026-04-05 20:52:09,463 - 127.0.0.1 - - [05/Apr/2026 20:52:09] "[36mGET /static/uploads/WhatsApp_Image_2026-04-04_at_11.13.20_PM.jpeg HTTP/1.1[0m" 304 -
+2026-04-05 20:52:09,473 - 127.0.0.1 - - [05/Apr/2026 20:52:09] "[36mGET /static/uploads/OIP.jpg HTTP/1.1[0m" 304 -
+2026-04-05 20:52:09,478 - 127.0.0.1 - - [05/Apr/2026 20:52:09] "[36mGET /static/uploads/WhatsApp_Image_2026-04-04_at_2.22.50_PM.jpeg HTTP/1.1[0m" 304 -
+2026-04-05 20:53:02,566 -  * Detected change in 'C:\\Users\\vafid\\Downloads\\AutoSystem\\AutoSystem\\attendance_service.py', reloading
+2026-04-05 20:53:03,869 -  * Restarting with stat
+2026-04-05 20:53:12,448 -  * Debugger is active!
+2026-04-05 20:53:12,452 -  * Debugger PIN: 524-347-047
+2026-04-05 20:53:17,521 - 127.0.0.1 - - [05/Apr/2026 20:53:17] "GET /faculty_dashboard HTTP/1.1" 200 -
+2026-04-05 20:53:17,547 - 127.0.0.1 - - [05/Apr/2026 20:53:17] "[33mGET /static/uploads/WhatsApp%20Image%202025-11-13%20at%2012.48.04%20PM.jpeg HTTP/1.1[0m" 404 -
+2026-04-05 20:53:17,754 - 127.0.0.1 - - [05/Apr/2026 20:53:17] "[36mGET /static/uploads/WhatsApp_Image_2026-04-04_at_11.13.20_PM.jpeg HTTP/1.1[0m" 304 -
+2026-04-05 20:53:17,759 - 127.0.0.1 - - [05/Apr/2026 20:53:17] "[36mGET /static/uploads/WhatsApp_Image_2026-04-04_at_2.22.50_PM.jpeg HTTP/1.1[0m" 304 -
+2026-04-05 20:53:17,765 - 127.0.0.1 - - [05/Apr/2026 20:53:17] "[36mGET /static/uploads/16pp-05.jpg.jpeg HTTP/1.1[0m" 304 -
+2026-04-05 20:53:17,770 - 127.0.0.1 - - [05/Apr/2026 20:53:17] "[36mGET /static/uploads/OIP.jpg HTTP/1.1[0m" 304 -
+2026-04-05 20:53:27,798 - Camera opened for attendance. Class: G.S, Subject: G.S1011, Faculty ID: 4
+2026-04-05 20:53:41,953 - 127.0.0.1 - - [05/Apr/2026 20:53:41] "[32mPOST /start_attendance HTTP/1.1[0m" 302 -
+2026-04-05 20:53:41,975 - 127.0.0.1 - - [05/Apr/2026 20:53:41] "GET /faculty_dashboard HTTP/1.1" 200 -
+2026-04-05 20:53:42,001 - 127.0.0.1 - - [05/Apr/2026 20:53:42] "[33mGET /static/uploads/WhatsApp%20Image%202025-11-13%20at%2012.48.04%20PM.jpeg HTTP/1.1[0m" 404 -
+2026-04-05 20:53:42,007 - 127.0.0.1 - - [05/Apr/2026 20:53:42] "[36mGET /static/uploads/16pp-05.jpg.jpeg HTTP/1.1[0m" 304 -
+2026-04-05 20:53:42,014 - 127.0.0.1 - - [05/Apr/2026 20:53:42] "[36mGET /static/uploads/WhatsApp_Image_2026-04-04_at_11.13.20_PM.jpeg HTTP/1.1[0m" 304 -
+2026-04-05 20:53:42,016 - 127.0.0.1 - - [05/Apr/2026 20:53:42] "[36mGET /static/uploads/WhatsApp_Image_2026-04-04_at_2.22.50_PM.jpeg HTTP/1.1[0m" 304 -
+2026-04-05 20:53:42,021 - 127.0.0.1 - - [05/Apr/2026 20:53:42] "[36mGET /static/uploads/OIP.jpg HTTP/1.1[0m" 304 -
+2026-04-05 20:55:38,052 -  * Detected change in 'C:\\Users\\vafid\\Downloads\\AutoSystem\\AutoSystem\\app.py', reloading
+2026-04-05 20:55:39,860 -  * Restarting with stat
+2026-04-05 20:55:47,791 -  * Debugger is active!
+2026-04-05 20:55:47,794 -  * Debugger PIN: 524-347-047
+2026-04-05 20:55:51,881 -  * Detected change in 'C:\\Users\\vafid\\Downloads\\AutoSystem\\AutoSystem\\app.py', reloading
+2026-04-05 20:55:53,336 -  * Restarting with stat
+2026-04-05 20:56:01,086 -  * Debugger is active!
+2026-04-05 20:56:01,090 -  * Debugger PIN: 524-347-047
+2026-04-05 20:56:02,125 -  * Detected change in 'C:\\Users\\vafid\\Downloads\\AutoSystem\\AutoSystem\\app.py', reloading
+2026-04-05 20:56:03,100 -  * Restarting with stat
+2026-04-05 20:56:11,197 -  * Debugger is active!
+2026-04-05 20:56:11,200 -  * Debugger PIN: 524-347-047
+2026-04-05 20:56:30,575 -  * Detected change in 'C:\\Users\\vafid\\Downloads\\AutoSystem\\AutoSystem\\app.py', reloading
+2026-04-05 20:56:31,981 -  * Restarting with stat
+2026-04-05 20:56:39,872 -  * Debugger is active!
+2026-04-05 20:56:39,877 -  * Debugger PIN: 524-347-047
+2026-04-05 20:57:52,214 - 127.0.0.1 - - [05/Apr/2026 20:57:52] "GET /faculty_dashboard HTTP/1.1" 200 -
+2026-04-05 20:57:52,237 - 127.0.0.1 - - [05/Apr/2026 20:57:52] "[33mGET /static/uploads/WhatsApp%20Image%202025-11-13%20at%2012.48.04%20PM.jpeg HTTP/1.1[0m" 404 -
+2026-04-05 20:57:52,443 - 127.0.0.1 - - [05/Apr/2026 20:57:52] "[36mGET /static/uploads/16pp-05.jpg.jpeg HTTP/1.1[0m" 304 -
+2026-04-05 20:57:52,461 - 127.0.0.1 - - [05/Apr/2026 20:57:52] "[36mGET /static/uploads/WhatsApp_Image_2026-04-04_at_11.13.20_PM.jpeg HTTP/1.1[0m" 304 -
+2026-04-05 20:57:52,473 - 127.0.0.1 - - [05/Apr/2026 20:57:52] "[36mGET /static/uploads/WhatsApp_Image_2026-04-04_at_2.22.50_PM.jpeg HTTP/1.1[0m" 304 -
+2026-04-05 20:57:52,475 - 127.0.0.1 - - [05/Apr/2026 20:57:52] "[36mGET /static/uploads/OIP.jpg HTTP/1.1[0m" 304 -
+2026-04-05 20:58:01,552 - 127.0.0.1 - - [05/Apr/2026 20:58:01] "GET /faculty_dashboard?search=&class_name= HTTP/1.1" 200 -
+2026-04-05 20:58:01,578 - 127.0.0.1 - - [05/Apr/2026 20:58:01] "[33mGET /static/uploads/WhatsApp%20Image%202025-11-13%20at%2012.48.04%20PM.jpeg HTTP/1.1[0m" 404 -
+2026-04-05 20:58:01,582 - 127.0.0.1 - - [05/Apr/2026 20:58:01] "[36mGET /static/uploads/16pp-05.jpg.jpeg HTTP/1.1[0m" 304 -
+2026-04-05 20:58:01,595 - 127.0.0.1 - - [05/Apr/2026 20:58:01] "[36mGET /static/uploads/WhatsApp_Image_2026-04-04_at_11.13.20_PM.jpeg HTTP/1.1[0m" 304 -
+2026-04-05 20:58:01,597 - 127.0.0.1 - - [05/Apr/2026 20:58:01] "[36mGET /static/uploads/WhatsApp_Image_2026-04-04_at_2.22.50_PM.jpeg HTTP/1.1[0m" 304 -
+2026-04-05 20:58:01,599 - 127.0.0.1 - - [05/Apr/2026 20:58:01] "[36mGET /static/uploads/OIP.jpg HTTP/1.1[0m" 304 -
+2026-04-05 20:58:03,535 - 127.0.0.1 - - [05/Apr/2026 20:58:03] "GET /faculty_dashboard?search=&class_name= HTTP/1.1" 200 -
+2026-04-05 20:58:03,558 - 127.0.0.1 - - [05/Apr/2026 20:58:03] "[33mGET /static/uploads/WhatsApp%20Image%202025-11-13%20at%2012.48.04%20PM.jpeg HTTP/1.1[0m" 404 -
+2026-04-05 20:58:03,561 - 127.0.0.1 - - [05/Apr/2026 20:58:03] "[36mGET /static/uploads/16pp-05.jpg.jpeg HTTP/1.1[0m" 304 -
+2026-04-05 20:58:03,570 - 127.0.0.1 - - [05/Apr/2026 20:58:03] "[36mGET /static/uploads/WhatsApp_Image_2026-04-04_at_11.13.20_PM.jpeg HTTP/1.1[0m" 304 -
+2026-04-05 20:58:03,575 - 127.0.0.1 - - [05/Apr/2026 20:58:03] "[36mGET /static/uploads/OIP.jpg HTTP/1.1[0m" 304 -
+2026-04-05 20:58:03,577 - 127.0.0.1 - - [05/Apr/2026 20:58:03] "[36mGET /static/uploads/WhatsApp_Image_2026-04-04_at_2.22.50_PM.jpeg HTTP/1.1[0m" 304 -
+2026-04-05 20:58:07,045 - 127.0.0.1 - - [05/Apr/2026 20:58:07] "GET /faculty_dashboard?period=today&search=&class_name= HTTP/1.1" 200 -
+2026-04-05 20:58:07,064 - 127.0.0.1 - - [05/Apr/2026 20:58:07] "[33mGET /static/uploads/WhatsApp%20Image%202025-11-13%20at%2012.48.04%20PM.jpeg HTTP/1.1[0m" 404 -
+2026-04-05 20:58:07,068 - 127.0.0.1 - - [05/Apr/2026 20:58:07] "[36mGET /static/uploads/16pp-05.jpg.jpeg HTTP/1.1[0m" 304 -
+2026-04-05 20:58:07,078 - 127.0.0.1 - - [05/Apr/2026 20:58:07] "[36mGET /static/uploads/WhatsApp_Image_2026-04-04_at_11.13.20_PM.jpeg HTTP/1.1[0m" 304 -
+2026-04-05 20:58:07,081 - 127.0.0.1 - - [05/Apr/2026 20:58:07] "[36mGET /static/uploads/WhatsApp_Image_2026-04-04_at_2.22.50_PM.jpeg HTTP/1.1[0m" 304 -
+2026-04-05 20:58:07,084 - 127.0.0.1 - - [05/Apr/2026 20:58:07] "[36mGET /static/uploads/OIP.jpg HTTP/1.1[0m" 304 -
+2026-04-05 20:58:08,325 - 127.0.0.1 - - [05/Apr/2026 20:58:08] "GET /faculty_dashboard?period=week&search=&class_name= HTTP/1.1" 200 -
+2026-04-05 20:58:08,343 - 127.0.0.1 - - [05/Apr/2026 20:58:08] "[33mGET /static/uploads/WhatsApp%20Image%202025-11-13%20at%2012.48.04%20PM.jpeg HTTP/1.1[0m" 404 -
+2026-04-05 20:58:08,349 - 127.0.0.1 - - [05/Apr/2026 20:58:08] "[36mGET /static/uploads/16pp-05.jpg.jpeg HTTP/1.1[0m" 304 -
+2026-04-05 20:58:08,371 - 127.0.0.1 - - [05/Apr/2026 20:58:08] "[36mGET /static/uploads/WhatsApp_Image_2026-04-04_at_11.13.20_PM.jpeg HTTP/1.1[0m" 304 -
+2026-04-05 20:58:08,382 - 127.0.0.1 - - [05/Apr/2026 20:58:08] "[36mGET /static/uploads/WhatsApp_Image_2026-04-04_at_2.22.50_PM.jpeg HTTP/1.1[0m" 304 -
+2026-04-05 20:58:08,386 - 127.0.0.1 - - [05/Apr/2026 20:58:08] "[36mGET /static/uploads/OIP.jpg HTTP/1.1[0m" 304 -
+2026-04-05 20:58:09,916 - 127.0.0.1 - - [05/Apr/2026 20:58:09] "GET /faculty_dashboard?period=month&search=&class_name= HTTP/1.1" 200 -
+2026-04-05 20:58:09,935 - 127.0.0.1 - - [05/Apr/2026 20:58:09] "[33mGET /static/uploads/WhatsApp%20Image%202025-11-13%20at%2012.48.04%20PM.jpeg HTTP/1.1[0m" 404 -
+2026-04-05 20:58:09,940 - 127.0.0.1 - - [05/Apr/2026 20:58:09] "[36mGET /static/uploads/16pp-05.jpg.jpeg HTTP/1.1[0m" 304 -
+2026-04-05 20:58:09,950 - 127.0.0.1 - - [05/Apr/2026 20:58:09] "[36mGET /static/uploads/WhatsApp_Image_2026-04-04_at_2.22.50_PM.jpeg HTTP/1.1[0m" 304 -
+2026-04-05 20:58:09,950 - 127.0.0.1 - - [05/Apr/2026 20:58:09] "[36mGET /static/uploads/WhatsApp_Image_2026-04-04_at_11.13.20_PM.jpeg HTTP/1.1[0m" 304 -
+2026-04-05 20:58:09,954 - 127.0.0.1 - - [05/Apr/2026 20:58:09] "[36mGET /static/uploads/OIP.jpg HTTP/1.1[0m" 304 -
+2026-04-05 20:58:11,371 - 127.0.0.1 - - [05/Apr/2026 20:58:11] "GET /faculty_dashboard?period=all&search=&class_name= HTTP/1.1" 200 -
+2026-04-05 20:58:11,391 - 127.0.0.1 - - [05/Apr/2026 20:58:11] "[33mGET /static/uploads/WhatsApp%20Image%202025-11-13%20at%2012.48.04%20PM.jpeg HTTP/1.1[0m" 404 -
+2026-04-05 20:58:11,395 - 127.0.0.1 - - [05/Apr/2026 20:58:11] "[36mGET /static/uploads/16pp-05.jpg.jpeg HTTP/1.1[0m" 304 -
+2026-04-05 20:58:11,409 - 127.0.0.1 - - [05/Apr/2026 20:58:11] "[36mGET /static/uploads/WhatsApp_Image_2026-04-04_at_11.13.20_PM.jpeg HTTP/1.1[0m" 304 -
+2026-04-05 20:58:11,412 - 127.0.0.1 - - [05/Apr/2026 20:58:11] "[36mGET /static/uploads/WhatsApp_Image_2026-04-04_at_2.22.50_PM.jpeg HTTP/1.1[0m" 304 -
+2026-04-05 20:58:11,415 - 127.0.0.1 - - [05/Apr/2026 20:58:11] "[36mGET /static/uploads/OIP.jpg HTTP/1.1[0m" 304 -
+2026-04-05 21:05:41,074 - 127.0.0.1 - - [05/Apr/2026 21:05:41] "GET /faculty_dashboard?period=all&search=&class_name= HTTP/1.1" 200 -
+2026-04-05 21:05:41,096 - 127.0.0.1 - - [05/Apr/2026 21:05:41] "GET /static/css/style.css HTTP/1.1" 200 -
+2026-04-05 21:05:41,110 - 127.0.0.1 - - [05/Apr/2026 21:05:41] "[33mGET /static/uploads/WhatsApp%20Image%202025-11-13%20at%2012.48.04%20PM.jpeg HTTP/1.1[0m" 404 -
+2026-04-05 21:05:41,114 - 127.0.0.1 - - [05/Apr/2026 21:05:41] "[36mGET /static/uploads/16pp-05.jpg.jpeg HTTP/1.1[0m" 304 -
+2026-04-05 21:05:41,121 - 127.0.0.1 - - [05/Apr/2026 21:05:41] "[36mGET /static/uploads/WhatsApp_Image_2026-04-04_at_11.13.20_PM.jpeg HTTP/1.1[0m" 304 -
+2026-04-05 21:05:41,124 - 127.0.0.1 - - [05/Apr/2026 21:05:41] "[36mGET /static/uploads/WhatsApp_Image_2026-04-04_at_2.22.50_PM.jpeg HTTP/1.1[0m" 304 -
+2026-04-05 21:05:41,128 - 127.0.0.1 - - [05/Apr/2026 21:05:41] "[36mGET /static/uploads/OIP.jpg HTTP/1.1[0m" 304 -
+2026-04-05 21:05:53,513 - 127.0.0.1 - - [05/Apr/2026 21:05:53] "GET /faculty_dashboard?period=week&search=&class_name= HTTP/1.1" 200 -
+2026-04-05 21:05:53,539 - 127.0.0.1 - - [05/Apr/2026 21:05:53] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2026-04-05 21:05:53,541 - 127.0.0.1 - - [05/Apr/2026 21:05:53] "[33mGET /static/uploads/WhatsApp%20Image%202025-11-13%20at%2012.48.04%20PM.jpeg HTTP/1.1[0m" 404 -
+2026-04-05 21:05:53,553 - 127.0.0.1 - - [05/Apr/2026 21:05:53] "[36mGET /static/uploads/16pp-05.jpg.jpeg HTTP/1.1[0m" 304 -
+2026-04-05 21:05:53,559 - 127.0.0.1 - - [05/Apr/2026 21:05:53] "[36mGET /static/uploads/WhatsApp_Image_2026-04-04_at_11.13.20_PM.jpeg HTTP/1.1[0m" 304 -
+2026-04-05 21:05:53,563 - 127.0.0.1 - - [05/Apr/2026 21:05:53] "[36mGET /static/uploads/WhatsApp_Image_2026-04-04_at_2.22.50_PM.jpeg HTTP/1.1[0m" 304 -
+2026-04-05 21:05:53,568 - 127.0.0.1 - - [05/Apr/2026 21:05:53] "[36mGET /static/uploads/OIP.jpg HTTP/1.1[0m" 304 -
+2026-04-05 21:06:12,789 - 127.0.0.1 - - [05/Apr/2026 21:06:12] "GET /faculty_dashboard?search=roshini&class_name= HTTP/1.1" 200 -
+2026-04-05 21:06:12,809 - 127.0.0.1 - - [05/Apr/2026 21:06:12] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2026-04-05 21:06:12,814 - 127.0.0.1 - - [05/Apr/2026 21:06:12] "[36mGET /static/uploads/16pp-05.jpg.jpeg HTTP/1.1[0m" 304 -
+2026-04-05 21:06:23,517 - 127.0.0.1 - - [05/Apr/2026 21:06:23] "GET /faculty_dashboard?period=week&search=roshini&class_name= HTTP/1.1" 200 -
+2026-04-05 21:06:23,538 - 127.0.0.1 - - [05/Apr/2026 21:06:23] "[36mGET /static/uploads/16pp-05.jpg.jpeg HTTP/1.1[0m" 304 -
+2026-04-05 21:06:23,545 - 127.0.0.1 - - [05/Apr/2026 21:06:23] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2026-04-05 21:06:25,171 - 127.0.0.1 - - [05/Apr/2026 21:06:25] "GET /faculty_dashboard?period=today&search=roshini&class_name= HTTP/1.1" 200 -
+2026-04-05 21:06:25,196 - 127.0.0.1 - - [05/Apr/2026 21:06:25] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2026-04-05 21:06:25,197 - 127.0.0.1 - - [05/Apr/2026 21:06:25] "[36mGET /static/uploads/16pp-05.jpg.jpeg HTTP/1.1[0m" 304 -
+2026-04-05 21:06:27,283 - 127.0.0.1 - - [05/Apr/2026 21:06:27] "GET /faculty_dashboard?period=month&search=roshini&class_name= HTTP/1.1" 200 -
+2026-04-05 21:06:27,320 - 127.0.0.1 - - [05/Apr/2026 21:06:27] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2026-04-05 21:06:27,343 - 127.0.0.1 - - [05/Apr/2026 21:06:27] "[36mGET /static/uploads/16pp-05.jpg.jpeg HTTP/1.1[0m" 304 -
+2026-04-05 21:06:29,815 - 127.0.0.1 - - [05/Apr/2026 21:06:29] "GET /faculty_dashboard?period=week&search=roshini&class_name= HTTP/1.1" 200 -
+2026-04-05 21:06:29,839 - 127.0.0.1 - - [05/Apr/2026 21:06:29] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2026-04-05 21:06:29,845 - 127.0.0.1 - - [05/Apr/2026 21:06:29] "[36mGET /static/uploads/16pp-05.jpg.jpeg HTTP/1.1[0m" 304 -
+2026-04-05 21:06:31,755 - 127.0.0.1 - - [05/Apr/2026 21:06:31] "GET /faculty_dashboard?period=today&search=roshini&class_name= HTTP/1.1" 200 -
+2026-04-05 21:06:31,777 - 127.0.0.1 - - [05/Apr/2026 21:06:31] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2026-04-05 21:06:31,780 - 127.0.0.1 - - [05/Apr/2026 21:06:31] "[36mGET /static/uploads/16pp-05.jpg.jpeg HTTP/1.1[0m" 304 -
+2026-04-05 21:06:33,507 - 127.0.0.1 - - [05/Apr/2026 21:06:33] "GET /faculty_dashboard?period=week&search=roshini&class_name= HTTP/1.1" 200 -
+2026-04-05 21:06:33,539 - 127.0.0.1 - - [05/Apr/2026 21:06:33] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2026-04-05 21:06:33,545 - 127.0.0.1 - - [05/Apr/2026 21:06:33] "[36mGET /static/uploads/16pp-05.jpg.jpeg HTTP/1.1[0m" 304 -
+2026-04-05 21:06:36,425 - 127.0.0.1 - - [05/Apr/2026 21:06:36] "GET /faculty_dashboard?period=month&search=roshini&class_name= HTTP/1.1" 200 -
+2026-04-05 21:06:36,447 - 127.0.0.1 - - [05/Apr/2026 21:06:36] "[36mGET /static/uploads/16pp-05.jpg.jpeg HTTP/1.1[0m" 304 -
+2026-04-05 21:06:36,447 - 127.0.0.1 - - [05/Apr/2026 21:06:36] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2026-04-05 21:06:39,010 - 127.0.0.1 - - [05/Apr/2026 21:06:39] "GET /faculty_dashboard?period=all&search=roshini&class_name= HTTP/1.1" 200 -
+2026-04-05 21:06:39,035 - 127.0.0.1 - - [05/Apr/2026 21:06:39] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2026-04-05 21:06:39,040 - 127.0.0.1 - - [05/Apr/2026 21:06:39] "[36mGET /static/uploads/16pp-05.jpg.jpeg HTTP/1.1[0m" 304 -
+2026-04-05 21:08:12,336 - 127.0.0.1 - - [05/Apr/2026 21:08:12] "[32mGET /logout HTTP/1.1[0m" 302 -
+2026-04-05 21:08:12,362 - 127.0.0.1 - - [05/Apr/2026 21:08:12] "GET / HTTP/1.1" 200 -
+2026-04-05 21:08:12,385 - 127.0.0.1 - - [05/Apr/2026 21:08:12] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2026-04-05 21:12:39,010 - 127.0.0.1 - - [05/Apr/2026 21:12:39] "GET / HTTP/1.1" 200 -
+2026-04-05 21:12:39,029 - 127.0.0.1 - - [05/Apr/2026 21:12:39] "GET /static/css/style.css HTTP/1.1" 200 -
+2026-04-05 21:12:49,232 - 127.0.0.1 - - [05/Apr/2026 21:12:49] "[32mPOST /login HTTP/1.1[0m" 302 -
+2026-04-05 21:12:49,282 - 127.0.0.1 - - [05/Apr/2026 21:12:49] "GET /faculty_dashboard HTTP/1.1" 200 -
+2026-04-05 21:12:49,311 - 127.0.0.1 - - [05/Apr/2026 21:12:49] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2026-04-05 21:12:49,320 - 127.0.0.1 - - [05/Apr/2026 21:12:49] "[33mGET /static/uploads/WhatsApp%20Image%202025-11-13%20at%2012.48.04%20PM.jpeg HTTP/1.1[0m" 404 -
+2026-04-05 21:12:49,325 - 127.0.0.1 - - [05/Apr/2026 21:12:49] "[36mGET /static/uploads/16pp-05.jpg.jpeg HTTP/1.1[0m" 304 -
+2026-04-05 21:12:49,335 - 127.0.0.1 - - [05/Apr/2026 21:12:49] "[36mGET /static/uploads/WhatsApp_Image_2026-04-04_at_11.13.20_PM.jpeg HTTP/1.1[0m" 304 -
+2026-04-05 21:12:49,335 - 127.0.0.1 - - [05/Apr/2026 21:12:49] "[36mGET /static/uploads/WhatsApp_Image_2026-04-04_at_2.22.50_PM.jpeg HTTP/1.1[0m" 304 -
+2026-04-05 21:12:49,337 - 127.0.0.1 - - [05/Apr/2026 21:12:49] "[36mGET /static/uploads/OIP.jpg HTTP/1.1[0m" 304 -
+2026-04-05 21:15:26,275 - 127.0.0.1 - - [05/Apr/2026 21:15:26] "GET /faculty_dashboard HTTP/1.1" 200 -
+2026-04-05 21:15:26,299 - 127.0.0.1 - - [05/Apr/2026 21:15:26] "GET /static/css/style.css HTTP/1.1" 200 -
+2026-04-05 21:15:26,300 - 127.0.0.1 - - [05/Apr/2026 21:15:26] "[33mGET /static/uploads/WhatsApp%20Image%202025-11-13%20at%2012.48.04%20PM.jpeg HTTP/1.1[0m" 404 -
+2026-04-05 21:15:26,322 - 127.0.0.1 - - [05/Apr/2026 21:15:26] "[36mGET /static/uploads/16pp-05.jpg.jpeg HTTP/1.1[0m" 304 -
+2026-04-05 21:15:26,324 - 127.0.0.1 - - [05/Apr/2026 21:15:26] "[36mGET /static/uploads/WhatsApp_Image_2026-04-04_at_11.13.20_PM.jpeg HTTP/1.1[0m" 304 -
+2026-04-05 21:15:26,325 - 127.0.0.1 - - [05/Apr/2026 21:15:26] "[36mGET /static/uploads/WhatsApp_Image_2026-04-04_at_2.22.50_PM.jpeg HTTP/1.1[0m" 304 -
+2026-04-05 21:15:26,326 - 127.0.0.1 - - [05/Apr/2026 21:15:26] "[36mGET /static/uploads/OIP.jpg HTTP/1.1[0m" 304 -
+2026-04-05 21:15:29,185 - 127.0.0.1 - - [05/Apr/2026 21:15:29] "GET /faculty_dashboard HTTP/1.1" 200 -
+2026-04-05 21:15:29,214 - 127.0.0.1 - - [05/Apr/2026 21:15:29] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2026-04-05 21:15:29,217 - 127.0.0.1 - - [05/Apr/2026 21:15:29] "[33mGET /static/uploads/WhatsApp%20Image%202025-11-13%20at%2012.48.04%20PM.jpeg HTTP/1.1[0m" 404 -
+2026-04-05 21:15:29,229 - 127.0.0.1 - - [05/Apr/2026 21:15:29] "[36mGET /static/uploads/16pp-05.jpg.jpeg HTTP/1.1[0m" 304 -
+2026-04-05 21:15:29,231 - 127.0.0.1 - - [05/Apr/2026 21:15:29] "[36mGET /static/uploads/WhatsApp_Image_2026-04-04_at_2.22.50_PM.jpeg HTTP/1.1[0m" 304 -
+2026-04-05 21:15:29,232 - 127.0.0.1 - - [05/Apr/2026 21:15:29] "[36mGET /static/uploads/WhatsApp_Image_2026-04-04_at_11.13.20_PM.jpeg HTTP/1.1[0m" 304 -
+2026-04-05 21:15:29,243 - 127.0.0.1 - - [05/Apr/2026 21:15:29] "[36mGET /static/uploads/OIP.jpg HTTP/1.1[0m" 304 -
+2026-04-05 21:15:29,653 - 127.0.0.1 - - [05/Apr/2026 21:15:29] "GET /faculty_dashboard HTTP/1.1" 200 -
+2026-04-05 21:15:29,680 - 127.0.0.1 - - [05/Apr/2026 21:15:29] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2026-04-05 21:15:29,684 - 127.0.0.1 - - [05/Apr/2026 21:15:29] "[33mGET /static/uploads/WhatsApp%20Image%202025-11-13%20at%2012.48.04%20PM.jpeg HTTP/1.1[0m" 404 -
+2026-04-05 21:15:29,694 - 127.0.0.1 - - [05/Apr/2026 21:15:29] "[36mGET /static/uploads/WhatsApp_Image_2026-04-04_at_11.13.20_PM.jpeg HTTP/1.1[0m" 304 -
+2026-04-05 21:15:29,695 - 127.0.0.1 - - [05/Apr/2026 21:15:29] "[36mGET /static/uploads/16pp-05.jpg.jpeg HTTP/1.1[0m" 304 -
+2026-04-05 21:15:29,701 - 127.0.0.1 - - [05/Apr/2026 21:15:29] "[36mGET /static/uploads/WhatsApp_Image_2026-04-04_at_2.22.50_PM.jpeg HTTP/1.1[0m" 304 -
+2026-04-05 21:15:29,706 - 127.0.0.1 - - [05/Apr/2026 21:15:29] "[36mGET /static/uploads/OIP.jpg HTTP/1.1[0m" 304 -
+2026-04-05 21:15:29,865 - 127.0.0.1 - - [05/Apr/2026 21:15:29] "GET /faculty_dashboard HTTP/1.1" 200 -
+2026-04-05 21:15:29,889 - 127.0.0.1 - - [05/Apr/2026 21:15:29] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2026-04-05 21:15:29,892 - 127.0.0.1 - - [05/Apr/2026 21:15:29] "[33mGET /static/uploads/WhatsApp%20Image%202025-11-13%20at%2012.48.04%20PM.jpeg HTTP/1.1[0m" 404 -
+2026-04-05 21:15:29,907 - 127.0.0.1 - - [05/Apr/2026 21:15:29] "[36mGET /static/uploads/16pp-05.jpg.jpeg HTTP/1.1[0m" 304 -
+2026-04-05 21:15:29,907 - 127.0.0.1 - - [05/Apr/2026 21:15:29] "[36mGET /static/uploads/WhatsApp_Image_2026-04-04_at_11.13.20_PM.jpeg HTTP/1.1[0m" 304 -
+2026-04-05 21:15:29,908 - 127.0.0.1 - - [05/Apr/2026 21:15:29] "[36mGET /static/uploads/WhatsApp_Image_2026-04-04_at_2.22.50_PM.jpeg HTTP/1.1[0m" 304 -
+2026-04-05 21:15:29,909 - 127.0.0.1 - - [05/Apr/2026 21:15:29] "[36mGET /static/uploads/OIP.jpg HTTP/1.1[0m" 304 -
+2026-04-05 21:15:30,080 - 127.0.0.1 - - [05/Apr/2026 21:15:30] "GET /faculty_dashboard HTTP/1.1" 200 -
+2026-04-05 21:15:30,107 - 127.0.0.1 - - [05/Apr/2026 21:15:30] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2026-04-05 21:15:30,109 - 127.0.0.1 - - [05/Apr/2026 21:15:30] "[33mGET /static/uploads/WhatsApp%20Image%202025-11-13%20at%2012.48.04%20PM.jpeg HTTP/1.1[0m" 404 -
+2026-04-05 21:15:30,117 - 127.0.0.1 - - [05/Apr/2026 21:15:30] "[36mGET /static/uploads/16pp-05.jpg.jpeg HTTP/1.1[0m" 304 -
+2026-04-05 21:15:30,124 - 127.0.0.1 - - [05/Apr/2026 21:15:30] "[36mGET /static/uploads/WhatsApp_Image_2026-04-04_at_11.13.20_PM.jpeg HTTP/1.1[0m" 304 -
+2026-04-05 21:15:30,126 - 127.0.0.1 - - [05/Apr/2026 21:15:30] "[36mGET /static/uploads/WhatsApp_Image_2026-04-04_at_2.22.50_PM.jpeg HTTP/1.1[0m" 304 -
+2026-04-05 21:15:30,131 - 127.0.0.1 - - [05/Apr/2026 21:15:30] "[36mGET /static/uploads/OIP.jpg HTTP/1.1[0m" 304 -
+2026-04-05 21:15:45,707 - 127.0.0.1 - - [05/Apr/2026 21:15:45] "GET / HTTP/1.1" 200 -
+2026-04-05 21:15:45,738 - 127.0.0.1 - - [05/Apr/2026 21:15:45] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2026-04-05 21:21:29,616 - 127.0.0.1 - - [05/Apr/2026 21:21:29] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2026-04-05 21:21:29,627 - 127.0.0.1 - - [05/Apr/2026 21:21:29] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2026-04-05 21:21:29,629 - 127.0.0.1 - - [05/Apr/2026 21:21:29] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2026-04-05 21:21:29,639 - 127.0.0.1 - - [05/Apr/2026 21:21:29] "GET /?__debugger__=yes&cmd=resource&f=console.png&s=pnVzSwlzcQX3t4iYvrOZ HTTP/1.1" 200 -
+2026-04-05 21:21:29,662 - 127.0.0.1 - - [05/Apr/2026 21:21:29] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2026-04-05 21:21:30,867 - 127.0.0.1 - - [05/Apr/2026 21:21:30] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2026-04-05 21:21:30,880 - 127.0.0.1 - - [05/Apr/2026 21:21:30] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2026-04-05 21:21:30,881 - 127.0.0.1 - - [05/Apr/2026 21:21:30] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2026-04-05 21:21:30,889 - 127.0.0.1 - - [05/Apr/2026 21:21:30] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png&s=pnVzSwlzcQX3t4iYvrOZ HTTP/1.1[0m" 304 -
+2026-04-05 21:21:30,906 - 127.0.0.1 - - [05/Apr/2026 21:21:30] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2026-04-05 21:21:42,119 - 127.0.0.1 - - [05/Apr/2026 21:21:42] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2026-04-05 21:21:42,132 - 127.0.0.1 - - [05/Apr/2026 21:21:42] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2026-04-05 21:21:42,135 - 127.0.0.1 - - [05/Apr/2026 21:21:42] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2026-04-05 21:21:42,146 - 127.0.0.1 - - [05/Apr/2026 21:21:42] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png&s=pnVzSwlzcQX3t4iYvrOZ HTTP/1.1[0m" 304 -
+2026-04-05 21:21:44,451 - 127.0.0.1 - - [05/Apr/2026 21:21:44] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2026-04-05 21:21:44,464 - 127.0.0.1 - - [05/Apr/2026 21:21:44] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2026-04-05 21:21:44,465 - 127.0.0.1 - - [05/Apr/2026 21:21:44] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2026-04-05 21:21:44,474 - 127.0.0.1 - - [05/Apr/2026 21:21:44] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png&s=pnVzSwlzcQX3t4iYvrOZ HTTP/1.1[0m" 304 -
+2026-04-05 21:21:44,490 - 127.0.0.1 - - [05/Apr/2026 21:21:44] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2026-04-05 21:21:45,326 - 127.0.0.1 - - [05/Apr/2026 21:21:45] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2026-04-05 21:21:45,339 - 127.0.0.1 - - [05/Apr/2026 21:21:45] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2026-04-05 21:21:45,340 - 127.0.0.1 - - [05/Apr/2026 21:21:45] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2026-04-05 21:21:45,346 - 127.0.0.1 - - [05/Apr/2026 21:21:45] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png&s=pnVzSwlzcQX3t4iYvrOZ HTTP/1.1[0m" 304 -
+2026-04-05 21:21:45,359 - 127.0.0.1 - - [05/Apr/2026 21:21:45] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2026-04-05 21:21:45,517 - 127.0.0.1 - - [05/Apr/2026 21:21:45] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2026-04-05 21:21:45,529 - 127.0.0.1 - - [05/Apr/2026 21:21:45] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2026-04-05 21:21:45,530 - 127.0.0.1 - - [05/Apr/2026 21:21:45] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2026-04-05 21:21:45,537 - 127.0.0.1 - - [05/Apr/2026 21:21:45] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png&s=pnVzSwlzcQX3t4iYvrOZ HTTP/1.1[0m" 304 -
+2026-04-05 21:21:45,550 - 127.0.0.1 - - [05/Apr/2026 21:21:45] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2026-04-05 21:21:45,730 - 127.0.0.1 - - [05/Apr/2026 21:21:45] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2026-04-05 21:21:45,739 - 127.0.0.1 - - [05/Apr/2026 21:21:45] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2026-04-05 21:21:45,741 - 127.0.0.1 - - [05/Apr/2026 21:21:45] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2026-04-05 21:21:45,748 - 127.0.0.1 - - [05/Apr/2026 21:21:45] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png&s=pnVzSwlzcQX3t4iYvrOZ HTTP/1.1[0m" 304 -
+2026-04-05 21:21:45,762 - 127.0.0.1 - - [05/Apr/2026 21:21:45] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2026-04-05 21:21:45,922 - 127.0.0.1 - - [05/Apr/2026 21:21:45] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2026-04-05 21:21:45,932 - 127.0.0.1 - - [05/Apr/2026 21:21:45] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2026-04-05 21:21:45,933 - 127.0.0.1 - - [05/Apr/2026 21:21:45] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2026-04-05 21:21:45,940 - 127.0.0.1 - - [05/Apr/2026 21:21:45] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png&s=pnVzSwlzcQX3t4iYvrOZ HTTP/1.1[0m" 304 -
+2026-04-05 21:21:45,958 - 127.0.0.1 - - [05/Apr/2026 21:21:45] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2026-04-05 21:21:46,137 - 127.0.0.1 - - [05/Apr/2026 21:21:46] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2026-04-05 21:21:46,147 - 127.0.0.1 - - [05/Apr/2026 21:21:46] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2026-04-05 21:21:46,148 - 127.0.0.1 - - [05/Apr/2026 21:21:46] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2026-04-05 21:21:46,154 - 127.0.0.1 - - [05/Apr/2026 21:21:46] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png&s=pnVzSwlzcQX3t4iYvrOZ HTTP/1.1[0m" 304 -
+2026-04-05 21:21:46,169 - 127.0.0.1 - - [05/Apr/2026 21:21:46] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2026-04-05 21:23:28,480 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-04-05 21:23:28,480 - [33mPress CTRL+C to quit[0m
+2026-04-05 21:23:28,482 -  * Restarting with stat
+2026-04-05 21:23:35,858 -  * Debugger is active!
+2026-04-05 21:23:35,860 -  * Debugger PIN: 524-347-047
+2026-04-05 21:23:35,880 - 127.0.0.1 - - [05/Apr/2026 21:23:35] "GET / HTTP/1.1" 200 -
+2026-04-05 21:23:35,925 - 127.0.0.1 - - [05/Apr/2026 21:23:35] "GET /static/css/style.css HTTP/1.1" 200 -
+2026-04-05 21:23:35,984 - 127.0.0.1 - - [05/Apr/2026 21:23:35] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-04-05 21:23:50,921 - 127.0.0.1 - - [05/Apr/2026 21:23:50] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2026-04-05 21:23:50,936 - 127.0.0.1 - - [05/Apr/2026 21:23:50] "[33mGET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1[0m" 404 -
+2026-04-05 21:24:25,078 - 127.0.0.1 - - [05/Apr/2026 21:24:25] "[32mPOST /login HTTP/1.1[0m" 302 -
+2026-04-05 21:24:25,121 - 127.0.0.1 - - [05/Apr/2026 21:24:25] "GET /faculty_dashboard HTTP/1.1" 200 -
+2026-04-05 21:24:25,138 - 127.0.0.1 - - [05/Apr/2026 21:24:25] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2026-04-05 21:24:25,154 - 127.0.0.1 - - [05/Apr/2026 21:24:25] "[33mGET /static/uploads/WhatsApp%20Image%202025-11-13%20at%2012.48.04%20PM.jpeg HTTP/1.1[0m" 404 -
+2026-04-05 21:24:25,155 - 127.0.0.1 - - [05/Apr/2026 21:24:25] "[36mGET /static/uploads/16pp-05.jpg.jpeg HTTP/1.1[0m" 304 -
+2026-04-05 21:24:25,161 - 127.0.0.1 - - [05/Apr/2026 21:24:25] "[36mGET /static/uploads/WhatsApp_Image_2026-04-04_at_11.13.20_PM.jpeg HTTP/1.1[0m" 304 -
+2026-04-05 21:24:25,164 - 127.0.0.1 - - [05/Apr/2026 21:24:25] "[36mGET /static/uploads/WhatsApp_Image_2026-04-04_at_2.22.50_PM.jpeg HTTP/1.1[0m" 304 -
+2026-04-05 21:24:25,167 - 127.0.0.1 - - [05/Apr/2026 21:24:25] "[36mGET /static/uploads/OIP.jpg HTTP/1.1[0m" 304 -
+2026-04-05 21:24:25,174 - 127.0.0.1 - - [05/Apr/2026 21:24:25] "[33mGET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1[0m" 404 -
+2026-04-05 21:28:28,906 - 127.0.0.1 - - [05/Apr/2026 21:28:28] "GET /faculty_dashboard HTTP/1.1" 200 -
+2026-04-05 21:28:28,930 - 127.0.0.1 - - [05/Apr/2026 21:28:28] "GET /static/css/style.css HTTP/1.1" 200 -
+2026-04-05 21:28:28,930 - 127.0.0.1 - - [05/Apr/2026 21:28:28] "[33mGET /static/uploads/WhatsApp%20Image%202025-11-13%20at%2012.48.04%20PM.jpeg HTTP/1.1[0m" 404 -
+2026-04-05 21:28:28,939 - 127.0.0.1 - - [05/Apr/2026 21:28:28] "[36mGET /static/uploads/16pp-05.jpg.jpeg HTTP/1.1[0m" 304 -
+2026-04-05 21:28:28,942 - 127.0.0.1 - - [05/Apr/2026 21:28:28] "[36mGET /static/uploads/WhatsApp_Image_2026-04-04_at_11.13.20_PM.jpeg HTTP/1.1[0m" 304 -
+2026-04-05 21:28:28,946 - 127.0.0.1 - - [05/Apr/2026 21:28:28] "[36mGET /static/uploads/WhatsApp_Image_2026-04-04_at_2.22.50_PM.jpeg HTTP/1.1[0m" 304 -
+2026-04-05 21:28:28,950 - 127.0.0.1 - - [05/Apr/2026 21:28:28] "[36mGET /static/uploads/OIP.jpg HTTP/1.1[0m" 304 -
+2026-04-05 21:28:28,952 - 127.0.0.1 - - [05/Apr/2026 21:28:28] "[33mGET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1[0m" 404 -
+2026-04-05 21:28:41,634 - 127.0.0.1 - - [05/Apr/2026 21:28:41] "GET / HTTP/1.1" 200 -
+2026-04-05 21:28:41,649 - 127.0.0.1 - - [05/Apr/2026 21:28:41] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2026-04-05 21:32:22,599 - 127.0.0.1 - - [05/Apr/2026 21:32:22] "GET / HTTP/1.1" 200 -
+2026-04-05 21:32:22,612 - 127.0.0.1 - - [05/Apr/2026 21:32:22] "GET /static/css/style.css HTTP/1.1" 200 -
+2026-04-05 21:32:31,437 - 127.0.0.1 - - [05/Apr/2026 21:32:31] "[32mPOST /login HTTP/1.1[0m" 302 -
+2026-04-05 21:32:31,473 - 127.0.0.1 - - [05/Apr/2026 21:32:31] "GET /faculty_dashboard HTTP/1.1" 200 -
+2026-04-05 21:32:31,487 - 127.0.0.1 - - [05/Apr/2026 21:32:31] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2026-04-05 21:32:31,489 - 127.0.0.1 - - [05/Apr/2026 21:32:31] "[33mGET /static/uploads/WhatsApp%20Image%202025-11-13%20at%2012.48.04%20PM.jpeg HTTP/1.1[0m" 404 -
+2026-04-05 21:32:31,499 - 127.0.0.1 - - [05/Apr/2026 21:32:31] "[36mGET /static/uploads/16pp-05.jpg.jpeg HTTP/1.1[0m" 304 -
+2026-04-05 21:32:31,500 - 127.0.0.1 - - [05/Apr/2026 21:32:31] "[36mGET /static/uploads/WhatsApp_Image_2026-04-04_at_11.13.20_PM.jpeg HTTP/1.1[0m" 304 -
+2026-04-05 21:32:31,502 - 127.0.0.1 - - [05/Apr/2026 21:32:31] "[36mGET /static/uploads/WhatsApp_Image_2026-04-04_at_2.22.50_PM.jpeg HTTP/1.1[0m" 304 -
+2026-04-05 21:32:31,505 - 127.0.0.1 - - [05/Apr/2026 21:32:31] "[36mGET /static/uploads/OIP.jpg HTTP/1.1[0m" 304 -
+2026-04-05 21:32:42,435 - 127.0.0.1 - - [05/Apr/2026 21:32:42] "GET /faculty_dashboard?search= HTTP/1.1" 200 -
+2026-04-05 21:32:42,446 - 127.0.0.1 - - [05/Apr/2026 21:32:42] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2026-04-05 21:32:42,447 - 127.0.0.1 - - [05/Apr/2026 21:32:42] "[33mGET /static/uploads/WhatsApp%20Image%202025-11-13%20at%2012.48.04%20PM.jpeg HTTP/1.1[0m" 404 -
+2026-04-05 21:32:42,456 - 127.0.0.1 - - [05/Apr/2026 21:32:42] "[36mGET /static/uploads/16pp-05.jpg.jpeg HTTP/1.1[0m" 304 -
+2026-04-05 21:32:42,459 - 127.0.0.1 - - [05/Apr/2026 21:32:42] "[36mGET /static/uploads/WhatsApp_Image_2026-04-04_at_11.13.20_PM.jpeg HTTP/1.1[0m" 304 -
+2026-04-05 21:32:42,462 - 127.0.0.1 - - [05/Apr/2026 21:32:42] "[36mGET /static/uploads/WhatsApp_Image_2026-04-04_at_2.22.50_PM.jpeg HTTP/1.1[0m" 304 -
+2026-04-05 21:32:42,468 - 127.0.0.1 - - [05/Apr/2026 21:32:42] "[36mGET /static/uploads/OIP.jpg HTTP/1.1[0m" 304 -
+2026-04-05 21:34:37,600 - 127.0.0.1 - - [05/Apr/2026 21:34:37] "GET /faculty_dashboard?search= HTTP/1.1" 200 -
+2026-04-05 21:34:37,612 - 127.0.0.1 - - [05/Apr/2026 21:34:37] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2026-04-05 21:34:37,613 - 127.0.0.1 - - [05/Apr/2026 21:34:37] "[33mGET /static/uploads/WhatsApp%20Image%202025-11-13%20at%2012.48.04%20PM.jpeg HTTP/1.1[0m" 404 -
+2026-04-05 21:34:37,620 - 127.0.0.1 - - [05/Apr/2026 21:34:37] "[36mGET /static/uploads/16pp-05.jpg.jpeg HTTP/1.1[0m" 304 -
+2026-04-05 21:34:37,621 - 127.0.0.1 - - [05/Apr/2026 21:34:37] "[36mGET /static/uploads/WhatsApp_Image_2026-04-04_at_11.13.20_PM.jpeg HTTP/1.1[0m" 304 -
+2026-04-05 21:34:37,622 - 127.0.0.1 - - [05/Apr/2026 21:34:37] "[36mGET /static/uploads/WhatsApp_Image_2026-04-04_at_2.22.50_PM.jpeg HTTP/1.1[0m" 304 -
+2026-04-05 21:34:37,627 - 127.0.0.1 - - [05/Apr/2026 21:34:37] "[36mGET /static/uploads/OIP.jpg HTTP/1.1[0m" 304 -
+2026-04-05 21:34:41,944 - 127.0.0.1 - - [05/Apr/2026 21:34:41] "GET /faculty_dashboard?search= HTTP/1.1" 200 -
+2026-04-05 21:34:41,957 - 127.0.0.1 - - [05/Apr/2026 21:34:41] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2026-04-05 21:34:41,959 - 127.0.0.1 - - [05/Apr/2026 21:34:41] "[33mGET /static/uploads/WhatsApp%20Image%202025-11-13%20at%2012.48.04%20PM.jpeg HTTP/1.1[0m" 404 -
+2026-04-05 21:34:41,966 - 127.0.0.1 - - [05/Apr/2026 21:34:41] "[36mGET /static/uploads/16pp-05.jpg.jpeg HTTP/1.1[0m" 304 -
+2026-04-05 21:34:41,968 - 127.0.0.1 - - [05/Apr/2026 21:34:41] "[36mGET /static/uploads/WhatsApp_Image_2026-04-04_at_11.13.20_PM.jpeg HTTP/1.1[0m" 304 -
+2026-04-05 21:34:41,971 - 127.0.0.1 - - [05/Apr/2026 21:34:41] "[36mGET /static/uploads/WhatsApp_Image_2026-04-04_at_2.22.50_PM.jpeg HTTP/1.1[0m" 304 -
+2026-04-05 21:34:41,976 - 127.0.0.1 - - [05/Apr/2026 21:34:41] "[36mGET /static/uploads/OIP.jpg HTTP/1.1[0m" 304 -
+2026-04-05 21:34:50,377 - 127.0.0.1 - - [05/Apr/2026 21:34:50] "GET / HTTP/1.1" 200 -
+2026-04-05 21:34:50,389 - 127.0.0.1 - - [05/Apr/2026 21:34:50] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2026-04-05 21:34:51,305 - 127.0.0.1 - - [05/Apr/2026 21:34:51] "GET / HTTP/1.1" 200 -
+2026-04-05 21:34:51,317 - 127.0.0.1 - - [05/Apr/2026 21:34:51] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2026-04-05 21:34:51,530 - 127.0.0.1 - - [05/Apr/2026 21:34:51] "GET / HTTP/1.1" 200 -
+2026-04-05 21:34:51,543 - 127.0.0.1 - - [05/Apr/2026 21:34:51] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2026-04-05 21:34:51,816 - 127.0.0.1 - - [05/Apr/2026 21:34:51] "GET / HTTP/1.1" 200 -
+2026-04-05 21:34:51,828 - 127.0.0.1 - - [05/Apr/2026 21:34:51] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2026-04-05 21:34:52,342 - 127.0.0.1 - - [05/Apr/2026 21:34:52] "GET / HTTP/1.1" 200 -
+2026-04-05 21:34:52,359 - 127.0.0.1 - - [05/Apr/2026 21:34:52] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2026-04-05 21:37:56,996 - 127.0.0.1 - - [05/Apr/2026 21:37:56] "[32mPOST /login HTTP/1.1[0m" 302 -
+2026-04-05 21:37:57,010 - 127.0.0.1 - - [05/Apr/2026 21:37:57] "GET /faculty_dashboard HTTP/1.1" 200 -
+2026-04-05 21:37:57,024 - 127.0.0.1 - - [05/Apr/2026 21:37:57] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2026-04-05 21:37:57,027 - 127.0.0.1 - - [05/Apr/2026 21:37:57] "[33mGET /static/uploads/WhatsApp%20Image%202025-11-13%20at%2012.48.04%20PM.jpeg HTTP/1.1[0m" 404 -
+2026-04-05 21:37:57,035 - 127.0.0.1 - - [05/Apr/2026 21:37:57] "[36mGET /static/uploads/16pp-05.jpg.jpeg HTTP/1.1[0m" 304 -
+2026-04-05 21:37:57,036 - 127.0.0.1 - - [05/Apr/2026 21:37:57] "[36mGET /static/uploads/WhatsApp_Image_2026-04-04_at_11.13.20_PM.jpeg HTTP/1.1[0m" 304 -
+2026-04-05 21:37:57,040 - 127.0.0.1 - - [05/Apr/2026 21:37:57] "[36mGET /static/uploads/WhatsApp_Image_2026-04-04_at_2.22.50_PM.jpeg HTTP/1.1[0m" 304 -
+2026-04-05 21:37:57,046 - 127.0.0.1 - - [05/Apr/2026 21:37:57] "[36mGET /static/uploads/OIP.jpg HTTP/1.1[0m" 304 -
+2026-04-06 20:19:07,802 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-04-06 20:19:07,802 - [33mPress CTRL+C to quit[0m
+2026-04-06 20:19:07,805 -  * Restarting with stat
+2026-04-06 20:19:18,892 -  * Debugger is active!
+2026-04-06 20:19:18,896 -  * Debugger PIN: 524-347-047
+2026-04-06 20:19:18,939 - 127.0.0.1 - - [06/Apr/2026 20:19:18] "GET / HTTP/1.1" 200 -
+2026-04-06 20:19:19,032 - 127.0.0.1 - - [06/Apr/2026 20:19:19] "GET /static/css/style.css HTTP/1.1" 200 -
+2026-04-06 20:19:27,304 - 127.0.0.1 - - [06/Apr/2026 20:19:27] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-04-06 20:19:40,740 - 127.0.0.1 - - [06/Apr/2026 20:19:40] "[32mPOST /login HTTP/1.1[0m" 302 -
+2026-04-06 20:19:40,749 - 127.0.0.1 - - [06/Apr/2026 20:19:40] "GET / HTTP/1.1" 200 -
+2026-04-06 20:19:40,773 - 127.0.0.1 - - [06/Apr/2026 20:19:40] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2026-04-06 20:19:51,186 - 127.0.0.1 - - [06/Apr/2026 20:19:51] "[32mPOST /login HTTP/1.1[0m" 302 -
+2026-04-06 20:19:51,196 - 127.0.0.1 - - [06/Apr/2026 20:19:51] "GET / HTTP/1.1" 200 -
+2026-04-06 20:19:51,220 - 127.0.0.1 - - [06/Apr/2026 20:19:51] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2026-04-06 20:20:02,704 - 127.0.0.1 - - [06/Apr/2026 20:20:02] "GET /register HTTP/1.1" 200 -
+2026-04-06 20:20:02,718 - 127.0.0.1 - - [06/Apr/2026 20:20:02] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2026-04-06 20:22:45,837 - 127.0.0.1 - - [06/Apr/2026 20:22:45] "GET /register HTTP/1.1" 200 -
+2026-04-06 20:22:45,861 - 127.0.0.1 - - [06/Apr/2026 20:22:45] "GET /static/css/style.css HTTP/1.1" 200 -
+2026-04-06 20:23:34,541 - 127.0.0.1 - - [06/Apr/2026 20:23:34] "POST /register HTTP/1.1" 200 -
+2026-04-06 20:23:34,563 - 127.0.0.1 - - [06/Apr/2026 20:23:34] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2026-04-06 20:23:44,185 - 127.0.0.1 - - [06/Apr/2026 20:23:44] "GET / HTTP/1.1" 200 -
+2026-04-06 20:23:44,206 - 127.0.0.1 - - [06/Apr/2026 20:23:44] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2026-04-06 20:24:17,177 - 127.0.0.1 - - [06/Apr/2026 20:24:17] "[32mPOST /login HTTP/1.1[0m" 302 -
+2026-04-06 20:24:17,193 - 127.0.0.1 - - [06/Apr/2026 20:24:17] "GET / HTTP/1.1" 200 -
+2026-04-06 20:24:17,224 - 127.0.0.1 - - [06/Apr/2026 20:24:17] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2026-04-06 20:24:43,001 - 127.0.0.1 - - [06/Apr/2026 20:24:43] "GET / HTTP/1.1" 200 -
+2026-04-06 20:25:07,232 - 127.0.0.1 - - [06/Apr/2026 20:25:07] "[32mPOST /login HTTP/1.1[0m" 302 -
+2026-04-06 20:25:07,249 - 127.0.0.1 - - [06/Apr/2026 20:25:07] "GET / HTTP/1.1" 200 -
+2026-04-06 20:25:07,279 - 127.0.0.1 - - [06/Apr/2026 20:25:07] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2026-04-06 20:25:12,270 - 127.0.0.1 - - [06/Apr/2026 20:25:12] "GET / HTTP/1.1" 200 -
+2026-04-06 20:25:15,214 - 127.0.0.1 - - [06/Apr/2026 20:25:15] "GET /register HTTP/1.1" 200 -
+2026-04-06 20:25:15,242 - 127.0.0.1 - - [06/Apr/2026 20:25:15] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2026-04-06 20:25:52,214 - 127.0.0.1 - - [06/Apr/2026 20:25:52] "POST /register HTTP/1.1" 200 -
+2026-04-06 20:25:52,237 - 127.0.0.1 - - [06/Apr/2026 20:25:52] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2026-04-06 20:26:34,529 - 127.0.0.1 - - [06/Apr/2026 20:26:34] "POST /register HTTP/1.1" 200 -
+2026-04-06 20:26:34,553 - 127.0.0.1 - - [06/Apr/2026 20:26:34] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2026-04-06 20:26:37,765 - 127.0.0.1 - - [06/Apr/2026 20:26:37] "GET / HTTP/1.1" 200 -
+2026-04-06 20:26:37,790 - 127.0.0.1 - - [06/Apr/2026 20:26:37] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2026-04-06 20:27:10,456 - 127.0.0.1 - - [06/Apr/2026 20:27:10] "[32mPOST /login HTTP/1.1[0m" 302 -
+2026-04-06 20:27:10,475 - 127.0.0.1 - - [06/Apr/2026 20:27:10] "GET / HTTP/1.1" 200 -
+2026-04-06 20:27:10,507 - 127.0.0.1 - - [06/Apr/2026 20:27:10] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2026-04-06 20:27:21,090 - 127.0.0.1 - - [06/Apr/2026 20:27:21] "[32mPOST /login HTTP/1.1[0m" 302 -
+2026-04-06 20:27:21,111 - 127.0.0.1 - - [06/Apr/2026 20:27:21] "GET / HTTP/1.1" 200 -
+2026-04-06 20:27:21,148 - 127.0.0.1 - - [06/Apr/2026 20:27:21] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2026-04-06 20:29:14,948 -  * Detected change in 'C:\\Users\\vafid\\Downloads\\AutoSystem\\AutoSystem\\app.py', reloading
+2026-04-06 20:29:16,813 -  * Restarting with stat
+2026-04-06 20:29:26,635 -  * Debugger is active!
+2026-04-06 20:29:26,637 -  * Debugger PIN: 524-347-047
+2026-04-06 20:29:35,832 -  * Detected change in 'C:\\Users\\vafid\\Downloads\\AutoSystem\\AutoSystem\\app.py', reloading
+2026-04-06 20:29:37,332 -  * Restarting with stat
+2026-04-06 20:29:46,076 -  * Debugger is active!
+2026-04-06 20:29:46,077 -  * Debugger PIN: 524-347-047
+2026-04-06 20:30:17,655 -  * Detected change in 'C:\\Users\\vafid\\Downloads\\AutoSystem\\AutoSystem\\verify_auth.py', reloading
+2026-04-06 20:30:19,082 -  * Restarting with stat
+2026-04-06 20:30:27,379 -  * Debugger is active!
+2026-04-06 20:30:27,380 -  * Debugger PIN: 524-347-047
+2026-04-06 20:31:31,936 - 127.0.0.1 - - [06/Apr/2026 20:31:31] "GET / HTTP/1.1" 200 -
+2026-04-06 20:31:32,019 - 127.0.0.1 - - [06/Apr/2026 20:31:32] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2026-04-06 20:31:33,078 - 127.0.0.1 - - [06/Apr/2026 20:31:33] "GET / HTTP/1.1" 200 -
+2026-04-06 20:31:33,107 - 127.0.0.1 - - [06/Apr/2026 20:31:33] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2026-04-06 20:31:35,979 - 127.0.0.1 - - [06/Apr/2026 20:31:35] "GET /register HTTP/1.1" 200 -
+2026-04-06 20:31:36,000 - 127.0.0.1 - - [06/Apr/2026 20:31:36] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2026-04-06 20:32:00,809 - 127.0.0.1 - - [06/Apr/2026 20:32:00] "[32mPOST /register HTTP/1.1[0m" 302 -
+2026-04-06 20:32:00,816 - 127.0.0.1 - - [06/Apr/2026 20:32:00] "GET / HTTP/1.1" 200 -
+2026-04-06 20:32:00,838 - 127.0.0.1 - - [06/Apr/2026 20:32:00] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2026-04-06 20:32:30,480 - 127.0.0.1 - - [06/Apr/2026 20:32:30] "[32mPOST /login HTTP/1.1[0m" 302 -
+2026-04-06 20:32:30,524 - 127.0.0.1 - - [06/Apr/2026 20:32:30] "GET /faculty_dashboard HTTP/1.1" 200 -
+2026-04-06 20:32:30,548 - 127.0.0.1 - - [06/Apr/2026 20:32:30] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2026-04-06 20:32:30,550 - 127.0.0.1 - - [06/Apr/2026 20:32:30] "[33mGET /static/uploads/test.jpg HTTP/1.1[0m" 404 -
+2026-04-06 20:32:30,559 - 127.0.0.1 - - [06/Apr/2026 20:32:30] "[33mGET /static/uploads/WhatsApp%20Image%202025-11-13%20at%2012.48.04%20PM.jpeg HTTP/1.1[0m" 404 -
+2026-04-06 20:32:30,563 - 127.0.0.1 - - [06/Apr/2026 20:32:30] "[36mGET /static/uploads/16pp-05.jpg.jpeg HTTP/1.1[0m" 304 -
+2026-04-06 20:32:30,571 - 127.0.0.1 - - [06/Apr/2026 20:32:30] "[36mGET /static/uploads/WhatsApp_Image_2026-04-04_at_11.13.20_PM.jpeg HTTP/1.1[0m" 304 -
+2026-04-06 20:32:30,573 - 127.0.0.1 - - [06/Apr/2026 20:32:30] "[36mGET /static/uploads/WhatsApp_Image_2026-04-04_at_2.22.50_PM.jpeg HTTP/1.1[0m" 304 -
+2026-04-06 20:32:30,581 - 127.0.0.1 - - [06/Apr/2026 20:32:30] "[36mGET /static/uploads/OIP.jpg HTTP/1.1[0m" 304 -
+2026-04-06 20:32:54,034 - Attendance started for Computer Science - C1
+2026-04-06 20:33:17,315 - Attendance started for ECE - ECE1001
+2026-04-06 20:33:36,136 - Attendance started for ECE - ECE1001
+2026-04-06 20:33:38,222 - Attendance started for ECE - ECE1001
+2026-04-06 20:38:21,064 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-04-06 20:38:21,064 - [33mPress CTRL+C to quit[0m
+2026-04-06 20:38:21,067 -  * Restarting with stat
+2026-04-06 20:38:31,434 -  * Debugger is active!
+2026-04-06 20:38:31,436 -  * Debugger PIN: 524-347-047
+2026-04-06 20:38:31,461 - 127.0.0.1 - - [06/Apr/2026 20:38:31] "GET / HTTP/1.1" 200 -
+2026-04-06 20:38:31,563 - 127.0.0.1 - - [06/Apr/2026 20:38:31] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2026-04-06 20:38:31,642 - 127.0.0.1 - - [06/Apr/2026 20:38:31] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-04-06 20:39:04,303 - 127.0.0.1 - - [06/Apr/2026 20:39:04] "[32mPOST /login HTTP/1.1[0m" 302 -
+2026-04-06 20:39:04,310 - 127.0.0.1 - - [06/Apr/2026 20:39:04] "GET / HTTP/1.1" 200 -
+2026-04-06 20:39:04,330 - 127.0.0.1 - - [06/Apr/2026 20:39:04] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2026-04-06 20:39:29,459 - 127.0.0.1 - - [06/Apr/2026 20:39:29] "[32mPOST /login HTTP/1.1[0m" 302 -
+2026-04-06 20:39:29,490 - 127.0.0.1 - - [06/Apr/2026 20:39:29] "GET /faculty_dashboard HTTP/1.1" 200 -
+2026-04-06 20:39:29,508 - 127.0.0.1 - - [06/Apr/2026 20:39:29] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2026-04-06 20:39:29,512 - 127.0.0.1 - - [06/Apr/2026 20:39:29] "[33mGET /static/uploads/test.jpg HTTP/1.1[0m" 404 -
+2026-04-06 20:39:29,520 - 127.0.0.1 - - [06/Apr/2026 20:39:29] "[33mGET /static/uploads/WhatsApp%20Image%202025-11-13%20at%2012.48.04%20PM.jpeg HTTP/1.1[0m" 404 -
+2026-04-06 20:39:29,528 - 127.0.0.1 - - [06/Apr/2026 20:39:29] "[36mGET /static/uploads/16pp-05.jpg.jpeg HTTP/1.1[0m" 304 -
+2026-04-06 20:39:29,530 - 127.0.0.1 - - [06/Apr/2026 20:39:29] "[36mGET /static/uploads/WhatsApp_Image_2026-04-04_at_11.13.20_PM.jpeg HTTP/1.1[0m" 304 -
+2026-04-06 20:39:29,530 - 127.0.0.1 - - [06/Apr/2026 20:39:29] "[36mGET /static/uploads/WhatsApp_Image_2026-04-04_at_2.22.50_PM.jpeg HTTP/1.1[0m" 304 -
+2026-04-06 20:39:29,532 - 127.0.0.1 - - [06/Apr/2026 20:39:29] "[36mGET /static/uploads/OIP.jpg HTTP/1.1[0m" 304 -
+2026-04-06 20:39:47,893 - Camera opened successfully on index 0
+2026-04-06 20:39:47,893 - Attendance started for ECE - ECE1001
+2026-04-06 20:41:53,811 - Camera opened successfully on index 0
+2026-04-06 20:41:53,811 - Attendance started for G.S - G.S1011
+2026-04-06 20:42:06,370 - 127.0.0.1 - - [06/Apr/2026 20:42:06] "[32mPOST /login HTTP/1.1[0m" 302 -
+2026-04-06 20:42:06,386 - 127.0.0.1 - - [06/Apr/2026 20:42:06] "GET /faculty_dashboard HTTP/1.1" 200 -
+2026-04-06 20:42:06,401 - 127.0.0.1 - - [06/Apr/2026 20:42:06] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2026-04-06 20:42:06,403 - 127.0.0.1 - - [06/Apr/2026 20:42:06] "[33mGET /static/uploads/test.jpg HTTP/1.1[0m" 404 -
+2026-04-06 20:42:06,411 - 127.0.0.1 - - [06/Apr/2026 20:42:06] "[33mGET /static/uploads/WhatsApp%20Image%202025-11-13%20at%2012.48.04%20PM.jpeg HTTP/1.1[0m" 404 -
+2026-04-06 20:42:06,416 - 127.0.0.1 - - [06/Apr/2026 20:42:06] "[36mGET /static/uploads/16pp-05.jpg.jpeg HTTP/1.1[0m" 304 -
+2026-04-06 20:42:06,419 - 127.0.0.1 - - [06/Apr/2026 20:42:06] "[36mGET /static/uploads/WhatsApp_Image_2026-04-04_at_11.13.20_PM.jpeg HTTP/1.1[0m" 304 -
+2026-04-06 20:42:06,425 - 127.0.0.1 - - [06/Apr/2026 20:42:06] "[36mGET /static/uploads/WhatsApp_Image_2026-04-04_at_2.22.50_PM.jpeg HTTP/1.1[0m" 304 -
+2026-04-06 20:42:06,429 - 127.0.0.1 - - [06/Apr/2026 20:42:06] "[36mGET /static/uploads/OIP.jpg HTTP/1.1[0m" 304 -
+2026-04-06 20:42:20,630 - Camera opened successfully on index 0
+2026-04-06 20:42:20,633 - Attendance started for ECE - ECE1001
+2026-04-06 20:43:29,018 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-04-06 20:43:29,018 - [33mPress CTRL+C to quit[0m
+2026-04-06 20:43:29,020 -  * Restarting with stat
+2026-04-06 20:43:39,079 -  * Debugger is active!
+2026-04-06 20:43:39,084 -  * Debugger PIN: 524-347-047
+2026-04-06 20:43:39,110 - 127.0.0.1 - - [06/Apr/2026 20:43:39] "GET / HTTP/1.1" 200 -
+2026-04-06 20:43:39,191 - 127.0.0.1 - - [06/Apr/2026 20:43:39] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2026-04-06 20:43:39,275 - 127.0.0.1 - - [06/Apr/2026 20:43:39] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-04-06 20:43:44,878 - 127.0.0.1 - - [06/Apr/2026 20:43:44] "[32mPOST /login HTTP/1.1[0m" 302 -
+2026-04-06 20:43:44,914 - 127.0.0.1 - - [06/Apr/2026 20:43:44] "GET /faculty_dashboard HTTP/1.1" 200 -
+2026-04-06 20:43:44,937 - 127.0.0.1 - - [06/Apr/2026 20:43:44] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2026-04-06 20:43:44,939 - 127.0.0.1 - - [06/Apr/2026 20:43:44] "[33mGET /static/uploads/test.jpg HTTP/1.1[0m" 404 -
+2026-04-06 20:43:44,944 - 127.0.0.1 - - [06/Apr/2026 20:43:44] "[33mGET /static/uploads/WhatsApp%20Image%202025-11-13%20at%2012.48.04%20PM.jpeg HTTP/1.1[0m" 404 -
+2026-04-06 20:43:44,952 - 127.0.0.1 - - [06/Apr/2026 20:43:44] "[36mGET /static/uploads/16pp-05.jpg.jpeg HTTP/1.1[0m" 304 -
+2026-04-06 20:43:44,957 - 127.0.0.1 - - [06/Apr/2026 20:43:44] "[36mGET /static/uploads/WhatsApp_Image_2026-04-04_at_11.13.20_PM.jpeg HTTP/1.1[0m" 304 -
+2026-04-06 20:43:44,959 - 127.0.0.1 - - [06/Apr/2026 20:43:44] "[36mGET /static/uploads/WhatsApp_Image_2026-04-04_at_2.22.50_PM.jpeg HTTP/1.1[0m" 304 -
+2026-04-06 20:43:44,966 - 127.0.0.1 - - [06/Apr/2026 20:43:44] "[36mGET /static/uploads/OIP.jpg HTTP/1.1[0m" 304 -
+2026-04-06 20:43:56,082 - Camera opened successfully on index 0
+2026-04-06 20:43:56,082 - Attendance started for G.S - G.S1011
+2026-04-06 20:46:41,055 - 127.0.0.1 - - [06/Apr/2026 20:46:41] "[32mPOST /start_attendance HTTP/1.1[0m" 302 -
+2026-04-06 20:46:41,084 - 127.0.0.1 - - [06/Apr/2026 20:46:41] "GET /faculty_dashboard HTTP/1.1" 200 -
+2026-04-06 20:46:41,117 - 127.0.0.1 - - [06/Apr/2026 20:46:41] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2026-04-06 20:46:41,119 - 127.0.0.1 - - [06/Apr/2026 20:46:41] "[33mGET /static/uploads/test.jpg HTTP/1.1[0m" 404 -
+2026-04-06 20:46:41,132 - 127.0.0.1 - - [06/Apr/2026 20:46:41] "[33mGET /static/uploads/WhatsApp%20Image%202025-11-13%20at%2012.48.04%20PM.jpeg HTTP/1.1[0m" 404 -
+2026-04-06 20:46:41,141 - 127.0.0.1 - - [06/Apr/2026 20:46:41] "[36mGET /static/uploads/16pp-05.jpg.jpeg HTTP/1.1[0m" 304 -
+2026-04-06 20:46:41,144 - 127.0.0.1 - - [06/Apr/2026 20:46:41] "[36mGET /static/uploads/WhatsApp_Image_2026-04-04_at_11.13.20_PM.jpeg HTTP/1.1[0m" 304 -
+2026-04-06 20:46:41,150 - 127.0.0.1 - - [06/Apr/2026 20:46:41] "[36mGET /static/uploads/WhatsApp_Image_2026-04-04_at_2.22.50_PM.jpeg HTTP/1.1[0m" 304 -
+2026-04-06 20:46:41,152 - 127.0.0.1 - - [06/Apr/2026 20:46:41] "[36mGET /static/uploads/OIP.jpg HTTP/1.1[0m" 304 -

@@ -1,0 +1,96 @@
+{% extends 'base.html' %}
+{% block title %}Register - Attendance System{% endblock %}
+{% block content %}
+<div class="glass-card mx-auto" style="max-width: 600px; width: 100%;">
+    <div class="text-center mb-5">
+        <div class="mx-auto mb-4 d-flex align-items-center justify-content-center" 
+             style="width: 80px; height: 80px; font-size: 2.5rem; border-radius: 24px; background: rgba(13, 148, 136, 0.1); color: var(--brand-secondary); border: 1px solid rgba(13, 148, 136, 0.2);">
+            <i class="fa fa-user-plus"></i>
+        </div>
+        <h1 class="h2 mb-2 text-gradient">Create Account</h1>
+        <p class="text-muted">Begin your secure academic journey.</p>
+    </div>
+
+    <form action="/register" method="POST" enctype="multipart/form-data">
+        <div class="row g-3">
+            <div class="col-md-6 mb-3">
+                <label class="label-caps">Full Name</label>
+                <input class="form-control" name="name" placeholder="John Doe" minlength="2" required style="background: #fff; border-color: #e2e8f0; color: var(--text-main);">
+            </div>
+            
+            <div class="col-md-6 mb-3">
+                <label class="label-caps">Email Address</label>
+                <input type="email" class="form-control" name="email" placeholder="john@school.com" required style="background: #fff; border-color: #e2e8f0; color: var(--text-main);">
+            </div>
+        </div>
+        
+        <div class="row g-3">
+            <div class="col-md-6 mb-3">
+                <label class="label-caps">Personal Password</label>
+                <input type="password" class="form-control" name="password" placeholder="Min. 6 chars" minlength="6" required style="background: #fff; border-color: #e2e8f0; color: var(--text-main);">
+            </div>
+            
+            <div class="col-md-6 mb-3">
+                <label class="label-caps">Academy Role</label>
+                <select class="form-select" name="role" id="roleSelect" onchange="toggleStudentFields()" required style="border-radius: 12px; background: #fff; border-color: #e2e8f0; color: var(--text-main); padding: 0.85rem 1.25rem;">
+                    <option value="student">Student Explorer</option>
+                    <option value="faculty">Faculty Leader</option>
+                </select>
+            </div>
+        </div>
+        
+        <div id="studentFields" class="mt-2 pt-4 border-top border-black border-opacity-5">
+            <div class="row g-3">
+                <div class="col-md-6 mb-3">
+                    <label class="label-caps">Class / Grade</label>
+                    <input class="form-control" name="subject" id="subjectField" placeholder="e.g. 10th-A" style="background: #fff; border-color: #e2e8f0; color: var(--text-main);">
+                </div>
+                <div class="col-md-6 mb-3">
+                    <label class="label-caps">Roll Number</label>
+                    <input class="form-control" name="subject_code" id="subjectCodeField" placeholder="e.g. 24" style="background: #fff; border-color: #e2e8f0; color: var(--text-main);">
+                </div>
+            </div>
+            <div class="mb-4">
+                <label class="label-caps">Profile ID Photo</label>
+                <input type="file" name="image" id="imageField" class="form-control" accept="image/*" style="padding: 0.6rem; background: #fff; border-color: #e2e8f0; color: var(--text-main);">
+                <small class="text-muted mt-2 d-block"><i class="fa fa-info-circle me-1"></i> Required for AI face verification.</small>
+            </div>
+        </div>
+
+        <button class="btn btn-zen w-100 py-3 mt-3 shadow-lg" style="background: linear-gradient(135deg, var(--brand-secondary), #0d9488);">
+            Submit Registration
+        </button>
+    </form>
+    
+    <div class="text-center mt-4 pt-4 border-top border-black border-opacity-5">
+        <p class="text-muted small">Already registered? <a href="/" class="text-gradient fw-bold text-decoration-none" style="color: var(--brand-secondary);">Login Now</a></p>
+    </div>
+</div>
+</div>
+{% endblock %}
+
+{% block extra_js %}
+<script>
+function toggleStudentFields() {
+    var role = document.getElementById("roleSelect").value;
+    var stdFields = document.getElementById("studentFields");
+    var subj = document.getElementById("subjectField");
+    var subjCode = document.getElementById("subjectCodeField");
+    var img = document.getElementById("imageField");
+
+    if (role === 'student') {
+        stdFields.style.display = 'block';
+        if(subj) subj.required = true;
+        if(subjCode) subjCode.required = true;
+        if(img) img.required = true;
+    } else {
+        stdFields.style.display = 'none';
+        if(subj) subj.required = false;
+        if(subjCode) subjCode.required = false;
+        if(img) img.required = false;
+    }
+}
+// Trigger on page load
+toggleStudentFields();
+</script>
+{% endblock %}
